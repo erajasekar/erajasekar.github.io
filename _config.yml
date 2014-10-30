@@ -9,7 +9,7 @@ permalink:        /posts/:title/
 
 # Setup
 title:            Rajasekar Elango
-tagline:          "Reflections on programming, technology, books"
+tagline:          ""
 description:      'Reflections on programming, technology, books.'
 url:              http://erajasekar.com
 baseurl:          '/'
