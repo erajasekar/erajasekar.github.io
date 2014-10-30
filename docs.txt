@@ -1,0 +1,6 @@
+ 521  vi Gemfile.gem
+  522  bundle
+  523  mv Gemfile.gem Gemfile
+  524  bundle
+  525  sudo npm install -g grunt-cli
+  526  npm install grunt --save-dev
