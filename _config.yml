@@ -8,7 +8,7 @@ highlighter:         pygments
 permalink:        /posts/:title/
 
 # Setup
-title:            Rajasekar Elango
+title:            Rajasekar Elango's Blog
 tagline:          ""
 description:      'Reflections on programming, technology, books.'
 url:              http://erajasekar.com
