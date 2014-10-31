@@ -7,6 +7,6 @@
 
 TODOS
 
-excerpt not working
 Add feed url to top header
 google analytics tracking not working
+add robot text
