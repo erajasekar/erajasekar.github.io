@@ -2,10 +2,10 @@
 .circularProfilePic {
 	width: 200px;
 	height: 200px;
-	border-radius: 100px;
+	/*border-radius: 100px;
 	-webkit-border-radius: 100px;
-	-moz-border-radius: 100px;
-	background: url(../images/profile.png) no-repeat;
+	-moz-border-radius: 100px;*/
+	background: url(../images/profile.jpg) no-repeat;
 	/*box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);*/
@@ -16,12 +16,12 @@
 }
 
 .smallerCircularProfilePic {
-	width: 150px;
-	height: 150px;
-	border-radius: 75px;
+	width: 100px;
+	height: 100px;
+	/*border-radius: 75px;
 	-webkit-border-radius: 75px;
-	-moz-border-radius: 75px;
-	background: url(../images/profile_small.png) no-repeat;
+	-moz-border-radius: 75px;*/
+	background: url(../images/profile_small.jpg) no-repeat;
 	/*box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);*/

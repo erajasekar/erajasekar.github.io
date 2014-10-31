@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-<div class="circularProfilePic"></div>
+<img src="{{ site.baseurl }}assets/images/profile.jpg" alt="{{site.author.name}}" height="150px" width="150px" />
 
 <br>
 
