@@ -19,6 +19,9 @@ Poole is the Jekyll Butler, serving as an upstanding and effective foundation fo
 
 ### Lanyon features
 
+<br>
+
+
 In addition to the features of Poole, Lanyon adds the following:
 
 * Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
