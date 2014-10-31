@@ -11,6 +11,7 @@ If you want to run your application in HTTPS mode, you will need to get SSL cert
 
 In this post I will provide steps for generating private key, CSR (Certificate Signing Request) and importing signed certificate back to private key store using java [keytool](http://docs.oracle.com/javase/7/docs/technotes/tools/windows/keytool.html) utility
 
+<br>
 
 ***1. Generating Private Key and CSR*** 
 	

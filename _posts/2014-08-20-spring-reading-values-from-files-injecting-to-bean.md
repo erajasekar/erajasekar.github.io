@@ -13,6 +13,7 @@ Sometimes you would need to inject value for spring bean propery by reading valu
 This can be done by creating property file with values we want to inject and use spring util properties to read values into application context as properties. Then, this property value can be injected using [Spring SpEL](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/expressions.html).
 
 To demonstrate this, lets pick example of initializing Jetty `SslContextFactory` with keystore file and key store password.
+<br>
 
 First, Create a property file say `keyStorePwd.properties` with values
 

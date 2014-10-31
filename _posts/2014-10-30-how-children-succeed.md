@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Children Succeed
+title: How Children Succeed?
 date: 2014-10-30
 draft: false
 tags: book success kids psychology
@@ -9,7 +9,7 @@ analytics: true
 ---
 This post is about my reflections on the book [How Children Succeed](http://amzn.com/B0070ZLZ1G) which I recently read.  
 
-**What matters most in a child’s development for them to succeed in life?**
+###What matters most in a child’s development for them to succeed in life?
 
 We mostly think that intelligent and smart people succeed, i.e success comes to those  who score highest in school, college or competitive exams like SAT, GMAT etc. But in [How Children Succeed](http://amzn.com/B0070ZLZ1G), Paul Tough argues that the qualities that matter more for success are have to do with the ***character***. 
 
@@ -17,6 +17,7 @@ We mostly think that intelligent and smart people succeed, i.e success comes to 
 In a child’s development, what matters most is not how much information we can stuff into his/her brain in the first few years. But, instead is whether we are able to help him/her develop a very different set of qualities like **persistence, self-control, curiosity, conscientiousness, grit, and self-confidence**. Infact, possessing these qualities helps a child to get high scores in exams consistently than intelligence alone.
 
  *Economists refer to these as noncognitive skills, psychologists call them personality traits, and the rest of us sometimes think of them as character*.
+<br>
 
 Let's delve into some of these characters.
 
@@ -52,7 +53,7 @@ Curious people actively look for challenges that will stretch them, whether that
 
 Countless studies have been conducted on optimism, and the vast majority of them support the same conclusions: Optimism can have profound effects on a person’s physical health. The mere act of expecting positive outcomes and being hopeful can boost a person’s immune system, protect against harmful behaviors, prevent chronic disease, and help people cope following troubling news. 
 
-**What can we do to make our kids successful?**
+###What can we do to make our kids successful?
 
 Research suggests that these characters are cultivated in child by environment in which they grew up. So as a parent, all of us as a society - can do lot to influence development of these character strengths in children. Also it's easy to develop these skills very early in child's life and it becomes harder he or she grows into adult. It doesn't mean that it's impossible to change character. Children need to adopt a growth mindset and believe character is malleable. If we teach them to pay attention to character, then their character will transform.
 
@@ -71,7 +72,7 @@ If we want our kid to become as someone (say become a doctor), we will keep sayi
 So we should allow kids to choose their ambition, choose who they want to grow into.
 
 
-**References and Further Reading:**
+###References and Further Reading:
 
 * [How Children Succeed](http://amzn.com/B0070ZLZ1G) - Book
 * [The Key to Success](http://www.ted.com/talks/angela_lee_duckworth_the_key_to_success_grit?language=en) - Angela Duckworth's Ted talk
