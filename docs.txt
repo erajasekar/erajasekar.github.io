@@ -4,3 +4,9 @@
   524  bundle
   525  sudo npm install -g grunt-cli
   526  npm install grunt --save-dev
+
+TODOS
+
+excerpt not working
+Add feed url to top header
+google analytics tracking not working
