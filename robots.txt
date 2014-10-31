@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://erajasekar.com/sitemap.xml
