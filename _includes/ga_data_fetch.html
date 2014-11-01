@@ -1,5 +1,5 @@
 <script>
-    var jqxhr = $.ajax("http://msa-super-proxy.appspot.com/query?id=ahFzfm1zYS1zdXBlci1wcm94eXIVCxIIQXBpUXVlcnkYgICAgICAgAoM&format=json")
+    var jqxhr = $.ajax("{{ site.googleAnalyticsSuperProxyQuery }}")
           .done(function(response) {
               if (response !== undefined) {
                 var page_url = "{{ page.url }}";
