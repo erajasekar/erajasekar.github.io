@@ -11,3 +11,5 @@ I'm Rajasekar Elango, software engineer working on Java and other JVM languages.
 I share my thoughts, things I learn, things that interests me in this blog. 
 
 If you like reading these articles, you can subscribe to this blog via [RSS](http://feeds.feedburner.com/RajasekarElangosBlog).
+
+{% include follow_me.html %}
