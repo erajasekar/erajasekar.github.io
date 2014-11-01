@@ -9,5 +9,5 @@ TODOS
 
 google analytics tracking not working
 add robot text
-feed doesn't work
+
 
