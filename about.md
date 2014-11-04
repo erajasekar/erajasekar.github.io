@@ -12,7 +12,7 @@ I share my thoughts, things I learn, things that interests me in this blog.
 
 If you like reading these articles, you can subscribe to this blog via [RSS](http://feeds.feedburner.com/RajasekarElangosBlog).
 
-{% include follow_me.html %}
+{% include addthis_follow_me.html %}
 
 <br/>
 <div class="post-date" id="ga-pageviews"></div>
