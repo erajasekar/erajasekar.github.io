@@ -5,6 +5,7 @@ date: 2014-08-26
 tags: security java ssl tutorial programming
 comments: true
 analytics: true
+redirect_from: "/2014/08/generating-key-csr-certificates-for-ssl/"
 ---
 
 If you want to run your application in HTTPS mode, you will need to get SSL certificates from a valid CA (Certificate Authority) like Verisign. 

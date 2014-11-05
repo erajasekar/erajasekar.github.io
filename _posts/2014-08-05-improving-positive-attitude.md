@@ -5,6 +5,7 @@ date: 2014-08-06
 tags: book happiness optimism psychology
 comments: true
 analytics: true
+redirect_from: "/2014/08/improving-positive-attitude/"
 ---
 
 

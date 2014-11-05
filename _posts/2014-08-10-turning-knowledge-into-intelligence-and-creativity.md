@@ -3,6 +3,7 @@ layout: post
 title: Turning Knowledge into Intelligence and Creativity
 date: 2014-08-11
 tags: knowledge intelligence creativity
+redirect_from: "/2014/08/turning-knowledge-into-intelligence-and-creativity/"
 comments: true
 analytics: true
 ---

@@ -6,6 +6,7 @@ draft: false
 tags: spring java programming
 comments: true
 analytics: true
+redirect_from: "/2014/08/spring-reading-values-from-files-injecting-to-bean/"
 ---
 
 Sometimes you would need to inject value for spring bean propery by reading values from a file. Good use case for this would be injecting passwords into bean property by reading value from a file rather than hard coding password into application context xml.
