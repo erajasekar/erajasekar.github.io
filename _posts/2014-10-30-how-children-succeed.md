@@ -6,6 +6,7 @@ draft: false
 tags: book success kids psychology
 comments: true
 analytics: true
+description: 'This post is about my reflections on the book How Children Succeed which I recently read. What matters most in a child’s development for them to succeed in life?...'
 ---
 This post is about my reflections on the book [How Children Succeed](http://amzn.com/B0070ZLZ1G) which I recently read.  
 
