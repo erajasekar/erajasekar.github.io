@@ -28,6 +28,8 @@
 
   <link rel="canonical" href="{{ page.url }}" />
 
+  <meta property="og:description" content="{{ content | raw_content | strip_html | strip_newlines | condense_spaces | truncate:500 }}">
+
   <meta name="description" content="{{ site.title }} - {{ site.description }}" />
 
   <!-- optimize meta tags for facebook sharing -->
