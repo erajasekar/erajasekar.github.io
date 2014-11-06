@@ -12,10 +12,6 @@ I am passionate about technology, programming, books, music and astrology. I sha
 
 </div>
 <br/>
-
-</div>
-<br/>
-
 If you like reading these articles, you can subscribe to this blog via [RSS](http://feeds.feedburner.com/RajasekarElangosBlog).
 
 {% include addthis_follow_me.html %}
