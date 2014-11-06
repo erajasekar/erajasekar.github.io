@@ -32,4 +32,19 @@ $ jekyll server --port 9999
 
 Open [http://localhost:9999](http://localhost:9999) in your browser.
 
-
+##Customize
++ Update configurations in `_config.yml` appropriate to your site.
++ Replace `favicon.ico` , `images/profile.jpg`, `images/profile_small.jpg` in assets dir with yours.
++ If you are using github-pages to deploy updtate `CNAME` file with your domain name.
++ Update `about.md` with your details.
++ For social sharing, register your account with [AddThis](http://www.addthis.com/) and obtain code to update following files
+	{% highlight bash%} . | |-- _includes | | | |-- addthis_follow_me.html | |-- addthis_follow_me_header.html | |-- addthis_share.html
+	{% endhighlight %}
+ 
++ For disqus comments, update `disqusShortName` property in `_config.yml`.
++ For google analytics tracking, update `_includes/google_analytics.html` with your site tracking code.
++ For showing google page views in your site
+	+ Follow [Google Analytics superProxy](https://developers.google.com/analytics/solutions/google-analytics-super-proxy) guide to publish your google analytics data on google app engine.
+	+ Then update `googleAnalyticsSuperProxyQuery` property in `_config.yml`
+  
++ Start adding your own posts.
