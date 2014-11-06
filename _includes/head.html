@@ -34,16 +34,24 @@
 
   {% capture formatted_description %}{{ description | strip_html | strip_newlines  | truncate:500 }}{% endcapture %}
 
-  <meta property="og:description" content="{{ formatted_description }}">
-
   <meta name="description" content="{{ formatted_description }}" />
 
   <!-- optimize meta tags for facebook sharing -->
+  <meta property="og:description" content="{{ formatted_description }}">
   <meta property="og:title" content="{{ page.title}}" />
   <meta property="og:site_name" content="{{ site.title }}"/>
   <meta property="og:url" content="{{ site.url}}{{ page.url }}" />
   <meta property="article:author" content="{{ site.author.name }}" />
   <meta property="og:image" content="{{ site.url }}/assets/images/profile_small.jpg" />
+
+  <!-- Add twitter card meta tags for twitter sharing -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="{{ site.title }}" />
+  <meta name="twitter:title" content="{{ page.title}}" />
+  <meta name="twitter:description" content="{{ formatted_description }}" />
+  <meta name="twitter:image" content="{{ site.url }}/assets/images/profile_small.jpg" />
+  <meta name="twitter:url" content="{{ site.url}}{{ page.url }} />
+
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="/libs/jquery.js"><\/script>')</script>
