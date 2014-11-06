@@ -5,16 +5,18 @@ I actually forked this from [anandmanisankar.com](http://anandmanisankar.com/) a
 You can also fork mine and use it for your own site if you would like by following these steps.
 
 ##Setup
-1. Clone [foundation branch](https://github.com/erajasekar/blog-jekyll/tree/foundation) of this repo.
-1. Install [Jekyll](http://jekyllrb.com/)  
+* Clone [foundation branch](https://github.com/erajasekar/blog-jekyll/tree/foundation) of this repo.
+* Install [Jekyll](http://jekyllrb.com/)  
 ```bash
 $ gem install jekyll
 ```
-1. If you are deploying to github, Install github-pages gem  
+
+* If you are deploying to github, Install github-pages gem  
 ```bash
 $ gem install github-pages
 ```
-1. If you plan to customize css files, Install Grunt for compiling css to single minified file  
+
+* If you plan to customize css files, Install Grunt for compiling css to single minified file  
 ```bash
 $ sudo npm install -g grunt-cli
 $ npm install grunt --save-dev
