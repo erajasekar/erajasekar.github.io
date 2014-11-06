@@ -28,7 +28,15 @@
 
   <link rel="canonical" href="{{ page.url }}" />
 
-  <meta property="og:description" content="{{ content | raw_content | strip_html | strip_newlines | condense_spaces | truncate:500 }}">
+  {% capture description %}
+    {% if page.description %}
+        {{ page.description }}
+    {% else %}
+        {{ content | raw_content }}
+    {% endif %}
+  {% endcapture %}
+
+  <meta property="og:description" content="{{ description | strip_html | strip_newlines | condense_spaces | truncate:500 }}">
 
   <meta name="description" content="{{ site.title }} - {{ site.description }}" />
 
