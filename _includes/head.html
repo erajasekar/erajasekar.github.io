@@ -9,7 +9,7 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.author.name }} &middot; {{ site.tagline }}
+      {{ site.author.name }} &middot; {{ site.description }}
     {% else %}
       {{ page.title }} &middot; {{ site.author.name }}
     {% endif %}
@@ -28,17 +28,15 @@
 
   <link rel="canonical" href="{{ page.url }}" />
 
-  {% capture description %}
-    {% if page.description %}
-        {{ page.description }}
-    {% else %}
-        {{ content | raw_content }}
-    {% endif %}
-  {% endcapture %}
+  <!-- This code is very long to be in single line, but thats the best way to avoid unneccessary spaces -->
+  {% capture description %}{% if page.title == "Home" %}{{ site.description }}{% else %}{% if page.description %}{{ page.description }}{% else %}{{ content | raw_content }}
+  {% endif %}{% endif %}{% endcapture %}
 
-  <meta property="og:description" content="{{ description | strip_html | strip_newlines | condense_spaces | truncate:500 }}">
+  {% capture formatted_description %}{{ description | strip_html | strip_newlines  | truncate:500 }}{% endcapture %}
 
-  <meta name="description" content="{{ site.title }} - {{ site.description }}" />
+  <meta property="og:description" content="{{ formatted_description }}">
+
+  <meta name="description" content="{{ formatted_description }}" />
 
   <!-- optimize meta tags for facebook sharing -->
   <meta property="og:title" content="{{ page.title}}" />
@@ -46,7 +44,7 @@
   <meta property="og:url" content="{{ site.url}}{{ page.url }}" />
   <meta property="article:author" content="{{ site.author.name }}" />
   <meta property="og:image" content="{{ site.url }}/assets/images/profile_small.jpg" />
-  
+
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="/libs/jquery.js"><\/script>')</script>
 
