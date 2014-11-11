@@ -24,12 +24,12 @@ static site from dynamic content is brilliant. Using static site generators prov
 + Easy deployment and hosting on github pages or other hosting providers like [Heroku](https://www.heroku.com/).
 + Easy integration with social sharing like facebook, twitter and disqus comments.
  
-After bit of research narrowed down my choices to [Octopress](http://octopress.org/) based on [Jekyll](http://jekyllrb.com/)
+After bit of research narrowed down my choices to [Octopress](http://octopress.org/) based on
 and [Docpad](https://docpad.org/)
 
 ###First impressions with Octopress
 
-Octopress advertises itself as **A blogging framework for hackers.** 
+[Octopress](http://octopress.org/) is a blogging framework on top of [Jekyll](http://jekyllrb.com/) static site Generator.  Basically it encomposses Jekyll ,Jekyll plugins, Rake Tasks and Themes. 
 
 ###Experience with Docpad
 
