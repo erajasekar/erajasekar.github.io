@@ -20,4 +20,4 @@ If you like reading these articles, you can subscribe to this blog via [RSS](htt
 <div class="post-date" id="ga-pageviews"></div>
 
 ---
-This site is built with [Jekyll](http://jekyllrb.com/) using [Poole](http://getpoole.com/) framework [Laynon](http://lanyon.getpoole.com/) theme. 
+This site is built with [Jekyll](http://jekyllrb.com/) using [Poole](http://getpoole.com/) framework [Laynon](http://lanyon.getpoole.com/) theme and hosted by [GitHub](https://github.com) pages 

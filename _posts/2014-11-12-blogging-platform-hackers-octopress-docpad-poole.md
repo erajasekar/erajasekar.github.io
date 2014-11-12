@@ -11,7 +11,7 @@ In this post I will walk through my journey of discovering right blogging platfo
 When I decided to blog, I researched on next generation blogging platforms for hackers. 
 Mainstream blogging platforms like **wordpress, blogger, tumblr** are designed for naive users and aren't best for developers. 
 Because those platforms doesn't support features programmers would want like code syntax highlighting, theming using frond end frameworks, 
-markdown language support, integration with source control repositories etc.
+markdown language support, integration with source control repositories , etc.
 
 ###Static site generators:
 <br>
@@ -21,7 +21,7 @@ that takes templated dynamic content and runs it through various processors and 
 static site from dynamic content is brilliant***. Using static site generators provided these benefits and features which I was hunting for
 
 + Syntax highlighting for code snippets.
-+ Customizable layouts and themes using frontend frameworks like [Bootstrap](http://getbootstrap.com/)
++ Customizable layouts and themes using front-end frameworks like [Bootstrap](http://getbootstrap.com/)
 + Write content using Markdown language.
 + Manage code in source control like github.
 + Easy deployment and hosting on github pages or other hosting providers like [Heroku](https://www.heroku.com/), [Amazon AWS](http://aws.amazon.com/).
@@ -39,18 +39,18 @@ Basically it encompasses Jekyll ,Jekyll plugins, Rake tasks and Themes. The setu
 tweak basic configs and start creating posts as Markdown files. I was able to get a blog running in just few minutes, 
 but I wasn't satisfied with it for couple of reasons
 
-+ I wasn't pleased with default theme. I had to manually customize the CSS instead of using popular frontend frameworks 
++ I wasn't pleased with default theme. I had to manually customize the CSS instead of using popular front-end frameworks 
 like [Bootstrap](http://getbootstrap.com/), [Html5Boilerplate](http://html5boilerplate.com/)
-+ I didn't like the fact that I need to check in the octopress code itself (scripts, plugins etc.) along with my posts into source control. This will make upgrading to new version of octopress convoluted.
++ I didn't like the fact that I need to check in the octopress code itself (scripts, plugins , etc.) along with my posts into source control. This will make upgrading to new version of octopress convoluted.
 
 I didn't spend too much time with octopress, as I found that it's not much flexible and some people<sup><a href="#1.-references-on-people-migrating-from-octopress-to-docpad">1</a></sup> moved from octopress to docpad.
 
 ###Experiences with Docpad
 
 [Docpad](https://docpad.org/) is highly customizable and extensible site generation platform built with Node.js. 
-It can be used to build not just blogs, but any kind of Content Mangement System (CMS). It supports several languages like 
+It can be used to build not just blogs, but any kind of Content Management System (CMS). It supports several languages like 
 [haml](http://haml.info/), [jade](http://jade-lang.com/), [coffeekup](http://coffeekup.org/) including **markdown** and 
-has myraid of [plugins](https://docpad.org/docs/plugins) for everything you need for a blog.
+has myriad of [plugins](https://docpad.org/docs/plugins) for everything you need for a blog.
 It also comes with many prebuilt [skeletons](https://docpad.org/docs/skeletons) for theming.
 
 The plain vanilla docpad doesn't provide features I needed for blog like generating menus, labeling with tags, listing achieves
