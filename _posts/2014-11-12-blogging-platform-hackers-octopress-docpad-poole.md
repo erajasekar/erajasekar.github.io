@@ -11,7 +11,7 @@ In this post I will walk through my journey of discovering right blogging platfo
 When I decided to blog, I researched on next generation blogging platforms for hackers. 
 Mainstream blogging platforms like **wordpress, blogger, tumblr** are designed for naive users and aren't best for developers. 
 Because those platforms doesn't support features programmers would want like code syntax highlighting, theming using frond end frameworks, 
-markdown language support, integration with source control repositories , etc.
+Markdown language support, integration with source control repositories, etc.
 
 ###Static site generators:
 <br>
@@ -25,7 +25,7 @@ static site from dynamic content is brilliant***. Using static site generators p
 + Write content using Markdown language.
 + Manage code in source control like github.
 + Easy deployment and hosting on github pages or other hosting providers like [Heroku](https://www.heroku.com/), [Amazon AWS](http://aws.amazon.com/).
-+ Easy integration with social sharing like facebook, twitter and disqus comments.
++ Easy integration with social sharing like Facebook, Twitter and Disqus comments.
 + Mobile friendly response UI.
 + Highly decoupled and No vendor lock in. It's easy to migrate to a different site generator or switch different hosting provider. 
  
