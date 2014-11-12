@@ -32,7 +32,7 @@
   {% capture description %}{% if page.title == "Home" %}{{ site.description }}{% else %}{% if page.description %}{{ page.description }}{% else %}{{ content | raw_content }}
   {% endif %}{% endif %}{% endcapture %}
 
-  {% capture formatted_description %}{{ description | strip_html | strip_newlines  | truncate:500 }}{% endcapture %}
+  {% capture formatted_description %}{{ description | strip_html | strip_newlines  | truncate:300 }}{% endcapture %}
 
   <meta name="description" content="{{ formatted_description }}" />
 
