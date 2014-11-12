@@ -31,7 +31,7 @@ After bit of research narrowed down my choices to [Octopress](http://octopress.o
 
 ###Impressions with Octopress
 
-[Octopress](http://octopress.org/) (known as is *A blogging framework for hackers.*) is blogging framework on top of [Jekyll](http://jekyllrb.com/) static site generator. 
+[Octopress](http://octopress.org/) (advertised as is *A blogging framework for hackers.*) is blogging framework on top of [Jekyll](http://jekyllrb.com/) static site generator. 
 Of course, Jekyll itself could be used, but Octopress makes it easier by providing ruby scripts and themes out of the box. 
 Basically it encompasses Jekyll ,Jekyll plugins, Rake tasks and Themes. The setup process is very easy - just clone the [octopress repo](https://github.com/imathis/octopress),
 tweak basic configs and start creating posts as Markdown files. I was able to get a blog running in just few minutes, 
@@ -41,9 +41,19 @@ but I wasn't satisfied with it for couple of reasons
 like [Bootstrap](http://getbootstrap.com/), [Html5Boilerplate](http://html5boilerplate.com/)
 + I didn't like the fact that I need to check in the octopress code itself (scripts, plugins etc.) along with my posts into source control. This will make upgrading to new version of octopress convoluted.
 
+I didn't spend too much time on octopress, as I found some people <sup><a href="#1.-people-migrating-from-octopress-to-docpad">1</a></sup> moved from octopress to docpad.
+
 ###Experiences with Docpad
 
-[Docpad](https://docpad.org/) is highly customizable and extensible site generation platform built with Node.js.
+[Docpad](https://docpad.org/) is highly customizable and extensible site generation platform built with Node.js. It can be used to build any kind of Content Mangement System (CMS), not just blogs. It supports several languages like haml, jade, coffeekup including markdown and has myraid of [plugins](https://docpad.org/docs/plugins) for everything you need for a blog.
+It also comes with many prebuilt [skeletons](https://docpad.org/docs/skeletons) for theming.
+
 
 ###Moving over to Jekyll using Poole Laynon theme
+
+######1. People migrating from Octopress to Docpad
+
+[SriptyBooks.com](http://blog.scriptybooks.com/from-jekyll-octopress-to-docpad/)<br/>
+[maximilianschmitt.me](http://maximilianschmitt.me/posts/from-wordpress-to-octopress-to-docpad/)<br/>
+[ewal.net](http://www.ewal.net/2013/10/08/blogging-with-docpad/)
 
