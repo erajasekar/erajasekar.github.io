@@ -4,6 +4,7 @@ title: Log4j - Separating log lines to multiple log files.
 date: 2014-08-27
 draft: false
 tags: log4j java tutorial
+comments: true
 redirect_from: "/2014/08/log4j-separating-contents-to-multiple-log-files/"
 ---
 
