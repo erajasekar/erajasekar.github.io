@@ -3,10 +3,9 @@
 <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
 <!-- Toggleable sidebar -->
-<div class="sidebar" id="sidebar">
+<div class="sidebar" id="sidebar" itemscope itemtype="http://schema.org/Person">
   <br>
-  <div class="smallerCircularProfilePic"></div>
-   <!-- <img src="{{ site.baseurl }}assets/images/profile.jpg" alt="{{site.author.name}}" /> -->
+  <img class="smallerCircularProfilePic" itemprop="image" src="{{ site.baseurl }}assets/images/profile_small.jpg" alt="{{site.author.name}}" />
 
   <div class="sidebar-item" style="text-align:center">
     <p>{{ site.description }}</p>
@@ -39,7 +38,7 @@
     </p>
 
     <p>
-      &copy; {{ site.time | date: '%Y' }}. {{ site.author.name}} .
+      &copy; {{ site.time | date: '%Y' }}. <span itemprop="name">{{ site.author.name}}</span> .
     </p>
       All rights reserved.
   </div>

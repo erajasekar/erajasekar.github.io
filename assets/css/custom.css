@@ -16,11 +16,11 @@
 }
 
 .smallerCircularProfilePic {
-	width: 100px;
-	height: 100px;
+	width: 150px;
+	height: 150px;
 	/*border-radius: 75px;
 	-webkit-border-radius: 75px;
-	-moz-border-radius: 75px;*/
+	-moz-border-radius: 75px;
 	background: url(../images/profile_small.jpg) no-repeat;
 	/*box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
