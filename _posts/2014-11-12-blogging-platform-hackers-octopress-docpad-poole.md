@@ -87,7 +87,7 @@ Fortunately, [anandmanisankar.com](http://anandmanisankar.com/) had all the cust
 twitter, disqus comments and google analytics tracking. It also shows google analytics data like page views in posts which is pretty cool. 
 So I cloned anandmanisankar's [git repo](https://github.com/msanand/msanand.github.io) to create my own blog and migrated over my posts from Docpad. 
 The migration was pretty smooth and did not take very long. While doing this I kept basic skeleton in a separate branch so that others can easily clone and use it for their site. 
-In my next post I will provide instructions on how to setup your own site based on my project as foundation.
+In my [next post]({% post_url 2014-11-17-set-up-blog-jekyll-github-pages %}) I will provide instructions on how to setup your own site based on my project as foundation.
 
 
 ###Conclusion
