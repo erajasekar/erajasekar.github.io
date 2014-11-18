@@ -8,7 +8,8 @@ description: In this post I will provide instructions on how to setup your own b
 
 I wrote about my journey that led to choosing [Jekyll](http://jekyllrb.com/) based [Poole](http://getpoole.com/) framework
 as blogging platform for this site in my [previous post]({% post_url 2014-11-12-blogging-platform-hackers-octopress-docpad-poole %}) .
-I have kept skeleton of my site in a separate `foundation` branch for others to easily use and you are free to fork mine to use for your own site.
+I have kept skeleton of my site in a separate `foundation` branch for others to easily use. You are free to fork mine to use for your own site.
+
 In this post I will provide instructions on how to setup your own blog by using [my jekyll project](https://github.com/erajasekar/blog-jekyll) as foundation.
  <br>
 ##Setup
@@ -49,7 +50,7 @@ Then, Open [http://localhost:9999](http://localhost:9999) in your browser to vie
 + If you are using github-pages to deploy update `CNAME` file with your domain name or delete this file if you are not using custom domain.
 + Update `about.md` with your details.
 + For social sharing, register your account with [AddThis](http://www.addthis.com/) and obtain code to update  files `addthis_follow_me.html` , `addthis_follow_me_header.html` , `addthis_share.html` in `_includes` dir.
-+ For disqus comments, update `disqusShortName` property in `_config.yml` and include option `comments: true` in yaml config if your posts.
++ For disqus comments, update `disqusShortName` property in `_config.yml` and include option `comments: true` in yaml header of your posts.
 + For google analytics tracking, set up google analytics account for your site and update `_includes/google_analytics.html` with your site tracking code.
 + For showing google analytics data like page views in your site
 	+ Follow [Google Analytics superProxy](https://developers.google.com/analytics/solutions/google-analytics-super-proxy) guide to publish your google analytics data on to google app engine.
@@ -60,7 +61,7 @@ Then, Open [http://localhost:9999](http://localhost:9999) in your browser to vie
 
 You might want to keep working in progress posts as drafts until it is ready to be published. So to create posts as drafts
 simply keep them in `_drafts` dir and Jekyll will ignore them when building site. To preview your drafts locally just 
-use ***--drafts*** option like `jekyll serve --port 9999 --drafts` and jekyll will show your drafts.
+use ***--drafts*** option like `jekyll serve --port 9999 --drafts` and jekyll will include your drafts in local site.
 
 ##Importing existing blogs to Jekyll
 
@@ -70,7 +71,7 @@ There is also [wordpress plugin](https://github.com/benbalter/wordpress-to-jekyl
 
 One common problem when migrating from existing blogs could be the permalink structure might be different in your old blog.
 For eg: wordpress uses the format `~/YYYY/MM/title`, but this site uses simple format `posts/title`.
-You don't want to break the links of your posts you shared everywhere TODO.
+You don't want to break the links of your posts you shared publicly in internet.
 
 There are two possible solutions to preserve your links:
 
@@ -103,3 +104,4 @@ If you would to setup your own custom domain for your blog,
 
 <img  src="{{ site.baseurl }}assets/images/namecheap-dns-settings.png" alt="erajasekar.com dns settings in namecheap.com" />
 
+Now, you have got your own blog similar to this site.
