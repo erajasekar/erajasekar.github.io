@@ -78,3 +78,5 @@ Be aware of me always, adore me, make every act an offering to me, and you shall
 
 But again, there is something called divine grace. Suppose I was ignorant and I did a few things wrong. If I shed bitter tears and cry for forgiveness, then naturally God's compassion will dawn on me. When a person enters into the spiritual life, his karma can easily be nullified if it is the Will of God operating through a spiritual Master. Slowly God's infinite grace can nullify the results of his bad karma and expedite the results of his good karma.
 
+http://www.bhagavad-gita.org/Gita/chapter-18.html
+http://www.srichinmoy.org/polski/node/3159
