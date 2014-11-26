@@ -5,12 +5,13 @@ date: 2014-11-27
 tags: karma philosophy spirituality
 comments: true
 analytics: true
+description: We have heard about law of karma or cause and effect. If we had committed bad actions in past inevitably that will bring bad consequences in present life. In this post I will provide spiritual answer to how to deal with influences of bad karma
 ---
 
 We have heard about **law of karma** or *cause and effect*. Every action we do generates a force of energy that returns to us in kind. If we had committed bad actions in past (or in previous birth) inevitably that will bring bad consequences in present life.
 
 My brother wrote an article about [Astrology and Theory of Karma](http://innovativeastrosolutions.wordpress.com/2014/03/31/astrology-and-theory-of-karma/).
-This is follow up on that article providing spritual answer to how to deal with influences of bad karma based on learnings from [Seven Spiritual Laws of Success Book](http://www.amazon.com/Seven-Spiritual-Laws-Success-Fulfillment-ebook/dp/B005BY3XHC/)
+This is follow up on that article providing spiritual answer to how to deal with influences of bad karma based on learnings from [Seven Spiritual Laws of Success Book](http://www.amazon.com/Seven-Spiritual-Laws-Success-Fulfillment-ebook/dp/B005BY3XHC/)
 <br/>
 
 ###How can we deal with influences of past Karma?
