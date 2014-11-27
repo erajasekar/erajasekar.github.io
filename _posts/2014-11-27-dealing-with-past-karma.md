@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How can we deal with influences of past karma
+title: How can we deal with influences of past karma?
 date: 2014-11-27
 tags: karma philosophy spirituality book
 comments: true
