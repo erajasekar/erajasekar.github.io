@@ -39,7 +39,7 @@ If I shed bitter tears and cry for forgiveness, then naturally God's compassion 
 When a person enters into the spiritual life, his karma can be nullified if it is the Will of God operating through a spiritual Master.
 Slowly God's infinite grace can nullify the results of his bad karma.
 
-Like many practices of a spiritual nature, this is easier said than done and requires it extreme devotion.
+Like many practices of a spiritual nature, this is easier said than done and it requires extreme devotion.
 
 Here is quotes from teachings of ***Lord Sri Krishna Paramatma*** in *Chapter 18 Freedom & Renunciation*
 
