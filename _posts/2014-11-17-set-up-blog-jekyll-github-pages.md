@@ -3,6 +3,7 @@ layout: post
 title: Setting up your blog using Jekyll and hosting it on github
 date: 2014-11-17
 tags: jekyll blogging github
+comments: true
 description: In this post I will provide instructions on how to setup your own blog by using my jekyll project as foundation and deploying to github pages.
 ---
 
