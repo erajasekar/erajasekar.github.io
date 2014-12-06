@@ -3,6 +3,7 @@ layout: post
 title: Setting up your blog using Jekyll and hosting it on github
 date: 2014-11-17
 tags: jekyll blogging github
+comments: true
 description: In this post I will provide instructions on how to setup your own blog by using my jekyll project as foundation and deploying to github pages.
 ---
 
@@ -51,6 +52,7 @@ Then, Open [http://localhost:9999](http://localhost:9999) in your browser to vie
 + Update `about.md` with your details.
 + For social sharing, register your account with [AddThis](http://www.addthis.com/) and obtain code to update  files `addthis_follow_me.html` , `addthis_follow_me_header.html` , `addthis_share.html` in `_includes` dir.
 + For disqus comments, update `disqusShortName` property in `_config.yml` and include option `comments: true` in yaml header of your posts.
++ To enable facebook comments, create new app for your website at [developer page](http://developer.facebook.com) and update `facebookDevAppId` property in `_config.yml` with app id. If you don't want to include facebook comments, simply comment this property.
 + For google analytics tracking, set up google analytics account for your site and update `_includes/google_analytics.html` with your site tracking code.
 + For showing google analytics data like page views in your site
 	+ Follow [Google Analytics superProxy](https://developers.google.com/analytics/solutions/google-analytics-super-proxy) guide to publish your google analytics data on to google app engine.
