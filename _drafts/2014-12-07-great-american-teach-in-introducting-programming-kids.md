@@ -31,6 +31,10 @@ I thought If I get to meet with older students, they might already know some stu
 
 ###Presentation Day
 ####Schedule
+I was requested to come in between 12pm to 2pm on the day of the presentation. I was scheduled
+for three sessions 12-12:30pm, 1-1:30pm. 1:30-2pm with 5th grade, 3rd grade and 4th grade students respectively.
+12-12:30pm was lunch break and they had good snacks.
+
 ####Content
 ####Q&A                 
 
