@@ -33,9 +33,31 @@ I thought If I get to meet with older students, they might already know some stu
 ####Schedule
 I was requested to come in between 12pm to 2pm on the day of the presentation. I was scheduled
 for three sessions 12-12:30pm, 1-1:30pm. 1:30-2pm with 5th grade, 3rd grade and 4th grade students respectively.
-12-12:30pm was lunch break and they had good snacks.
 
-####Content
+
+####Presentation
+Here is transcript of actual talk I presented to students.
+
+[Slide 1](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=1)
+
+> I am Rajasekar Elango
+	
+[Slide 2](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=2)
+
+> I am a Software Developer at Salesforce.com
+	
+[Slide 3](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=2)
+
+> <http://lightbot.com/> (Age 4-8 & 9 and up)<br/>
+> http://scratch.mit.edu/ (Age 5-15)
+> http://www.greenfoot.org/door (Age 10-15)
+> http://code.org
+> Python-Kids-Playful-Introduction-Programming
+> Hello World!: Computer Programming for Kids and Other Beginners 
+> Lego mind storms (Age 8-15)
+
+	
+
 ####Q&A                 
 
 ###Feedback
