@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing programming to kids
+title: Explaining programming to kids
 date: 2014-12-07
 tags: kids programming teaching
 comments: true
@@ -8,7 +8,7 @@ description: I got wonderful opportunity to participate in great american teach-
 ---
 
 I got wonderful opportunity to participate in great american teach-in at Morgan woods elementary school, Tampa. 
-I did presentation on ***introduction to programming*** to 3rd to 5th grade students.
+I did presentation on ***explaining to programming*** to 3rd to 5th grade students.
 In this post, I will share by experiences on talking to kids about programming and discussions I had with them.
 
 ###Preparation
@@ -82,15 +82,6 @@ Here is transcript of actual talk I presented to students.
 
 > So all the videos, music and textual information you see in computers are store as just 0's and 1's in hardware. Bytes or Gigabytes is unit for measuring memory just like pounds for weight, ounces for liquid etc.
 
-
-> <http://lightbot.com/> (Age 4-8 & 9 and up)<br/>
-> http://scratch.mit.edu/ (Age 5-15)
-> http://www.greenfoot.org/door (Age 10-15)
-> http://code.org
-> Python-Kids-Playful-Introduction-Programming
-> Hello World!: Computer Programming for Kids and Other Beginners 
-> Lego mind storms (Age 8-15)
-
 ######[Slide 6](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=6) : How many of you like pets?
 
 > I asked, How many of you like pets? Many raised their hands. I continued, 
@@ -99,13 +90,30 @@ Here is transcript of actual talk I presented to students.
 
 ######[Slide 7](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=7) : Why I like programming?
 
-> *I love making things for other people to use.* For eg. This powerpoint presentation was developed by some software engineer that is by millions of people.
+> *I love making things for other people to use.* For eg. This powerpoint presentation was developed by some software engineer that is used by millions of people.
 
 > *I like solving puzzles.* It's like a puzzle before you have a solution. Once you find a solution, you will feel the pride of solving complex puzzle.
 
-> *I like experimenting and research.* Software programming is like conducting experiments, you will try something, if it doesn't work scratch that off and try different approach. It's also like doing research, you have to search the web, read the documentation, refer the books to come up with solution.
+> *I like experimenting and research.* Software programming is like conducting experiments, you will try something, if it doesn't work scratch that off and try different solution. It's also like doing research, you have to search the web, read the documentation, refer the books to come up with solution.
 
-	
+> *I enjoy continuous learning.* Software programming requires continous learning of new technologies, programming language etc. There is always something exciting to learn.
+
+> *Right mix of creativity (Arts) and logic (Engineering)* When chooing a career, some may be interested in Arts like becoming a Musician, Poet or an Artist, and some may be interested in engineering that requires math and science skills. Software programming utilizes right mix both skills. Writing a program is an art like composing a music at the same time it needs applying logical skills to solve the problem.
+
+> *No cost of raw materials* Unlike other professions, it doesn't require any investment cost of raw materials. All you need is a computer and time to do programming.
+
+> *Work from anywhere internet is available* I can pretty much work from anywhere internet is available like for eg startbucks. In our company we have flexibility to work from home every thursday. So I don't have to commute to office and simply work from home for a day every week.
+
+######[Slide 8](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=8) : Resources for learning programming
+ 
+> <http://lightbot.com/> (Age 4-8 & 9 and up)<br/>
+> <http://scratch.mit.edu/> (Age 5-15)<br/>
+> <http://www.greenfoot.org/door/> (Age 10-15)<br/>
+> <http://code.org/><br/>
+> [Python-Kids-Playful-Introduction-Programming](http://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076)<br/>
+> [Hello World!: Computer Programming for Kids and Other Beginners]( http://amzn.com/1617290920)<br/>
+> [Lego mind storms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) (Age 8-15)<br/>
+> <https://www.khanacademy.org/> - ***Khan academy is great site to learn anything, not just programming***
 
 ####Q&A                 
 
