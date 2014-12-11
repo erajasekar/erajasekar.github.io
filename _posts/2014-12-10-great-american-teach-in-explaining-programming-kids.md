@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Explaining programming to kids at great american teach-in
-date: 2014-12-07
+date: 2014-12-10
 tags: kids programming teaching
 comments: true
 description: I got wonderful opportunity to participate in great american teach-in at local school in tampa. I did presentation on explaining programming to 3rd to 5th grade students. In this post, I will share by experiences on talking to kids about programming and conversations I had with them.
