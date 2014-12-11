@@ -48,9 +48,9 @@ Here is the rough transcript of actual talk I presented to students.
 
 >We have laptop from HP here (that was the laptop I was using for presentation). If there is some problem with this laptop and you call support, they will use CRM software to track all the information. When you call them again, they can pull up history of all the conversations you had with them earlier.
 
-> Also, a sales or marketting agent meets lots of potential customers to demo their product; They will use a CRM software to save all the information about customers like their contact numbers, email etc. This will help them to easily follow up with customers to check if they are interested in purchasing the product.
+> Also, a sales or marketing agent meets lots of potential customers to demo their product; They will use a CRM software to save all the information about customers like their contact numbers, email etc. This will help them to easily follow up with customers to check if they are interested in purchasing the product.
 
-> CRM is also used to store exisiting customer information. For eg. by knowing customer's date of birth, company can send a birthday wishes to their customer which can improve their relationship with customers.
+> CRM is also used to store existing customer information. For eg. by knowing customer's date of birth, company can send a birthday wishes to their customer which can improve their relationship with customers.
 
 	
 ######[Slide 3](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=3) : Are Computers Smart?
@@ -64,7 +64,7 @@ Here is the rough transcript of actual talk I presented to students.
 ######[Slide 4](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=4) : What is Computer Programming?
 
 > *Computers are really stupid but fast.* (this triggered huge laughter in 5th grade class). <br/>
-> *Humans is smart, but slow.*  <br/> If I ask you to do mutiplication of two four digit numbers, you might need more than two minutes, but computers can do in nano seconds.
+> *Humans is smart, but slow.*  <br/> If I ask you to do multiplication of two four digit numbers, you might need more than two minutes, but computers can do in nano seconds.
 
 > ***Programming is the act of taking complicated human ideas and breaking them down into simple enough instructions that a computer can understand and follow.*** <br/> Then the computer can perform your idea super-fast for you.
  
@@ -89,7 +89,7 @@ Here is the rough transcript of actual talk I presented to students.
 
 > I asked, How many of you like pets? Many raised their hands. I continued, 
 > 
->  In some way computers are like pets. Once we learn to communicate with pets, once they can understand us, we can make them do whatever we want.  Once we learn computers language i.e programming we can make it do whatever we want (ofcourse with some limitation).
+>  In some way computers are like pets. Once we learn to communicate with pets, once they can understand us, we can make them do whatever we want.  Once we learn computers language i.e programming we can make it do whatever we want (of course with some limitation).
 
 ######[Slide 7](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=7) : Why I like programming?
 
@@ -99,13 +99,13 @@ Here is the rough transcript of actual talk I presented to students.
 
 > *I like experimenting and research.* - Software programming is like conducting experiments, you will try something, if it doesn't work scratch that off and try different solution. It's also like doing research, you have to search the web, read the documentation, refer the books to come up with a solution.
 
-> *I enjoy continuous learning.* - Software programming requires continous learning of new technologies, programming language etc. There is always something exciting to learn.
+> *I enjoy continuous learning.* - Software programming requires continuous learning of new technologies, programming language etc. There is always something exciting to learn.
 
-> *Right mix of creativity (Arts) and logic (Engineering)* - When chooing a career, some may be interested in Arts like becoming a Musician, Poet or an Artist, and some may be interested in engineering that requires math and science skills. Software programming utilizes right mix both skills. Writing a program is an art like composing a music at the same time it needs applying logical skills to solve the problem.
+> *Right mix of creativity (Arts) and logic (Engineering)* - When choosing a career, some may be interested in Arts like becoming a Musician, Poet or an Artist, and some may be interested in engineering that requires math and science skills. Software programming utilizes right mix both skills. Writing a program is an art like composing a music at the same time it needs applying logical skills to solve the problem.
 
 > *No cost of raw materials* - Unlike other professions, it doesn't require any investment cost of raw materials. All you need is a computer and time to do programming.
 
-> *Work from anywhere internet is available* - I can pretty much work from anywhere internet is available like for eg. in startbucks. In our company we have flexibility to work from home every thursday. So I don't have to commute to office and can simply work from home for one day every week.
+> *Work from anywhere internet is available* - I can pretty much work from anywhere internet is available like for eg. in starbucks. In our company we have flexibility to work from home every thursday. So I don't have to commute to office and can simply work from home for one day every week.
 
 ######[Slide 8](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=8) : Resources for learning programming
  
