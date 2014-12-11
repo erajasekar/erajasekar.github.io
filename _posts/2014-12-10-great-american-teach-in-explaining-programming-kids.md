@@ -4,7 +4,7 @@ title: Explaining programming to kids at great american teach-in
 date: 2014-12-10
 tags: kids programming teaching
 comments: true
-description: I got wonderful opportunity to participate in great american teach-in at local school in tampa. I did presentation on explaining programming to 3rd to 5th grade students. In this post, I will share by experiences on talking to kids about programming and conversations I had with them.
+description: I got wonderful opportunity to participate in great american teach-in at local school in Tampa. I did presentation on explaining programming to 3rd to 5th grade students. In this post, I will share by experiences on talking to kids about programming and conversations I had with them.
 ---
 
 I got wonderful opportunity to participate in great american teach-in at Morgan woods elementary school, Tampa. 
@@ -122,7 +122,7 @@ Here is the rough transcript of actual talk I presented to students.
 
 I let them ask question at the end of presentation. There wasn't much questions from 3rd graders. I guess it may have been too advanced for their age to get it. 4th and 5th graders asked lot of questions and some of the questions I can recollect are:
 
-> How long you been doing this..?<br/>
+> How long have you been doing this..?<br/>
 > Have you created your own website?<br/>
 > Do you build computers?<br/>
 > Is your job Fun?<br/>
