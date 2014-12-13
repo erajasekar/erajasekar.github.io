@@ -24,8 +24,8 @@ As usual I searched web to get some ideas and found very good tips from [this](h
 Then I put together these slides:
 <iframe src="//www.slideshare.net/slideshow/embed_code/41810550?startSlide=1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
-I wasn't sure which grade students I would be talking to, so as a backup I included additional slides with highlights from 
-*The Five Elements of Effective Thinking* [Book](http://amzn.com/0691156662) and *How children succeed? article* I wrote [before]({% post_url 2014-10-30-how-children-succeed %}).
+I wasn't sure which grade students I will be talking to, so as a backup I included additional slides with highlights from 
+*The Five Elements of Effective Thinking* [Book](http://amzn.com/0691156662) and *How children succeed? article* I wrote [previously]({% post_url 2014-10-30-how-children-succeed %}).
 I thought If I get to meet with older students, they might already know some stuff about programming, so I can glance through programming slides quickly and talk about these additional stuff.
  
 
@@ -141,13 +141,13 @@ After couple of days, I received thank you letters from students along with a pi
 
 I didn't really expect this and I was surprised. The students wrote themselves whatever they felt about the presentation. Some of them had also had drawn nice pictures. Most the students thanked for the presentation, wrote they liked it and wanted me to come again. Some of the them quoted the phrases I spoke and asked follow up questions. I was glad that many were able to grasp and remember the information I presented.
  
-###Takeaways
+###What could be done better?
 
-When reflecting back on this, I could do some changes to improve the presentation. 
+When reflecting back on this, I can think of some changes I could do to make this presentation better for next time. 
 
 * I could skip talking about CRM in introduction slide as it might not be interesting to kids.
 
-* I should come up with better reasons to say *"Why programming in fun for kids?"*. Although I managed to answer this question when a kid asked me, the reasons I think it's fun for me may not be fun for kids.
+* I should come up with better reasons to say *"Why programming in fun for kids?"*. Although I managed to answer this question when a student asked me, the reasons I think it's fun for me may not be fun for kids.
 
 * I should talk about *"How learning in school is applied at work and How it will be useful to them"*. I personally think
 > How we learn is more important than what we learn.
