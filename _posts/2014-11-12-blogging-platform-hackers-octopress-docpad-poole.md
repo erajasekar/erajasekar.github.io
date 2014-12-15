@@ -97,7 +97,7 @@ Docpad is very flexible and extensible to create any kind of site. But it is mor
 Poole provides right mix of essential blogging features, beautiful themes and flexibility for customization. I feel it is the best platform for my needs.
 
 
-######1. References on people migrating from Octopress to Docpad
+###1. References on people migrating from Octopress to Docpad
 
 [SriptyBooks.com](http://blog.scriptybooks.com/from-jekyll-octopress-to-docpad/)<br/>
 [maximilianschmitt.me](http://maximilianschmitt.me/posts/from-wordpress-to-octopress-to-docpad/)<br/>
