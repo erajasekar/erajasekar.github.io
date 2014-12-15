@@ -48,6 +48,11 @@
           checkbox.checked = false;
         }, false);
       })(document);
+
+      $(document).ready(function() {
+          $('.toc').toc({ listType: 'ul' , title: 'Table of Contents' });
+      });
+
     </script>
 
     {% include ga_data_fetch.html %}

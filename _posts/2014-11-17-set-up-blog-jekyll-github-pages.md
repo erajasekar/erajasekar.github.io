@@ -14,20 +14,20 @@ I have kept skeleton of my site in a separate `foundation` branch for others to 
 In this post I will provide instructions on how to setup your own blog by using [my jekyll project](https://github.com/erajasekar/blog-jekyll) as foundation.
  <br>
 ##Setup
-#####1. Clone `foundation` branch of [blog-jekyll](https://github.com/erajasekar/blog-jekyll/tree/foundation) repo.
+###1. Clone `foundation` branch of [blog-jekyll](https://github.com/erajasekar/blog-jekyll/tree/foundation) repo.
 * Install [Jekyll](http://jekyllrb.com/)  
 
 ```bash
 $ gem install jekyll
 ```
 
-#####2. If you are deploying to github, Install github-pages gem  
+###2. If you are deploying to github, Install github-pages gem  
 
 ```bash
 $ gem install github-pages
 ```
 
-#####3. If you plan to customize css files, Install Grunt for compiling css to single minified file  
+###3. If you plan to customize css files, Install Grunt for compiling css to single minified file  
 
 ```bash
 $ sudo npm install -g grunt-cli
