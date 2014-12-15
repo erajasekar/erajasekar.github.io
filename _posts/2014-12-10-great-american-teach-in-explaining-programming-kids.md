@@ -38,11 +38,11 @@ for three sessions 12-12:30pm, 1-1:30pm. 1:30-2pm with 5th grade, 3rd grade and 
 ####Presentation
 Here is the rough transcript of actual talk I presented to students.
 
-######[Slide 1](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=1) : Greeting
+#####Greeting : [Slide 1](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=1) 
 
 > I am Rajasekar Elango. How is everyone?
 	
-######[Slide 2](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=2) : Introduction
+#####Introduction : [Slide 2](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=2)  
 
 > I am a Software Developer at Salesforce.com. We deliver *Customer Relationship Management* (CRM) products on the cloud. ***CRM*** is a system for managing a company's interactions with current and future customers. 
 
@@ -53,7 +53,7 @@ Here is the rough transcript of actual talk I presented to students.
 > CRM is also used to store existing customer information. For eg. by knowing customer's date of birth, company can send a birthday wishes to their customer which can improve their relationship with customers.
 
 	
-######[Slide 3](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=3) : Are Computers Smart?
+#####Are Computers Smart? : [Slide 3](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=3) 
 
 > I asked, *How many of you think computers are smarts..?* Many students raised their hands and I asked couple of them why they think computers are smart. 
 
@@ -61,7 +61,7 @@ Here is the rough transcript of actual talk I presented to students.
 
 > (I said, *exactly* and continued with next slide)
 
-######[Slide 4](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=4) : What is Computer Programming?
+#####What is Computer Programming? : [Slide 4](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=4) 
 
 > *Computers are really stupid* (this triggered huge laughter in 5th grade class). *But it is very fast.* <br/>
 > *Humans is smart, but slow.*  <br/> If I ask you to do multiplication of two four digit numbers, you might need more than two minutes, but computers can do in nano seconds.
@@ -72,7 +72,7 @@ Here is the rough transcript of actual talk I presented to students.
  
 > It can also repeat it many times. For eg. If I ask you to do multiplication all day long, you will be bored. But once you write a program to solve a problem, computers can repeat it over and over again.
 
-######[Slide 5](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=4) : Binary
+#####Binary : [Slide 5](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=4) 
 
 > I just said computers are stupid, but the actual hardware - the chips inside computers can actually understand only 0's and 1's - refered as ***binary***. I asked, *How many of you know what is GB or MB mean in iphone or computers?* Few answered correctly. I continued,
 
@@ -87,13 +87,13 @@ Here is the rough transcript of actual talk I presented to students.
 > 
 > *Software programs are written in language humans can understand and then they are converted into binary that computers can understand to execute them.*
 
-######[Slide 6](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=6) : How many of you like pets?
+#####How many of you like pets? : [Slide 6](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=6)
 
 > I asked, *How many of you like pets?* Many raised their hands. I continued, 
 > 
 >  Yeah, one of the reason we like pets is that, Once we learn to communicate with pets, once they can understand us, we can make them do whatever we tell. So in some way computers are like pets. Once we learn computers language i.e programming we can make it do whatever we want (of course with some limitation).
 
-######[Slide 7](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=7) : Why I like programming?
+#####Why I like programming? : [Slide 7](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=7)
 
 > *I love making things for other people to use.* - For eg. This powerpoint presentation was developed by some software engineer that is used by millions of people.
 
@@ -109,7 +109,7 @@ Here is the rough transcript of actual talk I presented to students.
 
 > *Work from anywhere internet is available* - I can pretty much work from anywhere internet is available like for eg. in starbucks. In our company we have flexibility to work from home every thursday. So I don't have to commute to office and can simply work from home for one day every week.
 
-######[Slide 8](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=8) : Resources for learning programming
+#####Resources for learning programming : [Slide 8](http://www.slideshare.net/slideshow/embed_code/41810550?startSlide=8)
  
 > <http://lightbot.com/> (Age 4-8 & 9 and up)<br/>
 > <http://scratch.mit.edu/> (Age 5-15)<br/>
