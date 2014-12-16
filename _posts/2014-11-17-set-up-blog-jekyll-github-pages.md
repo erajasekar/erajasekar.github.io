@@ -3,6 +3,7 @@ layout: post
 title: Setting up your blog using Jekyll and hosting it on github
 date: 2014-11-17
 tags: jekyll blogging github
+toc: ol
 comments: true
 description: In this post I will provide instructions on how to setup your own blog by using my jekyll project as foundation and deploying to github pages.
 ---
@@ -14,20 +15,20 @@ I have kept skeleton of my site in a separate `foundation` branch for others to 
 In this post I will provide instructions on how to setup your own blog by using [my jekyll project](https://github.com/erajasekar/blog-jekyll) as foundation.
  <br>
 ##Setup
-#####1. Clone `foundation` branch of [blog-jekyll](https://github.com/erajasekar/blog-jekyll/tree/foundation) repo.
+###Clone `foundation` branch of [blog-jekyll](https://github.com/erajasekar/blog-jekyll/tree/foundation) repo.
 * Install [Jekyll](http://jekyllrb.com/)  
 
 ```bash
 $ gem install jekyll
 ```
 
-#####2. If you are deploying to github, Install github-pages gem  
+###If you are deploying to github, Install github-pages gem  
 
 ```bash
 $ gem install github-pages
 ```
 
-#####3. If you plan to customize css files, Install Grunt for compiling css to single minified file  
+###If you plan to customize css files, Install Grunt for compiling css to single minified file  
 
 ```bash
 $ sudo npm install -g grunt-cli
@@ -58,6 +59,18 @@ Then, Open [http://localhost:9999](http://localhost:9999) in your browser to vie
 	+ Follow [Google Analytics superProxy](https://developers.google.com/analytics/solutions/google-analytics-super-proxy) guide to publish your google analytics data on to google app engine.
 	+ Then, update `googleAnalyticsSuperProxyQuery` property in `_config.yml`
 + Now you can begin writing your own posts.
+
+##Configuration Options
+
+###Adding table of contents
+
+If you would to add table of contents like this post, add property `toc: ol` (for ordered list) or `toc: ul` (for unordered list) in yaml header of your posts.
+
+If you don't want table of contents, simply remove `toc` property from header of your posts.
+
+###Including comments
+
+The property `comments: true` should be added to yaml header of your posts to include comments to end of the post. If `comments` is not present or set to `false`, comments won't be included. 
 
 ##Working with Drafts
 
