@@ -8,7 +8,7 @@ description: In this post I will provide quick tip on how to use dynamic propert
 ---
 
 Groovy provides a nice utility [ConfigSlurper](http://groovy.codehaus.org/ConfigSlurper) for reading configuration files 
-where settings can be different for different environment.
+where settings can be overridden to different values for different environments.
 
 Let me illustrate it with a quick example, Given this `EnvironmentConfigSimple.groovy` :
 
@@ -42,9 +42,9 @@ println new ConfigSlurper("prod").parse(EnvironmentConfigSimple.class).available
 
 ```
 
-Let's say we want to add a property *logRetentionBytes* : maximum size of data that a topic-partition can hold alloted
-from *availableDiskSpaceForData*. It can be computed dynamically based on availableDiskSpaceForData by partitioning it by
-total number of topic-partitions. We can do something like this
+Let's say we want to add a property *logRetentionBytes : maximum size of data that a topic/partition can hold allotted
+from availableDiskSpaceForData*. It can be computed dynamically by dividing *availableDiskSpaceForData* by
+total number of topic/partitions. We can do something like this
 
 ```groovy
 numberOfTopics = 4
@@ -70,7 +70,7 @@ environments {
 }
 ```
 
-Here is output value for *logRetentionBytes* reading using ConfigSlurper
+Here is output value of *logRetentionBytes* reading using ConfigSlurper
 
 ```groovy
 println new ConfigSlurper("dev").parse(EnvironmentConfigSimple.class).logRetentionBytes; //Outputs: 64 
@@ -81,12 +81,13 @@ println new ConfigSlurper("prod").parse(EnvironmentConfigSimple.class).logRetent
 
 ```
  
-This works. But the code is duplicated and hard to maintain. If we have more of such dynamic properties, it will make it even worse.
-It will be great if computation logic is written once and dynamically evaluated. Groovy's [Eval](http://www.intelligrape.com/blog/evaluating-expressions-with-groovy-util-eval/)
+This works. But the code is duplicated and it will be hard to maintain. If we have more dynamic properties, it will make it even worse.
+It will be neat if computation logic is written once and dynamically evaluated. Groovy's [Eval](http://www.intelligrape.com/blog/evaluating-expressions-with-groovy-util-eval/)
 utility can do the trick.
 
-Here is the revised `EnvironmentConfigDynamic.groovy` that uses *calculationParams* to define properties that will be used as input
-and *calculatedProperties* to define dynamically computed properties.
+We can refactor above environment config to add  `calculationParams` property to define properties that will be used as input params and `calculatedProperties` property to define dynamically computed properties.
+
+Here is the revised `EnvironmentConfigDynamic.groovy` 
 
 ```groovy
 calculationParams {
@@ -111,22 +112,20 @@ environments {
 }
 ```
 
-Now, we will add *evaluateCalculatedProperties* method that reads *calculatedProperties* properties from groovy *ConfigObject*
-and evaluates them using *calculationParams* as input
+Now, we can write `evaluateCalculatedProperties` method that reads *calculatedProperties* properties from groovy *ConfigObject*
+and evaluates them using *calculationParams* as input. Then it adds result back to *ConfigObject*.
 
 ```groovy
 private ConfigObject evaluateCalculatedProperties(ConfigObject config) {
     config.calculatedProperties.flatten().each { k, v ->
-           // println("Evaluating: ${k} == > ${v}");
             def value = Eval.me("calculationParams", config.calculationParams, v.toString());
-           // println("Evaluated: ${k} == > ${value}");
             config.put(k, value);
         }
     return config;
 }
 ```
 
-Finally we can read value of *logRetentionBytes* reading using ConfigSlurper by calling *evaluateCalculatedProperties* method
+Finally, we can pass result of ConfigSlurper to  *evaluateCalculatedProperties* method to get value of computed *logRetentionBytes* 
 
 ```groovy
 
@@ -138,3 +137,6 @@ println evaluateCalculatedProperties(new ConfigSlurper("prod").parse(Environment
 
 ```
 
+###Source Code:
+ 
+The complete source code of examples in this post is available in [github](https://github.com/erajasekar/groovy-dynamic-properties).
