@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Groovy - Dynamic properties in Config Slurper
-date: 2014-12-17
+date: 2014-12-24
 tags: groovy programming github
 comments: true
 description: In this post I will provide quick tip on how to use dynamic properties in groovy config slurper.
 ---
 
+In this post I will provide quick tip on how to use dynamic properties in Groovy Config Slurper. 
 Groovy provides a nice utility [ConfigSlurper](http://groovy.codehaus.org/ConfigSlurper) for reading configuration files 
 where settings can be overridden to different values for different environments.
+<br>
 
 Let me illustrate it with a quick example, Given this `EnvironmentConfigSimple.groovy` :
 
@@ -137,6 +139,16 @@ println evaluateCalculatedProperties(new ConfigSlurper("prod").parse(Environment
 
 ```
 
+###Real world use case:
+
+We use apache *[kafka](http://kafka.apache.org/) -- A high-throughput distributed messsaging system* at my work. The messages
+are persisted into disk divided into number of topics and partitions. Kafka supports setting retention policy of messages (*logRetentionBytes*) only
+at topic-partition level, so we dynamically configure *logRetentionBytes* based on available disk space and number of topics and partitions.
+We also use this approach to dynamically configure bunch of [kafka configuration properties](http://kafka.apache.org/documentation.html#brokerconfigs) 
+based on hardware/OS settings of different environments.
+
+
 ###Source Code:
  
 The complete source code of examples in this post is available in [github](https://github.com/erajasekar/groovy-dynamic-properties).
+
