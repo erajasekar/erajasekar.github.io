@@ -4,7 +4,7 @@ title: 'Nikola Tesla : Greatest genius - Inventor of the Electronic Age'
 date: 2014-12-24
 tags: history scientist inventor 
 comments: true
-toc: ol
+toc: ul
 description: Nikola Tesla's inventions, patents, and theoretical work formed the basis of AC electricity, and contributed to the development of radio, television and many modern electrical inventions. I feel his story is important for anyone interested in history of invention and hence this blog post.
                                                                                           
 ---
@@ -12,7 +12,7 @@ I read inspiring story about Nikola Tesla from book [Awakening your inner genius
 is a greatest genius who invented the electronic age of twentieth century.  His inventions, patents, and theoretical work formed the basis of modern AC electricity, 
 and contributed to the development of radio, television and many electrical inventions. I feel his story is important for anyone interested in history of invention and hence this blog post.
 
-##Why Nikola Tesla is Great Genius?
+##Synopsis
  
 If you think about genius behind the light bulb (first invention of electronic age), most people appreciate [Thomas Alva Edison](http://en.wikipedia.org/wiki/Thomas_Edison) . 
 But visionary named [Nikola Tesla](http://en.wikipedia.org/wiki/Nikola_Tesla) was the major contributor to the electrical revolution that transformed daily life at the turn of the twentieth century.
@@ -23,7 +23,7 @@ Few months after Tesla died in 1943, the Supreme Court overturned Marconi's pate
 
 So with this incredible mind and all these inventions behind him, Tesla should have been rich and famous, right?
 Unfortunately, no. Tesla lived in a time when the world demanded results that were practical and profitable. 
-Unlike Edison he could not commercialize and run business with his inventions. So he died penniless and alone at New Yorker Hotel. 
+Unlike Edison he could not commercialize and run business with his inventions. So he died penniless and alone at New Yorker Hotel. Tesla's story is really facinating.
 
 **Lary Page** CEO of **Google** said Nikola Tesla is his childhood hero. When he was twelve, Page read a biography of Tesla and found the story troubling. *“He was one of the greatest inventors, but it’s a sad, sad story,”* he said. While choosing college, he made a point of majoring in business as well as computer science, partly because he knew cautionary tale of Tesla. 
 
@@ -32,21 +32,67 @@ Nikola Tesla was born in 1856 in Smiljan, Croatia, then part of the Austro-Hunga
 
 In 1882, while on a walk, he came up with the idea for a brushless AC motor, making the first sketches of its rotating electromagnets in the sand of the path. Tesla took the first step to make it a reality: he relocated to Paris to work for the Continental Edison Company installing lighting systems in commercial properties. 
 
-A year later, he built the first prototype of his visionary alternating current motor, which worked exactly as he had conceived it in his mind. He tried to find investor for this radical device, but no one could understand the device and didn't see the commercial value in it and rejected him.Tesla was undaunted. He concluded that the only way he could realize his motor was to meet the world’s greatest electrical engineer, Thomas Edison, directly and he immigrated to the United States.
+A year later, he built the first prototype of his visionary alternating current motor, which worked exactly as he had conceived it in his mind. He tried to find investor for this radical device, but no one could understand the device and didn't see the commercial value in it and rejected him.Tesla was undaunted. He concluded that the only way he could realize his motor was to meet the world’s greatest electrical engineer, Thomas Edison, directly and he immigrated to the United States in 1984.
 
 
 ##War Of Currents
 
-###Edison's Direct Current
+###Edison's Direct Current System
 
+In 1882, Edison had patented a system for electricity distribution using direct current generators. He already established a profitable electric power distribution system using *Direct current*. Edison’s breakthrough was a modern miracle despite having serious limitations. 
+The generators had no efficient way to change the voltage of direct current circuits, so generation plants could only serve customers within a two-mile radius. Thus, it was unlikely that this form of electricity would ever be available. 
 
 ###Tesla working for Edison
 
-###Tesla's partnership Westinghouse
+Direct current was barely a decade old when Tesla shook hands with Edison. So, when Tesla explained that alternating current would be the future of electricity, Edison dismissed it as fanciful and unnecessary. Direct current was getting the job done, people liked it, and it was making Edison and his financier, J.P. Morgan, exorbitant sums of money. Edison liked Tesla and hired him to work for his company. Within several months, Tesla was one of Edison’s most valuable engineers, and was solving some of the company’s most difficult problems. Edison referred to him as a “damn good man.”
 
-###Proving AC at World's Columbian Exposition - Chicago
+In 1885, Tesla informed Edison that he could greatly improve his direct current generators by redesigning key elements. Edison thought it impossible and promised Tesla $ 50,000 if he could deliver on his claims. Tesla worked tirelessly to improve the generators, installing parts of his own design. Once completed, his generators were a vast improvement over Edison’s. Edison was thoroughly impressed, but when Tesla asked to be paid, Edison laughed and claimed he was only joking about the reward. “Tesla, you don’t understand our American humor,” he said. Instead, Edison offered Tesla a raise of $ 10 more per week.  Tesla was disgusted and immediately resigned. This was the beginning of a lifelong feud between these two great inventors
 
-###Niagara power plant
+###Tesla's partnership with Westinghouse
+
+In November 1887, Tesla filed for seven U.S. patents for his inventions, which were so original that they were issued without challenge. These patents comprised a complete system of generators, transformers, transmission lines, motors, and lighting. They would become the most valuable patents since the telephone. 
+
+George Westinghouse, the inventor of railroad air brakes had a dream of providing electricity throughout the entire United States, and he believed that alternating current was the future of electrical generation and long-distance transmission. Westinghouse visited Tesla’s lab and made an offer for his patents: $ 25,000 in cash, $ 50,000 in stock in his company, and a royalty of $ 2.50 per horsepower of alternating current motors sold. Tesla happily accepted.  if his motors were going to be as successful as he and Westinghouse envisioned, the royalties alone would make him one of the richest men in the world. 
+
+###Edison's campaign against Alternating Current
+
+Edison knew that direct current would have to stamp out alternating current to survive. More personally , he was heavily invested both financially and emotionally in his direct current network of generators and distribution lines. Edison carried out a campaign to discourage the use of alternating current, including spreading disinformation on fatal AC accidents, publicly killing animals, and lobbying against the use of AC in state legislatures. Edison directed his technicians to preside over several AC-driven killings of animals, primarily stray cats and dogs but also unwanted cattle and horses. Acting on these directives, they were to demonstrate to the press that alternating current was more dangerous than Edison's system of direct curre
+
+In this we can see the necessity of being willing to fight for your creations. Morgan and Edison weren’t satisfied with trying to ruin Tesla through capitalistic competition— they were resorting to outright depravity and dishonesty. Imagine the pressure Tesla faced: both the world’s most powerful financier— one of the last enemies you’d want— and the world’s greatest inventor were trying to draw a bead on him and pull the trigger. Most men would’ve quietly resigned, or begged for scraps, but not Tesla.
+
+
+###Proving Alternating Current at World's Columbian Exposition
+
+Disgusted by Edison’s shameless cruelty and dishonesty, Tesla began performing regular exhibitions of his technology in his laboratory in which he lighted lamps by allowing alternating current electricity to flow through his body. Public opinion swung to and fro, unsure of whom to believe.
+
+In 1893, George Westinghouse won the bid to electrify the World's Columbian Exposition in Chicago with alternating current. Because of the efficiency of Tesla’s inventions, Westinghouse’s proposal was half of what Edison’s newly formed *General Electric* company required for the job.
+
+> On the evening of May 1, 1893, over 27 million people anxiously awaited to see the future of electricity. When President Grover Cleveland pushed a button, over 100,000 lamps, wired to 12 new thousand-horsepower alternating current generators, turned night to day. Attendees looked on in awe, dubbing the wonder the “City of Light.”
+
+During the fair, Tesla amazed the millions of fairgoers by allowing electricity to flow through his body to illuminate light bulbs. He even demonstrated wireless energy by lighting lamps that had no wires. It was a key event in the history of AC power, as Westinghouse demonstrated the safety, reliability, and efficiency of alternating current to the American public. 
+
+Alternating current won an opportunity to once and for all prove its value.
+Within a week, the entire nation was raving about alternating current as the future of electricity.
+
+
+##Niagara power plant
+
+Westinghouse was contacted late in 1893 by the Niagara Falls Commission, which had been charged with developing a power plant that would harness the force of the falls.
+It was a dream project for Tesla, and Westinghouse was awarded the contract. Construction began immediately, and Tesla would oversee it. After six years, the venture approached completion and ready for operation. 
+
+>When the switch was thrown, The first power reached Buffalo at midnight November 16, 1896, nearly 22 miles away
+
+Plans were immediately set in motion to power all of New York City with the station. Tesla was praised worldwide as a hero, and was referred to as the “Wizard of the West.”
+
+##Selflessness Tesla gives ups his royalties to save westinghouse 
+
+Morgan spread rumors to Wall Street that Westinghouse’s company was financially unstable, which dissuaded investors from giving Westinghouse the capital that he needed to expand the production and installation of his alternating current generators. Morgan then began an attack through stock manipulation, and moved to gain control of The Westinghouse Corporation, and thus Tesla’s patents.
+
+By the end of 1897, Westinghouse was nearly bankrupt. Westinghouse owed Tesla over $ 1 million in royalties, an amount that grew daily. When Westinghouse described to Tesla the desperate situation, Tesla replied with the following:
+
+> Mr. Westinghouse, you have been my friend, you believed in me when others had no faith; you were brave enough to go ahead when others lacked courage; you supported me when even your own engineers lacked vision. … Here is your contract, and here is my contract . I will tear them both to pieces, and you will no longer have any troubles from my royalties.
+
+In time, these royalties would’ve made Tesla the world’s first billionaire. Instead, they enabled Westinghouse to save his company. Tesla’s selflessness was a testament not only to his generosity and goodwill, but his belief in his ability to continue to create his future. He was certain that his best work still lay ahead of him, and that he would soon invent machines that would dwarf everything that he had accomplished thus far.
 
 ##Invention of Radio
 
