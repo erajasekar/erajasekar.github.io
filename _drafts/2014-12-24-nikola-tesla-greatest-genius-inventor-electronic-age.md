@@ -2,42 +2,49 @@
 layout: post
 title: 'Nikola Tesla : Greatest genius - Inventor of the Electronic Age'
 date: 2014-12-24
-tags: kids programming teaching
+tags: history scientist inventor 
 comments: true
-toc: ul
-description: I read inspiring story about **Nikola Tesla** from book Awakening your inner genius. Nikola Tesla is a greatest genius who invented the electronic age of twentieth century.  His inventions, patents, and theoretical work formed the basis of modern AC electricity, and contributed to the development of radio and television. I feel his story is important for anyone interested in history of invention. 
+toc: ol
+description: Nikola Tesla's inventions, patents, and theoretical work formed the basis of AC electricity, and contributed to the development of radio, television and many modern electrical inventions. I feel his story is important for anyone interested in history of invention and hence this blog post.
                                                                                           
 ---
-I read inspiring story on Nikola Tesla from book [Awakening your inner genius](http://amzn.com/1938895150). **Nikola Tesla**
+I read inspiring story about Nikola Tesla from book [Awakening your inner genius](http://amzn.com/1938895150). **Nikola Tesla**
 is a greatest genius who invented the electronic age of twentieth century.  His inventions, patents, and theoretical work formed the basis of modern AC electricity, 
-and contributed to the development of radio, television and many electrical items. I feel his story is important for anyone interested in history of invention.
+and contributed to the development of radio, television and many electrical inventions. I feel his story is important for anyone interested in history of invention and hence this blog post.
 
 ##Why Nikola Tesla is Great Genius?
  
-If you think about genius behind the lamp (first invention of electronic age), most people appreciate [Thomas Alva Edison](http://en.wikipedia.org/wiki/Thomas_Edison) . 
+If you think about genius behind the light bulb (first invention of electronic age), most people appreciate [Thomas Alva Edison](http://en.wikipedia.org/wiki/Thomas_Edison) . 
 But visionary named [Nikola Tesla](http://en.wikipedia.org/wiki/Nikola_Tesla) was the major contributor to the electrical revolution that transformed daily life at the turn of the twentieth century.
-He invented the **Alternative Current** and system for generating electricity and distributing it households. 
+He invented the **Alternative Current** and developed complete system for generating electricity and distributing it households. 
 
 Most of us still believe **Guglielmo Marconi** to be inventor of **Radio**, but everything he did was based on Tesla's work.
-Few months after Tesla died in 1943, the Supreme Court overturned Marconi's patent and declared Tesla as inventor or Radio.
-
-Tesla obtained around 300 patents worldwide for his inventions. Many of the modern electronic things like Electric Motor, Remote Control, Wireless Communications , Robotics were invented and demonstrated by Tesla long before they were commercialized.
+Few months after Tesla died in 1943, the Supreme Court overturned Marconi's patent and declared Tesla as inventor or Radio. Tesla obtained around 300 patents worldwide for his inventions. Tesla’s work laid the ground for everything from lasers to radios, remote controls to wireless.
 
 So with this incredible mind and all these inventions behind him, Tesla should have been rich and famous, right?
 Unfortunately, no. Tesla lived in a time when the world demanded results that were practical and profitable. 
-Unlike Edison he could not commercialize his inventions. So he died penniless and alone at New Yorker Hotel.
+Unlike Edison he could not commercialize and run business with his inventions. So he died penniless and alone at New Yorker Hotel. 
+
+**Lary Page** CEO of **Google** said Nikola Tesla is his childhood hero. When he was twelve, Page read a biography of Tesla and found the story troubling. *“He was one of the greatest inventors, but it’s a sad, sad story,”* he said. While choosing college, he made a point of majoring in business as well as computer science, partly because he knew cautionary tale of Tesla. 
 
 ##Early life of Tesla
+Nikola Tesla was born in 1856 in Smiljan, Croatia, then part of the Austro-Hungarian Empire. Tesla studied math and physics at the Technical University of Graz and philosophy at the University of Prague. 
+
+In 1882, while on a walk, he came up with the idea for a brushless AC motor, making the first sketches of its rotating electromagnets in the sand of the path. Tesla took the first step to make it a reality: he relocated to Paris to work for the Continental Edison Company installing lighting systems in commercial properties. 
+
+A year later, he built the first prototype of his visionary alternating current motor, which worked exactly as he had conceived it in his mind. He tried to find investor for this radical device, but no one could understand the device and didn't see the commercial value in it and rejected him.Tesla was undaunted. He concluded that the only way he could realize his motor was to meet the world’s greatest electrical engineer, Thomas Edison, directly and he immigrated to the United States.
+
 
 ##War Of Currents
 
 ###Edison's Direct Current
 
+
 ###Tesla working for Edison
 
 ###Tesla's partnership Westinghouse
 
-###Provoing AC at World's Columbian Exposition - Chicago
+###Proving AC at World's Columbian Exposition - Chicago
 
 ###Niagara power plant
 
