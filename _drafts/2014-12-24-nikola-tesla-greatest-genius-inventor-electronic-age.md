@@ -25,7 +25,6 @@ So with this incredible mind and all these inventions behind him, Tesla should h
 Unfortunately, no. Tesla lived in a time when the world demanded results that were practical and profitable. 
 Unlike Edison he could not commercialize and run business with his inventions. So he died penniless and alone at New Yorker Hotel. Tesla's story is really facinating.
 
-**Lary Page** CEO of **Google** said Nikola Tesla is his childhood hero. When he was twelve, Page read a biography of Tesla and found the story troubling. *“He was one of the greatest inventors, but it’s a sad, sad story,”* he said. While choosing college, he made a point of majoring in business as well as computer science, partly because he knew cautionary tale of Tesla. 
 
 ##Early life of Tesla
 Nikola Tesla was born in 1856 in Smiljan, Croatia, then part of the Austro-Hungarian Empire. Tesla studied math and physics at the Technical University of Graz and philosophy at the University of Prague. 
@@ -96,9 +95,23 @@ In time, these royalties would’ve made Tesla the world’s first billionaire. 
 
 ##Invention of Radio
 
+In 1898, Tesla announced his latest invention: a way to remotely control machines with radio technology. Tesla demonstrated a radio-controlled boat—which he dubbed "teleautomaton"—to the public during an electrical exhibition at Madison Square Garden. Tesla tried to sell his idea to the U.S. military as a type of radio-controlled torpedo, but they showed little interest.
+
+In 1904, the U.S. Patent Office stripped Tesla of his radio patents and awarded them to the Italian inventor Guglielmo Marconi, instead. Marconi had used radio technology pioneered by Tesla 11 years earlier to transmit the letter “s” in morse code over 2,000 miles, which gave him no claim to the patents, of course. What did give him claim, though? He had the financial backing of Morgan, Edison, and steel baron Andrew Carnegie, all of whom held sway in every level of government.
+
+Marconi was awarded a Nobel Prize in 1911 for his “achievements” in radio, and was hailed as the “father of radio.” Tesla was infuriated and, in 1915, sued Marconi for infringement on his patents. He didn’t have the money to take on the flush Marconi, however, and the suit was dismissed. In the same year, it was announced that Tesla and Edison were potential laureates to share the Nobel Prize of 1915. Both men refused to accept the award together, or separately if the other were to receive it first.
+
+Few months after Tesla died in 1943, nearly three decades after Tesla began the fight for Radio patent, the U.S. Supreme Court confirmed that Marconi’s radio patents indeed infringed on Tesla’s and therefore declared Tesla as the true “father of radio.”
+
+
 ##Wireless Electricity
 
 
+##Later Inventions
+
+##Larry Page and Tesla
+
+**Lary Page** CEO of **Google** said Nikola Tesla is his childhood hero. When he was twelve, Page read a biography of Tesla and found the story troubling. *“He was one of the greatest inventors, but it’s a sad, sad story,”* he said. While choosing college, he made a point of majoring in business as well as computer science, partly because he knew cautionary tale of Tesla. 
 
 ---
 
