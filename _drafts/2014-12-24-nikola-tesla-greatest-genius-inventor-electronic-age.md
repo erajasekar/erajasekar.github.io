@@ -14,7 +14,7 @@ and contributed to the development of radio, television and many electrical inve
 
 ##Synopsis
  
-If we think about genius behind the light bulb or father of electrical age, most people appreciate [Thomas Alva Edison](http://en.wikipedia.org/wiki/Thomas_Edison) . 
+If we think about genius behind the light bulb or father of electrical age, most people appreciate [Thomas Alva Edison](http://en.wikipedia.org/wiki/Thomas_Edison). 
 But visionary named [Nikola Tesla](http://en.wikipedia.org/wiki/Nikola_Tesla) was the major contributor to the electrical revolution that transformed daily life at the turn of the twentieth century.
 He invented the **Alternative Current** and developed complete system for generating electricity and distributing it to households. He built first hydroelectric plant at Niagara Falls and proved this type of power is practical energy source.
 
@@ -22,7 +22,7 @@ Most of us still believe **Guglielmo Marconi** as the inventor of **Radio**, but
 Few months after Tesla died in 1943, the Supreme Court overturned Marconi's patent and declared Tesla as inventor or Radio. Tesla obtained around 300 patents worldwide for his inventions. Tesla’s work laid the ground for everything from lasers to radios, remote controls to wireless.
 
 So with this incredible mind and all these inventions behind him, Tesla should have been rich and famous, right?
-Unfortunately, no. Tesla lived in a time when the world demanded results that were practical and profitable. Tesla's contributions were not incremental; they were revolutionary. Tesla wanted to provide free wireless electricity to entire planet, while others commercialized their inventions and become rich. So he died penniless and alone at New Yorker Hotel. Tesla's story is really facinating.
+Unfortunately, no. Tesla lived in a time when the world demanded results that were practical and profitable. Tesla's contributions were not incremental; they were revolutionary. Tesla wanted to provide free wireless electricity to entire planet, while other scientists commercialized their inventions and become rich. So he died penniless and alone at New Yorker Hotel. Tesla's story is really facinating.
 
 
 ##Early life of Tesla
