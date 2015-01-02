@@ -24,7 +24,7 @@ Few months after Tesla died in 1943, the Supreme Court overturned Marconi's pate
 Tesla obtained around 300 patents worldwide for his inventions. Tesla’s work laid the ground for everything from lasers to radios, remote controls to wireless. Tesla's contributions were not incremental; they were revolutionary. 
 
 So with this incredible mind and all these inventions behind him, *Tesla should have been rich and famous, right?*
-Unfortunately, **no**. Tesla lived in a time when the world demanded results that were practical and profitable. Tesla wanted to provide free wireless electricity to entire planet, while other scientists commercialized their inventions and become rich. So he died penniless and alone at New Yorker Hotel.
+Unfortunately, **no**. Tesla lived in a time when the world demanded results that were practical and profitable. Tesla wanted to provide free [wireless electricity](#invention-of-wireless-electricity) to entire planet, while other scientists commercialized their inventions and become rich. So he died penniless and alone at New Yorker Hotel.
 
 Although his name marks an epic in advance of electrical science, he is virtually unknown to general public like Edison or Marconi. He is one of the uncredited and forgotten genius in the world. Tesla's story is really fascinating.
 
@@ -41,7 +41,7 @@ Tesla was undaunted. He concluded that the only way he could realize his motor w
 
 ##War Of Currents
 
-War of currents is battle between Edison's ***Direct current*** and Tesla's ***Alternating current*** system and whole world was uncertain which one will be the future of electricity until Alternative current won victory.
+War of currents is battle between Edison's ***Direct current*** and Tesla's ***Alternating current*** system and whole world was uncertain which one will be the future of electricity until Alternative current won the victory.
 
 ###Edison's Direct Current System
 
@@ -81,7 +81,7 @@ In 1893, George Westinghouse won the bid to electrify the World's Columbian Expo
 
 > On the evening of May 1, 1893, over 27 million people anxiously awaited to see the future of electricity. When President Grover Cleveland pushed a button, over 100,000 lamps, wired to 12 new thousand-horsepower alternating current generators, turned night to day. Attendees looked on in awe, dubbing the wonder the “City of Light.”
 
-During the fair, Tesla amazed the millions of fairgoers by allowing electricity to flow through his body to illuminate light bulbs. He even demonstrated wireless energy by lighting lamps that had no wires. It was a key event in the history of AC power, as Tesla demonstrated the safety, reliability, and efficiency of alternating current to the American public. 
+During the fair, Tesla amazed the millions of fair goers by allowing electricity to flow through his body to illuminate light bulbs. He even demonstrated wireless energy by lighting lamps that had no wires. It was a key event in the history of AC power, as Tesla demonstrated the safety, reliability, and efficiency of alternating current to the American public. 
 
 Within a week, the entire nation was raving about alternating current as the future of electricity.
 This yielded opportunity to fulfill Tesla's childhood dream.
@@ -117,14 +117,16 @@ Marconi was awarded a Nobel Prize in 1911 for his “achievements” in radio, a
 In 1943, nearly three decades after Tesla began the fight for Radio patent, the US Supreme Court confirmed that Marconi’s radio patents indeed infringed on Tesla’s and therefore declared ***Tesla as the true “father of radio.”*** to recognize tesla's significant contributions to radio technology.
 
 
-##Invention of Wireless
+##Invention of Wireless Electricity
 Tesla found that the earth was “literally alive with electrical vibrations,” and that the entire planet can be “thrown into vibration like a tuning fork.” Tesla was absolutely certain that this phenomenon could be used to transmit unlimited electrical power and telecommunication signals anywhere in the world with virtually no signal loss or degradation. Tesla conducted a wide variety of experiments at Colorado Springs. He wirelessly lit over 200 lamps from a distance of over 25 miles, proving that electricity could be transmitted great distances through the air.
 
 Tesla met with Morgan and explained that he could build a “world system” of wireless communications to relay telephone signals, news, private messages, secure military communications, and even pictures to any point in the world. Morgan offered to fund the construction of the power plant and transmission tower necessary to pursue Tesla’s fantastical claims. 
 
 One would think that Tesla would balk at any offerings of Morgan’s as he clearly couldn’t be trusted—he was one of the driving forces behind the propaganda used against Tesla in the War of the Currents. And just three years earlier, Morgan maneuvered to steal Westinghouse’s company, costing Tesla his lucrative royalty agreement. Nevertheless, Tesla chose to partner with Morgan as he needed money for the construction, a decision that would prove to be the biggest mistake of his life.
 
-Tesla calculated that he would need about $1 million to construct the power station and transmission equipment. Morgan offered $150,000 instead and, in exchange, wanted 51% ownership in all of Tesla’s existing and future patents and inventions relating to both electric lighting and wireless telegraphy or telephony. Tesla accepted Morgan’s hard-fisted terms and went to work immediately. Tesla acquired 200 acres on the cliffs of Long Island Sound and, in December 1901, began construction on the project. The most prominent feature of the installation would be a 187-foot tower capped by a 55-ton steel sphere housing a massive Tesla Coil.
+Tesla calculated that he would need about $1 million to construct the power station and transmission equipment. Morgan offered $150,000 instead and, in exchange, wanted 51% ownership in all of Tesla’s existing and future patents and inventions relating to both electric lighting and wireless telegraphy or telephony. Tesla accepted Morgan’s hard-fisted terms and went to work immediately. 
+
+Tesla acquired 200 acres on the cliffs of Long Island Sound and, in December 1901, began construction on the project. The most prominent feature of the installation would be a 187-foot tower capped by 68 foot copper dome which house the magnifying transmitter. It was planned to be the first broadcast system transmitting both signals and power without wires to any point on the globe. The magnifying transmitter discharging high frequency electricity using tesla coil would turn the earth into a gigantic dynamo which will project its electricity in unlimited amounts anywhere in the world.
 
 Last-minute design changes were required, however, necessitating more money. Tesla had already obtained a second loan from Morgan, and when those funds ran out, he again approached the financier for additional capital. In an attempt to convince the powerful Morgan to invest another large sum, Tesla explained that the tower could be used for more than transmitting radio signals— it could be used to saturate the entire globe with electricity harmless to living things so that everyone could obtain usable power by simply sticking wires in the soil. 
 
