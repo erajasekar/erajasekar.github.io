@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Nikola Tesla : Greatest genius who invented of the Electronic Age'
-date: 2014-12-24
+title: 'Nikola Tesla : Greatest genius who invented the Electrical Age'
+date: 2015-01-01
 tags: history scientist inventor 
 comments: true
 toc: ul
@@ -11,7 +11,7 @@ description: Nikola Tesla's inventions, patents, and theoretical work formed the
 I read inspiring story about Nikola Tesla from book [Awakening your inner genius](http://amzn.com/1938895150). **Nikola Tesla**
 is a greatest genius who invented the electronic age of twentieth century.  His inventions, patents, and theoretical work formed the basis of modern AC electricity, 
 and contributed to the development of radio, television and many electrical inventions. I feel his story is important for anyone interested in history of invention and hence this blog post.
-
+<br>
 ##Synopsis
  
 If we think about genius behind the light bulb or father of electrical age, most people appreciate [Thomas Alva Edison](http://en.wikipedia.org/wiki/Thomas_Edison). 
@@ -153,4 +153,14 @@ On January 5, 1943, Tesla placed a small “do not disturb” sign on his door i
 ##Larry Page's inspiration of Tesla
 
 **Lary Page** CEO of **Google** said Nikola Tesla is his childhood hero. When he was twelve, Page read a biography of Tesla and found the story troubling. *“He was one of the greatest inventors, but it’s a sad, sad story, He couldn't commercialize anything, he could barely fund his own research”* he said. While choosing college, he made a point of majoring in business as well as computer science, partly because he knew cautionary tale of Tesla. 
+
+##References and useful links
+
++ [Awakening your inner genius](http://amzn.com/1938895150) Book
++ [Why Nikola Tesla was the greatest geek ever lived](http://theoatmeal.com/comics/tesla) comic article
++ [The 10 inventions of Nikola Tesla that changed the world](http://www.activistpost.com/2012/01/10-inventions-of-nikola-tesla-that.html) article
++ [How did Nikola Tesla change the way we use energy](http://science.howstuffworks.com/nikola-tesla.htm) from how stuff works
++ [My Inventions: The Autobiography of Nikola Tesla](http://amzn.com/B00CBDC9D0) Book
++ [How Google's Larry Page became a responsible entrepreneur](http://www.theguardian.com/sustainable-business/2014/jul/23/entrepreneur-larry-page-google-innovation-change) article
+
 
