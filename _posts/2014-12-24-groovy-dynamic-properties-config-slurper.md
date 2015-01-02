@@ -139,15 +139,6 @@ println evaluateCalculatedProperties(new ConfigSlurper("prod").parse(Environment
 
 ```
 
-###Real world use case:
-
-We use apache *[kafka](http://kafka.apache.org/) -- A high-throughput distributed messsaging system* at my work. The messages
-are persisted into disk divided into number of topics and partitions. Kafka supports setting retention policy of messages (*logRetentionBytes*) only
-at topic-partition level, so we dynamically configure *logRetentionBytes* based on available disk space and number of topics and partitions.
-We also use this approach to dynamically configure bunch of [kafka configuration properties](http://kafka.apache.org/documentation.html#brokerconfigs) 
-based on hardware/OS settings of different environments.
-
-
 ###Source Code:
  
 The complete source code of examples in this post is available in [github](https://github.com/erajasekar/groovy-dynamic-properties).
