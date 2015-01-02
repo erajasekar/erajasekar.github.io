@@ -13,7 +13,7 @@ tagline:          ""
 description:      'Reflections on programming, technology, books.'
 url:              http://erajasekar.com
 baseurl:          '/'
-paginate:         3
+paginate:         5
 excerpt_separator: "<br>"
 gems:
 - jekyll-mentions

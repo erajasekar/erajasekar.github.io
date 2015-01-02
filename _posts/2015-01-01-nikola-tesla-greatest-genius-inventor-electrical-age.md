@@ -154,7 +154,7 @@ After the outbreak of World War I, in 1917, the US government was looking for a 
 
 ##Final Years
 
-As Tesla approached his final years, most of his close friends and benefactors were dead. The man who had electrified the planet was almost forgotten by the world. On January 5, 1943, Tesla placed a small “do not disturb” sign on his door in the New Yorker Hotel. Two days later, the sign remained. The maid entered to find him dead in his bed. He was 86 years old. Despite receiving over 300 patents in his lifetime, and quite literally inventing the twentieth century, he died penniless and alone. Tesla was never married, and he had no direct heirs. He left no will, so all his papers were seized by the FBI and they were classified as TOP SECRET.
+As Tesla approached his final years, most of his close friends and benefactors were dead. The man who had electrified the planet was almost forgotten by the world. On January 5, 1943, Tesla placed a small “do not disturb” sign on his door in the New Yorker Hotel. Two days later, the sign remained. The maid entered to find him dead in his bed. He was 86 years old. Despite receiving over 300 patents in his lifetime, and quite literally inventing the twentieth century, he died penniless and alone. Tesla was never married, and he had no direct heirs. He left no will, so all his papers were seized by the FBI and they were classified as *top secret*.
 
 
 ##Larry Page's inspiration of Tesla
