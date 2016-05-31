@@ -10,9 +10,9 @@ description: 'This post is about my reflections on the book How Children Succeed
 ---
 This post is about my reflections on the book [How Children Succeed](http://amzn.com/B0070ZLZ1G) which I recently read.  
 
-###What matters most in a child’s development for them to succeed in life?
+### What matters most in a child’s development for them to succeed in life?
 
-We mostly think that intelligent and smart people succeed, i.e success comes to those  who score highest in school, college or competitive exams like SAT, GMAT etc. But in [How Children Succeed](http://amzn.com/B0070ZLZ1G), Paul Tough argues that the qualities that matter more for success are have to do with the ***character***. 
+We mostly think that intelligent and smart people succeed, i.e success comes to those  who score highest in school, college or competitive exams like SAT, GMAT etc. But in [How Children Succeed](http://amzn.com/B0070ZLZ1G), Paul Tough argues that the qualities that matter more for success are have to do with the ***character***.
 
 
 In a child’s development, what matters most is not how much information we can stuff into his/her brain in the first few years. But, instead is whether we are able to help him/her develop a very different set of qualities like **persistence, self-control, curiosity, conscientiousness, grit, and self-confidence**. Infact, possessing these qualities helps a child to get high scores in exams consistently than intelligence alone.
@@ -29,7 +29,7 @@ Gritty people tend to stick to their goals despite numerous setbacks and failure
 > I’d bet that there isn’t a single highly successful person who hasn’t depended on grit - says **Angela Duckworth**, the foremost researcher on the field of grit study.
 
 
-**Delayed Gratification:** Delayed Gratification the ability to resist the temptation for an immediate reward and wait for a later reward. Generally, delayed gratification is associated with resisting a smaller but more immediate reward in order to receive a larger or more enduring reward later. 
+**Delayed Gratification:** Delayed Gratification the ability to resist the temptation for an immediate reward and wait for a later reward. Generally, delayed gratification is associated with resisting a smaller but more immediate reward in order to receive a larger or more enduring reward later.
 
 > Delaying gratification is a process of scheduling the pain and pleasure of life in such a way as to enhance the pleasure by meeting and experiencing the pain first and getting it over with - **Peck, M. Scott**, [The Road Less traveled](http://amzn.com/0743243153)
 
@@ -40,21 +40,21 @@ Psychological researchers at Standford conducted [marshmallow experiment](http:/
 
 **Conscientiousness:** Conscientiousness is the personality trait of being thorough, careful, or vigilant. Conscientiousness implies a desire to do a task well. Conscientious people tend to be super organized, responsible, and plan ahead.  It is related to the way in which people control, regulate, and direct their impulses. Conscientious people also like to follow rules and norms and avoid risks. Psychologists classify conscientiousness is one of the [Big five personality traits](http://en.wikipedia.org/wiki/Big_Five_personality_traits).
 
-> People high in conscientiousness get better grades in high school and college; they commit fewer crimes; and they stay married longer. - **Brent Roberts** psychologist, University of Illinois. 
+> People high in conscientiousness get better grades in high school and college; they commit fewer crimes; and they stay married longer. - **Brent Roberts** psychologist, University of Illinois.
 
-**Curiosity:**  Curiosity is an eagerness to explore and discover new things. It is closely linked **openness** trait of [Big five personality traits](http://en.wikipedia.org/wiki/Big_Five_personality_traits), open-mindedness aids exploring a wide range of relevant information when trying to draw a conclusion, including information that challenges our own initial assumptions. 
+**Curiosity:**  Curiosity is an eagerness to explore and discover new things. It is closely linked **openness** trait of [Big five personality traits](http://en.wikipedia.org/wiki/Big_Five_personality_traits), open-mindedness aids exploring a wide range of relevant information when trying to draw a conclusion, including information that challenges our own initial assumptions.
 
 Curious people actively look for challenges that will stretch them, whether that involves making new friendships, learning new skills. They have ability to embrace new ideas and therefore they will be creative.
 
-> Curiosity is a lens through which you view everything around you. Without it,there are no adventures to be had, With it, there are enough for a million times - **Sean Patrick** , Awakening your inner genius 
+> Curiosity is a lens through which you view everything around you. Without it,there are no adventures to be had, With it, there are enough for a million times - **Sean Patrick** , Awakening your inner genius
 
-**Optimism:** Optimistic child believes that his or her effort will be rewarding and will improve their future. 
+**Optimism:** Optimistic child believes that his or her effort will be rewarding and will improve their future.
 
-> People with an optimistic explanatory style interpret adversity as being local and temporary (i.e., “It’s not that bad, and it will get better.”) while those with a pessimistic explanatory style see these events as more global and permanent (i.e., “It’s really bad, and it’s never going to change.”). Their beliefs then directly affect their actions; the ones who believe the latter statement sink into helplessness and stop trying, while the ones who believe the former are spurred on to higher performance - **Shawn Achor**, Happiness Advantage book. 
+> People with an optimistic explanatory style interpret adversity as being local and temporary (i.e., “It’s not that bad, and it will get better.”) while those with a pessimistic explanatory style see these events as more global and permanent (i.e., “It’s really bad, and it’s never going to change.”). Their beliefs then directly affect their actions; the ones who believe the latter statement sink into helplessness and stop trying, while the ones who believe the former are spurred on to higher performance - **Shawn Achor**, Happiness Advantage book.
 
-Countless studies have been conducted on optimism, and the vast majority of them support the same conclusions: Optimism can have profound effects on a person’s physical health. The mere act of expecting positive outcomes and being hopeful can boost a person’s immune system, protect against harmful behaviors, prevent chronic disease, and help people cope following troubling news. 
+Countless studies have been conducted on optimism, and the vast majority of them support the same conclusions: Optimism can have profound effects on a person’s physical health. The mere act of expecting positive outcomes and being hopeful can boost a person’s immune system, protect against harmful behaviors, prevent chronic disease, and help people cope following troubling news.
 
-###What can we do to make our kids successful?
+### What can we do to make our kids successful?
 
 Research suggests that these characters are cultivated in child by environment in which they grew up. So as a parent, all of us as a society - can do lot to influence development of these character strengths in children. Also it's easy to develop these skills very early in child's life and it becomes harder he or she grows into adult. It doesn't mean that it's impossible to change character. Children need to adopt a growth mindset and believe character is malleable. If we teach them to pay attention to character, then their character will transform.
 
@@ -73,7 +73,7 @@ If we want our kid to become as someone (say become a doctor), we will keep sayi
 So we should allow kids to choose their ambition, choose who they want to grow into.
 
 
-###References and Further Reading:
+### References and Further Reading:
 
 * [How Children Succeed](http://amzn.com/B0070ZLZ1G) - Book
 * [The Key to Success](http://www.ted.com/talks/angela_lee_duckworth_the_key_to_success_grit?language=en) - Angela Duckworth's Ted talk
@@ -86,4 +86,3 @@ So we should allow kids to choose their ambition, choose who they want to grow i
 * [Mindfulness and Positive Thinking](http://www.pursuit-of-happiness.org/science-of-happiness/positive-thinking/) - Article
 
 [1]: http://en.wikipedia.org/wiki/Grit_(personality_trait)
-

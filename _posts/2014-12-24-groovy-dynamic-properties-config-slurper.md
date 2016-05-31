@@ -7,8 +7,8 @@ comments: true
 description: In this post I will provide quick tip on how to use dynamic properties in groovy config slurper.
 ---
 
-In this post I will provide quick tip on how to use dynamic properties in Groovy Config Slurper. 
-Groovy provides a nice utility [ConfigSlurper](http://groovy.codehaus.org/ConfigSlurper) for reading configuration files 
+In this post I will provide quick tip on how to use dynamic properties in Groovy Config Slurper.
+Groovy provides a nice utility [ConfigSlurper](http://groovy.codehaus.org/ConfigSlurper) for reading configuration files
 where settings can be overridden to different values for different environments.
 <br>
 
@@ -58,13 +58,13 @@ environments {
         availableDiskSpaceForData = 1024
         logRetentionBytes = availableDiskSpaceForData / (numberOfTopics * numberOfPartitions)
     }
-    
-    
+
+
     test {
         availableDiskSpaceForData = 10240
         logRetentionBytes = availableDiskSpaceForData / (numberOfTopics * numberOfPartitions)
     }
-    
+
     prod {
         availableDiskSpaceForData = 102400
         logRetentionBytes = availableDiskSpaceForData / (numberOfTopics * numberOfPartitions)
@@ -75,21 +75,21 @@ environments {
 Here is output value of *logRetentionBytes* reading using ConfigSlurper
 
 ```groovy
-println new ConfigSlurper("dev").parse(EnvironmentConfigSimple.class).logRetentionBytes; //Outputs: 64 
+println new ConfigSlurper("dev").parse(EnvironmentConfigSimple.class).logRetentionBytes; //Outputs: 64
 
 println new ConfigSlurper("test").parse(EnvironmentConfigSimple.class).logRetentionBytes; //Outputs: 640
 
 println new ConfigSlurper("prod").parse(EnvironmentConfigSimple.class).logRetentionBytes; //Outputs: 6400
 
 ```
- 
+
 This works. But the code is duplicated and it will be hard to maintain. If we have more dynamic properties, it will make it even worse.
 It will be neat if computation logic is written once and dynamically evaluated. Groovy's [Eval](http://www.intelligrape.com/blog/evaluating-expressions-with-groovy-util-eval/)
 utility can do the trick.
 
 We can refactor above environment config to add  `calculationParams` property to define properties that will be used as input params and `calculatedProperties` property to define dynamically computed properties.
 
-Here is the revised `EnvironmentConfigDynamic.groovy` 
+Here is the revised `EnvironmentConfigDynamic.groovy`
 
 ```groovy
 calculationParams {
@@ -127,7 +127,7 @@ private ConfigObject evaluateCalculatedProperties(ConfigObject config) {
 }
 ```
 
-Finally, we can pass result of ConfigSlurper to  *evaluateCalculatedProperties* method to get value of computed *logRetentionBytes* 
+Finally, we can pass result of ConfigSlurper to  *evaluateCalculatedProperties* method to get value of computed *logRetentionBytes*
 
 ```groovy
 
@@ -139,7 +139,6 @@ println evaluateCalculatedProperties(new ConfigSlurper("prod").parse(Environment
 
 ```
 
-###Source Code:
- 
-The complete source code of examples in this post is available in [github](https://github.com/erajasekar/groovy-dynamic-properties).
+### Source Code:
 
+The complete source code of examples in this post is available in [github](https://github.com/erajasekar/groovy-dynamic-properties).
