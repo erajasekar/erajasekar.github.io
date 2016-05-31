@@ -13,7 +13,7 @@ is a greatest genius who invented the electrical age of twentieth century.  His 
 and contributed to the development of *radio, television* and many electrical inventions. I feel his story is important for anyone interested in history of invention and hence this blog post.
 <br>
 
-## Synopsis
+## Synopsis (test update)
 
 If we think about genius behind the light bulb or father of electrical age, most of us would appreciate [Thomas Alva Edison](http://en.wikipedia.org/wiki/Thomas_Edison).
 But visionary named **Nikola Tesla** was the major contributor to the electrical revolution that transformed daily life at the turn of the twentieth century. Tesla [invented the complete system](#war-of-currents) of generating and distributing electricity using **Alternating Current** which is used to power the world today.
