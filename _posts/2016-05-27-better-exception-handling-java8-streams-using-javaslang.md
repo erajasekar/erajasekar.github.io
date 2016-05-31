@@ -13,7 +13,7 @@ In this post I will provide tips for better exception handling in Java 8 streams
 
 ## Problem
 
-To illustrate with an example, let's we want to print day of week for given stream date strings in format `MM/dd/YYYY`.
+To illustrate with an example, let's say we want to print day of week for given stream date strings in format `MM/dd/YYYY`.
 
 ### Initial solution.
 
