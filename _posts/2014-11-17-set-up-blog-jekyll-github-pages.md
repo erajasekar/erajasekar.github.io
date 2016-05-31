@@ -14,8 +14,10 @@ I have kept skeleton of my site in a separate `foundation` branch for others to 
 
 In this post I will provide instructions on how to setup your own blog by using [my jekyll project](https://github.com/erajasekar/blog-jekyll) as foundation.
  <br>
-##Setup
-###Clone `foundation` branch of [blog-jekyll](https://github.com/erajasekar/blog-jekyll/tree/foundation) repo.
+
+## Setup
+
+### Clone `foundation` branch of [blog-jekyll](https://github.com/erajasekar/blog-jekyll/tree/foundation) repo.
 * Install [Jekyll](http://jekyllrb.com/)  
 
 ```bash
@@ -36,7 +38,7 @@ $ npm install grunt --save-dev
 ```
   Then, when you edit css files, run `grunt` to recompile css.
 
-##Running
+## Running
 
 To get your site running locally, start Jekyll server
 
@@ -46,7 +48,7 @@ $ jekyll serve --port 9999
 
 Then, Open [http://localhost:9999](http://localhost:9999) in your browser to view your site.
 
-##Customize
+## Customize
 + Update configurations in `_config.yml` appropriate to your site.
 + Replace `favicon.ico` , `images/profile.jpg`, `images/profile_small.jpg` in assets dir with your favicon and your profile pictures.
 + If you are using github-pages to deploy update `CNAME` file with your domain name or delete this file if you are not using custom domain.
@@ -60,25 +62,25 @@ Then, Open [http://localhost:9999](http://localhost:9999) in your browser to vie
 	+ Then, update `googleAnalyticsSuperProxyQuery` property in `_config.yml`
 + Now you can begin writing your own posts.
 
-##Configuration Options
+## Configuration Options
 
-###Adding table of contents
+### Adding table of contents
 
 If you would to add table of contents like this post, add property `toc: ol` (for ordered list) or `toc: ul` (for unordered list) in yaml header of your posts.
 
 If you don't want table of contents, simply remove `toc` property from header of your posts.
 
-###Including comments
+### Including comments
 
-The property `comments: true` should be added to yaml header of your posts to include comments to end of the post. If `comments` is not present or set to `false`, comments won't be included. 
+The property `comments: true` should be added to yaml header of your posts to include comments to end of the post. If `comments` is not present or set to `false`, comments won't be included.
 
-##Working with Drafts
+## Working with Drafts
 
 You might want to keep working in progress posts as drafts until it is ready to be published. So to create posts as drafts
-simply keep them in `_drafts` dir and Jekyll will ignore them when building site. To preview your drafts locally just 
+simply keep them in `_drafts` dir and Jekyll will ignore them when building site. To preview your drafts locally just
 use ***--drafts*** option like `jekyll serve --port 9999 --drafts` and jekyll will include your drafts in local site.
 
-##Importing existing blogs to Jekyll
+## Importing existing blogs to Jekyll
 
 There are lot of tools available, if you already use other blogging platforms like wordpress or blogger and want to migrate to Jekyll.
 Checkout wide range of importers available for various platforms at [import.jekyllrb.com](http://import.jekyllrb.com/).
@@ -90,24 +92,24 @@ You don't want to break the links of your posts you shared publicly in internet.
 
 There are two possible solutions to preserve your links:
 
-1. You can easily change permalink structure of Jekyll to [format of your choice](http://jekyllrb.com/docs/permalinks/) by tweaking `_config.yml`. 
+1. You can easily change permalink structure of Jekyll to [format of your choice](http://jekyllrb.com/docs/permalinks/) by tweaking `_config.yml`.
 2. If you decide to switch permalink structure of Jekyll, you can keep old links as is and setup redirects in server configuration files such as `.htaccess`
 to redirect old links to correct location. <br/>
 If you use github pages to deploy, you can follow [these instructions](https://help.github.com/articles/redirects-on-github-pages/)
 to setup redirects in github pages easily using jekyll-redirect-from gem .
 
-##Linking to other posts
+## Linking to other posts
 
 You might often link between your posts using internal site links. You can use [post-url](http://jekyllrb.com/docs/templates/#post-url)
 for this without having to worry about the URL's breaking when the site permalink style changes.
 Eg: {% raw %} `{% post_url 2010-07-21-name-of-post %}` {% endraw %}
 
 
-##Deployment
+## Deployment
 + To deploy to github pages, create a repository `youruserame.github.io` and push your code to master branch.
 + For other deployment options, refer to [Jekyll documentation](http://jekyllrb.com/docs/deployment-methods/).
 
-##Custom domain
+## Custom domain
 If you would to setup your own custom domain for your blog,
 
 + Create a CNAME file containing your custom domain at the root of your git repository
