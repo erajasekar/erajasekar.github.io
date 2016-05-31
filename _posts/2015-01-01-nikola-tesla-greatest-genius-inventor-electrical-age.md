@@ -15,7 +15,7 @@ and contributed to the development of *radio, television* and many electrical in
 
 ## Synopsis (test update)
 
-If we think about genius behind the light bulb or father of electrical age, most of us would appreciate [Thomas Alva Edison](http://en.wikipedia.org/wiki/Thomas_Edison).
+Another test If we think about genius behind the light bulb or father of electrical age, most of us would appreciate [Thomas Alva Edison](http://en.wikipedia.org/wiki/Thomas_Edison).
 But visionary named **Nikola Tesla** was the major contributor to the electrical revolution that transformed daily life at the turn of the twentieth century. Tesla [invented the complete system](#war-of-currents) of generating and distributing electricity using **Alternating Current** which is used to power the world today.
 He [built](#niagara-hydroelectric-power-plant) the first hydroelectric plant at Niagara Falls.
 
