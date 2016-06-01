@@ -5,7 +5,7 @@ date: 2016-05-31
 draft: false
 tags: java8 java functional programming trait
 comments: true
-description: This post explains how default interface methods in Java 8 can be as a *trait* automatically inject logger instances. 
+description: This post explains how default interface methods in Java 8 can be as a trait automatically inject logger instances. 
 analytics: true
 ---
 
