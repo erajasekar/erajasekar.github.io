@@ -3,7 +3,7 @@ layout: post
 title: Error accumulation in validation using Applicative Functors
 date: 2016-05-31
 draft: false
-tags: java8 java functional programming
+tags: java8 java functional programming monad functor
 comments: true
 description: This post explains how Applicative Functors can be used accumulate validation errors using Javaslang's Validation API.
 analytics: true

@@ -3,7 +3,7 @@ layout: post
 title: Better Exception Handling in Java 8 Streams Using Javaslang
 date: 2016-05-27
 draft: false
-tags: java8 java functional programming
+tags: java8 java functional programming monad
 comments: true
 description: In this post I will provide tips for better exception handling in Java 8 streams using Javaslang Functional Java library.
 analytics: true
@@ -103,7 +103,7 @@ FRIDAY
 
 This is great improvement, but the exception has to be handled within `parseDate` method and can't be passed back to main method to deal with it. We can't make `parseDate` method throw checked exception as Streams API doesn't play well with methods that throw exceptions.
 
-### Better solution with Javaslang's Try Monaid
+### Better solution with Javaslang's Try Monad
 
 [Javaslang](http://www.javaslang.io/) is a functional library for Java 8+. We will use `Try` object from Javaslang which can be either a instance of `Success` or `Failure`. Basically [Try](http://www.javaslang.io/javaslang-docs/#_try) is a monadic container type which represents a computation that may either result in an exception, or return a successfully computed value. Here is the modified code using *Try*
 
