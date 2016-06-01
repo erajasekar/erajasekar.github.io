@@ -14,6 +14,7 @@ This post explains how ***Applicative Functors*** can be used accumulate validat
 ## Problem
 
 To illustrate with an example, let's say a given stream of pair of date strings in format `MM/dd/YYYY`, we want to print difference between them in number of years, months and days. ( For eg `"01/01/2016 , 02/01/2016"` should print `0 years , 1 months and 0 days`). 
+<br>
 
 ### Using plain Java 8.
 
@@ -75,7 +76,6 @@ Text '01-01-2015' could not be parsed at index 2
 ```
 
 This works and processes all the valid dates, but this solution has several limitations.
-<br>
 
 + The validation stops at first error when start date is invalid, we will get to know that end date is also invalid only after correcting first date and retrying. It is useful to accumulate all errors so that all can be fixed at once.
 Especially, when doing validation of multiple fields, say a web form, and you want to know all errors encountered, instead of one at a time.

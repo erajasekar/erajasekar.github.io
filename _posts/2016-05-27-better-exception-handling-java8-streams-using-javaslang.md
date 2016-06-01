@@ -14,6 +14,7 @@ In this post, I will provide tips for better exception handling in Java 8 stream
 ## Problem
 
 To illustrate with an example, let's say we want to print day of the week for given stream date strings in format `MM/dd/YYYY`.
+<br>
 
 ### Initial solution.
 
@@ -54,7 +55,6 @@ Exception in thread "main" java.time.format.DateTimeParseException: Text '01-01-
 ```
 
 *Huh*, If a date string is invalid, this fails at the first *DateTimeParseException* without continuing with valid dates.
-<br>
 
 ### Java 8 Optional to rescue.
 

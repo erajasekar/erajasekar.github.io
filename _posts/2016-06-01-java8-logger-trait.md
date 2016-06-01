@@ -9,7 +9,7 @@ description: This post explains how default interface methods in Java 8 can be a
 analytics: true
 ---
 
-This post explains how default methods in Java 8 can be as a *trait* to automatically inject logger instances. 
+This post explains how default methods in Java 8 can be used as a *trait* to automatically inject logger instances. 
 
 To use logging in Java code, we need to add this boiler plate code in every Java class.
 
