@@ -9,15 +9,15 @@ description: In this post I will provide tips for better exception handling in J
 analytics: true
 ---
 
-In this post I will provide tips for better exception handling in Java 8 streams using Functional Java library [Javaslang](http://www.javaslang.io/).
+In this post, I will provide tips for better exception handling in Java 8 streams using Functional Java library [Javaslang](http://www.javaslang.io/).
 
 ## Problem
 
-To illustrate with an example, let's say we want to print day of week for given stream date strings in format `MM/dd/YYYY`.
+To illustrate with an example, let's say we want to print day of the week for given stream date strings in format `MM/dd/YYYY`.
 
 ### Initial solution.
 
-Let's start with a initial solution below and iteratively improve on it.
+Let's start with an initial solution below and iteratively improve on it.
 
 ```java
 
@@ -101,7 +101,7 @@ Text 'not a date' could not be parsed at index 0
 FRIDAY
 ```
 
-This is great improvement, but the exception has to be handled within `parseDate` method and can't be passed back to main method to deal with it. We can't make `parseDate` method to throw checked exception as Streams API doesn't play well with methods that throw exceptions.
+This is great improvement, but the exception has to be handled within `parseDate` method and can't be passed back to main method to deal with it. We can't make `parseDate` method throw checked exception as Streams API doesn't play well with methods that throw exceptions.
 
 ### Better solution with Javaslang's Try Monaid
 
@@ -195,3 +195,5 @@ THURSDAY
 Failed due to Text 'not a date' could not be parsed at index 0
 FRIDAY
 ```
+
+So *Try Monad* can be used to elegantly deal with exceptions and *fail fast* on errors. In [next article]({% post_url 2016-05-31-error-accumulation-java8-functional-validation-javaslang %}) , I will post how *Validation control applicative functor* can be used to *fail slow* and accumulate errors. 

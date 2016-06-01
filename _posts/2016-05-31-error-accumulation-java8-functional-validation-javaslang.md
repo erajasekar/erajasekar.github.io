@@ -13,7 +13,7 @@ This post explains how ***Applicative Functors*** can be used accumulate validat
 
 ## Problem
 
-To illustrate with an example, let's say a given stream of pair of date strings in format `MM/dd/YYYY`, we want to print print difference between them in number of years, months and days. ( For eg `"01/01/2016 , 02/01/2016"` should print `0 years , 1 months and 0 days`). 
+To illustrate with an example, let's say a given stream of pair of date strings in format `MM/dd/YYYY`, we want to print difference between them in number of years, months and days. ( For eg `"01/01/2016 , 02/01/2016"` should print `0 years , 1 months and 0 days`). 
 
 ### Using plain Java 8.
 
@@ -144,5 +144,5 @@ List(Text '01-01-2015' could not be parsed at index 2, Text '12-31-2015' could n
 
 #### Choosing between Try Monad and Validation Applicative Functor
 
-In the [previous post]({% post_url 2016-05-27-better-exception-handling-java8-streams-using-javaslang %}) , I illustrated using *Try monad* to safely deal with failures. When trying to compose with Monads, the combination process will short circuit at the first encountered error. But *Validation applicative functor* will continue processing the combining functions, accumulating all errors. So we should use *Try* for fail fast and *Validation* for fail slow scenarios.
+In the [previous post]({% post_url 2016-05-27-better-exception-handling-java8-streams-using-javaslang %}) , I illustrated using *Try monad* to gracefully deal with failures. When trying to compose with Monads, the combination process will short circuit at the first encountered error. But *Validation applicative functor* will continue processing the combining functions, accumulating all errors. So we should use **Try** for *fail fast* and **Validation** for *fail slow* scenarios.
 
