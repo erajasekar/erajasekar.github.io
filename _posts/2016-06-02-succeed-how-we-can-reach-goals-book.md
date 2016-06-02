@@ -5,7 +5,7 @@ date: 2016-06-02
 draft: false
 tags: book success psychology
 comments: true
-description: In this post, I will share my highlights from the book Succeed - How We Wan Reach Our Goals
+description: In this post, I will share my highlights from the book Succeed - How We Wan Reach Our Goals. This book is about understanding how goals work, what tends to go wrong, and what you can do to reach your goals.
 analytics: true
 ---
 
