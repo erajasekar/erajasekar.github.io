@@ -17,12 +17,12 @@ To use logging in Java code, we need to add this boiler plate code in every Java
 private static final Logger logger = Logger.getLogger(MyClass.class.getName());
 ```
 
-Like me, most of you would hate copy pasting this line and updating the class name in every Java file. Luckily Java 8 supports default methods in interfaces which can be used to solve this problem. 
+Like me, most of you would hate copy pasting this line and updating the class name in every Java file. Luckily, Java 8 supports default methods in interfaces which can be used to solve this problem. 
 <br>
 
 ### Java 8 default methods as traits
 
-[Trait]( https://en.wikipedia.org/wiki/Trait_(computer_programming) ) is a programming concept used to define set of behaviors that classes can extend it or override implementation. *Trait* is similar to *Interface*, but it can also provide default implementation. Java 8 added *default methods* in *Interfaces* which we can use to implement *Traits*.
+[Trait]( https://en.wikipedia.org/wiki/Trait_(computer_programming) ) is a programming concept used to define a set of behaviors that classes can extend it or override implementation. *Trait* is similar to *Interface*, but it can also have a default implementation. Java 8 added *default methods* in *Interfaces* which we can use to implement *Traits*.
 
 For example, we can define a `Loggable` trait with default implementation like below
 
@@ -35,7 +35,7 @@ public interface Loggable {
 }
 ```
 
-Then, any class can use it by simply implementing `Loggable` interface without duplicating the code. Eg.
+Then, any class can use it by simply implementing `Loggable` interface without duplication of code. Eg.
 
 ```java
 public class MyClass implements Loggable {
@@ -46,7 +46,7 @@ public class MyClass implements Loggable {
 }
 ```
 
-Any class can also override the default implementation if it need to be. If a class does lot of logging, calling `logger()` method might add slight performance overhead. So to improve performance, it can cache the value in an instance variable like
+Any class can also override the default implementation if it needs to be. If a class has to do lot of logging, calling `logger()` method might add slight performance overhead. So to improve performance, we can cache the value in an instance variable like
 
 ```java
 private final Logger logger = logger();

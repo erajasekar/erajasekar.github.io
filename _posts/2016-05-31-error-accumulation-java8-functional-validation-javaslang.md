@@ -18,7 +18,7 @@ To illustrate with an example, let's say a given stream of pair of date strings 
 
 ### Using plain Java 8.
 
-Let's try first try to solve this in plain Java without functional programming library. As I have explained in the [previous post]({% post_url 2016-05-27-better-exception-handling-java8-streams-using-javaslang %}), we should use `Optional` to ensure it continues to process *without terminating at first error*. Here how we can implement it.
+Let's try first try to solve this in plain Java without functional programming library. As I have explained in the [previous post]({% post_url 2016-05-27-better-exception-handling-java8-streams-using-javaslang %}), we should use `Optional` to ensure it continues to process *without terminating at the first error*. Here how we can implement it.
 
 ```java
 
@@ -77,9 +77,9 @@ Text '01-01-2015' could not be parsed at index 2
 
 This works and processes all the valid dates, but this solution has several limitations.
 
-+ The validation stops at first error when start date is invalid, we will get to know that end date is also invalid only after correcting first date and retrying. It is useful to accumulate all errors so that all can be fixed at once.
++ The validation stops at first error when the start date is invalid, we will get to know that end date is also invalid only after correcting the first date and retrying. It is useful to accumulate all errors so that all can be fixed at once.
 Especially, when doing validation of multiple fields, say a web form, and you want to know all errors encountered, instead of one at a time.
-+ The validation error has to be handled with in `parseDateToPeriod` as `Optional` can only hold valid values and not errors from invalids.
++ The validation error has to be handled within `parseDateToPeriod` as `Optional` can only hold valid values and not errors from invalids.
 
 
 ### Using Validation API in Javaslang
