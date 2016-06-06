@@ -52,7 +52,7 @@ Put together both wheels by inserting push pin on the top and placing small wood
 
 Play with your kid by asking a multiplication quiz (eg. `9 X 5 =`) and they can tell the answer using the mutplication wheel. To know answer to multiplication problem, turn top wheel so that outer most hole aligns with multiplicand ( eg. `9`) and the hole next to multiplier ( eg. `5`) shows the answer. The animation shows how to use it
 
-![Multiplication wheel top]({{ site.baseurl }}assets/images/multiplication-wheel/multiplication-wheel-solve.gif){:height="400px" width="400px"}
+![Multiplication wheel top](https://raw.githubusercontent.com/erajasekar/erajasekar.github.io/master/assets/images/multiplication-wheel/multiplication-wheel-solve.gif){:height="400px" width="400px"}
 
 ### Teaching basics of multiplication to kids
 
