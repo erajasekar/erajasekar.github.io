@@ -30,7 +30,7 @@ Things you need to do this project at home
 
 Make bottom wheel by drawing a circle and dividing it into twelve equal parts (30 degrees). Then, write multiples (aka skip counting) of numbers 1,5,4,3,2 for 1 through 12 like below.
 
-![Multiplication wheel bottom]({{ site.baseurl }}assets/images/multiplication-wheel/multiplication-wheel-bottom.jpg){:height="400px" width="500px"}
+![Multiplication wheel bottom](https://raw.githubusercontent.com/erajasekar/erajasekar.github.io/master/assets/images/multiplication-wheel/multiplication-wheel-bottom.jpg){:height="400px" width="500px"}
 
 The first number of each series begin at every other consecutive part. i.e. Multiples of 5 start at 1, multiples of 4 starts at 3, multiples of 3 start at 5 and so on. The measurements we used are `10 cm` radius for outer circle and inner circles are drawn with radius `9, 8.5, 7.5, 7, 6, 5.5, 4.5, 4, 3 cms` respectively. Let your kid to help you as much as possible. 
 
