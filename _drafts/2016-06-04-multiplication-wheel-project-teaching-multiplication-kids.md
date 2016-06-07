@@ -73,5 +73,5 @@ My daughter liked it so much that she wanted to do multiplication all the way up
 
 She watched while I was coding and she wanted to help. I told her that she need to learn the computer language to do this. But as I played with the code, I let her press ***Run*** button and see the magic happen.
 
-As there wasn't enough space to fit all 12 multiples, I split them into front and back of the bottom wheel. You can download this pdf to print front and back for both bottom and top wheels. For the bottom wheel, attach front and back to each other with chart paper in between. For the top wheel, cut the holes around the places marked **X**. Put them together using a push pin and wooden disk as before. Play and have Fun!.
+As there wasn't enough space to fit all 12 multiples, I split them into front and back of the bottom wheel. You can download [this pdf](https://raw.githubusercontent.com/erajasekar/erajasekar.github.io/master/assets/images/multiplication-wheel/MultiplicationWheelAll.pdf) to print front and back for both bottom and top wheels. For the bottom wheel, attach front and back to each other with chart paper in between. For the top wheel, cut the holes around the places marked **X**. Put them together using a push pin and wooden disk as before. Play and have Fun!.
 
