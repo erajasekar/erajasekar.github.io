@@ -6,12 +6,12 @@ draft: false
 tags: conference presentation tutorial tips teaching
 comments: true
 toc: ul
-description: I observed effective methods used to make a excellent presention while attending uberconf - software technical conference.  I will share some of the best practices and tips to create a outstanding presentation a for training session. 
+description: I observed effective methods used to make a excellent presention while attending uberconf - software technical conference.  I will share some of the best practices and tips to create a outstanding presentation a for training session.
 
 ---
-# How to make great presentations for a training session 
-I observed effective methods used to make a excellent presention while attending uberconf - software technical conference.  I will share some of the best practices and tips to create a outstanding presentation a for training session. 
- 
+# How to make great presentations for a training session
+I observed effective methods used to make a excellent presention while attending uberconf - software technical conference.  I will share some of the best practices and tips to create a outstanding presentation a for training session.
+
 ### 1. Communicate  the Goal.
 State one or all of the following.
 
@@ -33,7 +33,7 @@ State one or all of the following.
 
 * In Introduction answer the the questions like
 	+ ***what ?*** - definition of topic
-    + ***why ?*** this topic is important 
+    + ***why ?*** this topic is important
     + ***how ?*** we can do something.
 * Example for topic Software Architecuture fundamentals.
 	+ What is software architecture?
@@ -44,7 +44,7 @@ State one or all of the following.
 
 * Make sure the content is well organized into sections and there is natural flow of one section to next.
 * If each section is linked to one another with logical reasoning, it's easy to recollect the entire content from begining,
-* Example for topic Software architecture fundamentals? 
+* Example for topic Software architecture fundamentals?
 	+ What is Architecture?
     + Why software architecture is important ?
     + How to design good architectural solution?
@@ -57,19 +57,19 @@ State one or all of the following.
 * Example on Software architecuture training.
 	+ Present the a business requirement and a architecute (It should have some flaws, but should not be obvious)  and ask them what is wrong with this architecture? Pause momentorily, But don't wait for answer. Tell them we will get to it at the end.
  	+ Towards end,  Present the same business requirement again ask if they can identify the flaws and and come up with better architecture.
-    
+
 ### 5. How to keep audience engaged?
 
 * Tell a funny joke
-* Tell a short story. 
-* Show some funny pictures 
+* Tell a short story.
+* Show some funny pictures
 * Play some funny or interesting video related to topic.
 
 ### 6. Tips to Make it stick
 
 * Use analogies whenever possible. Analogies helps to associate new concepts with already familiar things. So it makes it very easy remember.
 * Use famous quotes from other people.
-* Convey single message / tagline about the topic. 
+* Convey single message / tagline about the topic.
 * Give some handouts to takeaway.
 * Use live demo when possible.
 * Provide hands on exercises to practice when possible.
@@ -79,5 +79,4 @@ State one or all of the following.
 * [Made to stick](http://amzn.com/1400064287)
 * [slide:ology](https://amzn.com/0596522347)
 * [The art of explanation]( https://amzn.com/1118374584)
-
 
