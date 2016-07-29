@@ -1,5 +1,6 @@
 ## Learnings from Uberconf - 2016
 
+I got to attend wonderful technical conference - [uberconf](https://uberconf.com/) and I would like share summary of my learnings in this post.
 
 
 
@@ -68,6 +69,5 @@
 
 
 
-
- 
+ 
 
