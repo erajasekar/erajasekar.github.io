@@ -18,7 +18,7 @@ description: I got to attend the wonderful technical conference uberconf and I w
  > Uninterrupted flow of food for mind and body.   
  
  The best thing I liked about the conference is that the sessions are 1.5 hours long that gave us enough time to learn deep-dive and learn the subject. Also the some of the longer subjects are split into two parts so that we can learn them in depth and do some hands on work.  The speakers are not only experts on their subject, they are good mentors and presented their sessions more engaging style.
-         
+ <br/>        
  The only complaint, I can tell is that we are given only audio recordings of the session to offline listen after the conference. It would be have been great if video recordings are available after the conference.
   
 ## Summary of learnings from sessions
@@ -38,7 +38,7 @@ description: I got to attend the wonderful technical conference uberconf and I w
 * **02. Do tactical code reviews:** Peer reviews catch 60% of defects.
 * **01. Reduce State & State Mutation :** Messing with state is the root of many problems.
  
- ### Evolutionary Architecture by [Venkat Subramanium](https://twitter.com/venkat_s)
+###  Evolutionary Architecture by [Venkat Subramanium](https://twitter.com/venkat_s)
                           
 #### Why Evolutionary architecture?
 
