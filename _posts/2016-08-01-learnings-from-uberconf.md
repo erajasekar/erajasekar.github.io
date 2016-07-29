@@ -132,3 +132,5 @@ description: I got to attend the wonderful technical conference uberconf and I w
 * [Zipkin](http://zipkin.io/) is a distributed tracing system based on **Dapper** . It helps to track complete flow of events in distributed microservice architecture.
 * [Spring Sleuth](https://cloud.spring.io/spring-cloud-sleuth/)  provides an implementation of distributed tracing solution for Spring platform based on **Dapper** and provides great with Zipkin.
 
+Refer to [this doc](https://goo.gl/F2gT5h) if you like to read my complete notes on all of these topics. 
+
