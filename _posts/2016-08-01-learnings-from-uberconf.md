@@ -86,4 +86,13 @@ description: I got to attend the wonderful technical conference uberconf and I w
 	* `D' < 0.25` is fairly ok, don't put to much effort in lowering. Because it's hard to measure quality of refactoring.
 * All of these can be automatically computed using [jdepend](http://clarkware.com/software/JDepend.html) tool (plugins are available for build systems and IDEs) and tracked in CI tools like jenkins.
 
+###  Parallel programming with Java 8 Streams by [Venkat Subramanium](https://twitter.com/venkat_s)
+
+* Leverage the power of Java 8 streams to easily switch sequential code to concurrent code by using parallel streams.
+
+###  Frege for Java Programmers by [Venkat Subramanium](https://twitter.com/venkat_s)
+
+* [Frege](https://github.com/Frege/frege) is a Haskell for the JVM.
+* Frege compiles to Java, runs on the JVM, and reuse with existing java libraries.
+* If you love **Haskell** and *purely* functional language.  ***Frege*** is a great choice.
 
