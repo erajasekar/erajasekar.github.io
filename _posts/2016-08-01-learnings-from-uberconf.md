@@ -6,7 +6,7 @@ draft: false
 tags: conference java programming career
 comments: true
 description: I got to attend the wonderful technical conference uberconf and I would like share feedback about the conference and summary of my learnings in this post. 
-analytics: true
+
 ---
 # Learnings from Uberconf - 2016 
  I got to attend the wonderful technical conference - [uberconf](https://uberconf.com/) and I would like share summary of my learnings in this post. 
