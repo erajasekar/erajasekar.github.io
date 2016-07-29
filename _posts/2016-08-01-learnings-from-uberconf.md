@@ -28,5 +28,41 @@
 * **02. Do tactical code reviews:** Peer reviews catch 60% of defects.
 * **01. Reduce State & State Mutation :** Messing with state is the root of many problems.
  
-             
+ ### Evolutionary Architecture by [Venkat Subramanium](https://twitter.com/venkat_s)
+                          
+#### Why Evolutionary architecture?
+
+* We won't have a good picture in begining of project typically when architecture is created. Our knowledge of system will improve as project mature.
+* We should do **enough** up-front design not ~~big~~ up-front design.
+* The ***feedback loop*** is extremely important to be able to course correct.
+
+#### Planning for Evolutionary architecture
+
+* When prioritizing stories, analyze both business value and architectural impact.
+* Work on most **valuable** and more **impactful** stuff in the begining.
+* > **Scrum Velocity ** - It doesn't matter *how fast* you run, it's important that you run in *right* direction.
+
+#### Principles for Evolutionary Architecture
+ 
+ * **Keep it simple:**  Do minimum to meet the requirements.
+ * **Reversibility:**  When making a decision, If it is easier to reverse, go for it. If it is hard to reverse, postpone decision it you no longer can.
+ **Wait for last responsible moment:**  Compare cost of doing it *now* vs cost of doing it *later*. 
+ 			
+`
+    Now   Later
+            cost >  cost   -> delay
+            cost == cost   -> delay
+            cost <  cost 
+ -probability of needing it in future
+                            low -> delay
+                            high -> now.
+`
+ 
+* **Automated testing** - Without automated testing and feedback, it's hard to make a decision later and verify everything still work.
+ * **Triangulate**
+	+ You don't a interface or abstract base class for every thing.
+    + Instead write a class, write another similiar class if it happens, then. **triangulate ** - extract what is common into a base.
+ * **Postle's law** - Follow [Robustness Principle](https://en.wikipedia.org/wiki/Robustness_principle)  Be conservative in what you send, be liberal in what you accept
+* **Minimize libraries and frameworks:** Don't build what you can buy (or available open source) . Don't buy (or download) what you don't need. 
+
 
