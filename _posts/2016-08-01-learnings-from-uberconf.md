@@ -126,3 +126,9 @@ description: I got to attend the wonderful technical conference uberconf and I w
 * **Immutablity is your best friend**
 > Immutable objects have a very compelling list of positive qualities. When you create immutable classes, entire categories of problems simpy disappear .
 
+###  Distributed tracing of Microservices Architectures by [Matt Stine](https://twitter.com/@mstine)
+
+* [Dapper](http://research.google.com/pubs/pub36356.html) is a research paper on Large-Scale Distributed Systems Tracing Intrastructure by **Google**.
+* [Zipkin](http://zipkin.io/) is a distributed tracing system based on **Dapper** . It helps to track complete flow of events in distributed microservice architecture.
+* [Spring Sleuth](https://cloud.spring.io/spring-cloud-sleuth/)  provides implementation of distributed tracing solution for Spring platform based on **Dapper** and provides great with Zipkin.
+
