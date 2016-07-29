@@ -18,9 +18,9 @@
 * **12. Schedule Time to Lower Technical Debts :**  if technical debt is not payed back, we’ll end up with technical bankruptcy.
 * **11. Favor high cohesion:** Narrow, focused, does only one thing well
 * **10. Favor Loose Coupling:** Tight coupling make code hard to extend hard to test
-* **09. Program with Intention:** Rules for simple design: *Passes the tests , Reveals intention, No duplication , Fewest elements.*
+* **09. Program with Intention:** Most of the time, we program accidentally without delibrate. Any code written should have clear intention.
 * **08. Avoid Primitive Obsession:** Favor Functional code over imperative.
-* **07.  Prefer Clear Code over Clever Code:**
+* **07.  Prefer Clear Code over Clever Code**
 * **06. Apply Zinsser's Principle on Writing:** Great timeless book On writing well by Zinsser's for writing english. But very well applies to code. Principles are Simplicity , Clarity, Brevity, Humanity
 * **05. Comment Why, not What:** Use comments to describle its purpose and constraints. Do’t use commenting as substitue for good code.
 * **04. Avoid long methods**
