@@ -15,8 +15,8 @@ I observed effective methods used to make an excellent presentation while attend
 ### 1. Communicate  the Goal.
 State one or all of the following.
 
-* Objective of the presentation
-* Agenda of what will be covered in the presentation.
+* Goal of the presentation
+* Agenda of what you will in the presentation.
 * What will be the takeaway at the end of the presentation.
 
 ### 2. Try to Start with an exercise
@@ -67,7 +67,7 @@ State one or all of the following.
 
 ### 6. Tips to Make it stick
 
-* Use analogies whenever possible. Analogies help to associate new concepts with already familiar things. So it makes it very easy remember.
+* Use analogies whenever possible. Analogies help to associate new concepts with already familiar things. So it makes it easy remember.
 * Use famous quotes from other people.
 * Convey single message / tagline about the topic.
 * Give some handouts to takeaway.
