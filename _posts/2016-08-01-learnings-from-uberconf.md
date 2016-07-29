@@ -1,7 +1,7 @@
 # Learnings from Uberconf - 2016 
  I got to attend the wonderful technical conference - [uberconf](https://uberconf.com/) and I would like share summary of my learnings in this post. 
  
-  ## Feedback about the uberconf
+## Feedback about the uberconf
        
  Before I jump on to the summary sessions, let me share my impression about the conference. This is one the best technical conference I ever attended. I tweeted 
       
