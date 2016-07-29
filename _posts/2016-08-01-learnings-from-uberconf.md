@@ -96,3 +96,16 @@ description: I got to attend the wonderful technical conference uberconf and I w
 * Frege compiles to Java, runs on the JVM, and reuse with existing java libraries.
 * If you love **Haskell** and *purely* functional language.  ***Frege*** is a great choice.
 
+###  Software Architecture Fundamentals [Neal Ford](https://twitter.com/@neal4d) and [Mark Richards](https://twitter.com/@markrichardssa)
+
+* We should move from tranditional *layerd N-tier* architecture to ***microservices*** architecture.
+	* *microservices* architecture has high score for most of architecture characteristics like *agility, testability, scalabilty, evolutionary*
+	* But major complication is we can no longer manually manage applications, deployments , tests , builds etc. **DevOps** becomes very important.
+* ***Service-based architecture*** can be used as a middle ground to reduce complexities of *microservices* architecture.
+	* Instead of splitting into thousands of microservices and combine the into *service components*.
+* ***Event driven architecture:*** Works best for applications that doesn't need immediate response and everything can be asynchronously processed.
+	* It's easy build concurrent, scalable , reactive and reselient applications using event drive architecure.
+    * But the problem with event drive approach is it becomes  **Really hard** to understand and monitor entire flow. 
+* ***Microkernal Architecture:*** can be used to build *core system* to run minimal functionality and support more functionalities using *plugin-modules* .
+	* Managing *transitive dependencies* and *plugin-contracts* are the biggest problems with this architecture.
+
