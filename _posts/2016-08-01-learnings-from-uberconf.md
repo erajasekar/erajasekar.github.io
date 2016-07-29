@@ -96,7 +96,7 @@ description: I got to attend the wonderful technical conference uberconf and I w
 * Frege compiles to Java, runs on the JVM, and reuse with existing java libraries.
 * If you love **Haskell** and *purely* functional language.  ***Frege*** is a great choice.
 
-###  Software Architecture Fundamentals [Neal Ford](https://twitter.com/@neal4d) and [Mark Richards](https://twitter.com/@markrichardssa)
+###  Software Architecture Fundamentals by  [Neal Ford](https://twitter.com/@neal4d) and [Mark Richards](https://twitter.com/@markrichardssa)
 
 * We should move from tranditional *layerd N-tier* architecture to ***microservices*** architecture.
 	* *microservices* architecture has high score for most of architecture characteristics like *agility, testability, scalabilty, evolutionary*
@@ -108,4 +108,21 @@ description: I got to attend the wonderful technical conference uberconf and I w
     * But the problem with event drive approach is it becomes  **Really hard** to understand and monitor entire flow. 
 * ***Microkernal Architecture:*** can be used to build *core system* to run minimal functionality and support more functionalities using *plugin-modules* .
 	* Managing *transitive dependencies* and *plugin-contracts* are the biggest problems with this architecture.
+
+###  Why does yesterday's best practice becomes tomorrow's Anti-pattern by [Neal Ford](https://twitter.com/@neal4d)
+
+* Adapdability of software is more important than predictability of software.
+* Evolutionary architecuture is crucial for different parts of application to evolve on it's own phase.
+* *Microservices* helps to move towards Evoluationary architecture.
+
+###   Java Optimizations That Matter by Douglas Hawkins
+
+* Micro-optimizations are just that - not much *valuable*. Modern compilers are smart enough to implicitly do bunch of optimizations.    
+* `java.util.concurrent` is *awesome* , but read docs *carefully*. 
+
+###    Concurrency Concepts in Java by Douglas Hawkins
+
+* There is no automatic concurrency management in Java.  We need to explicitly code for synchronous handling of states during concurrent execution. 
+* **Immutablity is your best friend**
+> Immutable objects have a very compelling list of positive qualities. When you create immutable classes, entire categories of problems simpy disappear .
 
