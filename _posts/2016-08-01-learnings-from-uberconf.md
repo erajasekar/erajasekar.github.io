@@ -18,11 +18,11 @@
 * **12. Schedule Time to Lower Technical Debts :**  if technical debt is not payed back, we’ll end up with technical bankruptcy.
 * **11. Favor high cohesion:** Narrow, focused, does only one thing well
 * **10. Favor Loose Coupling:** Tight coupling make code hard to extend hard to test
-* **09. Program with Intention:** Most of the time, we program accidentally without delibrate. Any code written should have clear intention.
+* **09. Program with Intention:** Most of the time, we program accidentally without deliberate. Any code written should have clear intention.
 * **08. Avoid Primitive Obsession:** Favor Functional code over imperative.
 * **07.  Prefer Clear Code over Clever Code**
 * **06. Apply Zinsser's Principle on Writing:** Great timeless book On writing well by Zinsser's for writing english. But very well applies to code. Principles are Simplicity , Clarity, Brevity, Humanity
-* **05. Comment Why, not What:** Use comments to describle its purpose and constraints. Do’t use commenting as substitue for good code.
+* **05. Comment Why, not What:** Use comments to describe its purpose and constraints. Do’t use commenting as substitute for good code.
 * **04. Avoid long methods**
 * **03. Apply SLAP** A method should have singly level of abstraction.
 * **02. Do tactical code reviews:** Peer reviews catch 60% of defects.
@@ -60,8 +60,8 @@
  
 * **Automated testing** - Without automated testing and feedback, it's hard to make a decision later and verify everything still work.
  * **Triangulate**
-	+ You don't a interface or abstract base class for every thing.
-    + Instead write a class, write another similiar class if it happens, then. **triangulate ** - extract what is common into a base.
+	+ You don't a interface or abstract base class for everything.
+    + Instead write a class, write another similar class if it happens, then. **triangulate ** - extract what is common into a base.
  * **Postle's law** - Follow [Robustness Principle](https://en.wikipedia.org/wiki/Robustness_principle)  Be conservative in what you send, be liberal in what you accept
 * **Minimize libraries and frameworks:** Don't build what you can buy (or available open source) . Don't buy (or download) what you don't need. 
 
