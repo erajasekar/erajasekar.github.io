@@ -8,8 +8,8 @@ comments: true
 description: I got to attend the wonderful technical conference uberconf and I would like share feedback about the conference and summary of my learnings in this post. 
 
 ---
-# Learnings from Uberconf - 2016 
- I got to attend the wonderful technical conference - [uberconf](https://uberconf.com/) and I would like share summary of what I learnt from conference in this post. 
+# What I learnt from uberconf - Software technical conference
+I got to attend the wonderful software technical conference - [uberconf](https://uberconf.com/) and I would like share summary of what I learnt from conference in this post. 
  
 ## Feedback about the uberconf
        
