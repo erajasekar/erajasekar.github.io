@@ -9,7 +9,7 @@ description: I got to attend the wonderful technical conference uberconf and I w
 
 ---
 # Learnings from Uberconf - 2016 
- I got to attend the wonderful technical conference - [uberconf](https://uberconf.com/) and I would like share summary of my learnings in this post. 
+ I got to attend the wonderful technical conference - [uberconf](https://uberconf.com/) and I would like share summary of what I learnt from conference in this post. 
  
 ## Feedback about the uberconf
        
@@ -19,7 +19,7 @@ description: I got to attend the wonderful technical conference uberconf and I w
  
  The best thing I liked about the conference is that the sessions are 1.5 hours long that gave us enough time to learn deep-dive and learn the subject. Also, the some of the longer subjects are split into two parts so that we can learn them in depth and do some hands on work.  The speakers are not only experts on their subject, they are good mentors and presented their sessions more engaging style.
  <br>        
- The only complaint, I can tell is that we are given only audio recordings of the session to offline listen after the conference. It would be have been great if video recordings are available after the conference.
+ The only complaint I have is that we were given only audio recordings of the session for offline listening. It would be have been great if video recordings are available after the conference. 
   
 ## Summary of learnings from sessions
 
@@ -132,5 +132,6 @@ description: I got to attend the wonderful technical conference uberconf and I w
 * [Zipkin](http://zipkin.io/) is a distributed tracing system based on **Dapper** . It helps to track complete flow of events in distributed microservice architecture.
 * [Spring Sleuth](https://cloud.spring.io/spring-cloud-sleuth/)  provides an implementation of distributed tracing solution for Spring platform based on **Dapper** and provides great with Zipkin.
 
-Refer to [this doc](https://goo.gl/F2gT5h) if you like to read my complete notes on all of these topics. 
+I have summarized notes from only few important sessions. Refer to [this doc](https://goo.gl/F2gT5h)  if you like to read my complete notes on all the sessions I attended.
+
 
