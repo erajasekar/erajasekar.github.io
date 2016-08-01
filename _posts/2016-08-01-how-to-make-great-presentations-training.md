@@ -20,14 +20,17 @@ State one or all of the following.
 * What will be the takeaway at the end of the presentation.
 
 You need to make sure that they feel that spending next hour or so in this training is worth their time.
-
 <br>
 
 ### 2. Try to Start with an exercise
 
 * It can be as simple as stating a *problem, situation or a use case* related to the topic and ask participants to write about it.
 * For example If training is about software architecture fundamentals
-    + State a business problem and ask participants to identify which architecture characteristics (like scalability, reliability, responsive, etc) should be satisfied to solve the problem.
+
+```
+State a business problem and ask participants to identify which architecture characteristics (like scalability, reliability, responsive, etc) should be satisfied to solve the problem.
+```
+
 * Depending on the number of attendees, ask them to form a group.
 * This not only creates audience engagement but prepares their mind to think about the topic.
 * If participants are unfamiliar to each other, it also helps them to introduce each other and socialize.
@@ -63,7 +66,7 @@ You need to make sure that they feel that spending next hour or so in this train
 >     4. Summary.
 
 * It should pretty much be told like a story.
-* Stories are typically narrated with many surprises to keep audience attention. But rather than surprises, throw them an open question and tell them that you will get to answer at end of the session or they will able to figure it out themselves as a result of the learning.
+* Stories are typically narrated with many surprises to keep audience engaged. But rather than surprises, throw them an open question and tell them that you will get to answer at end of the session or they will able to figure it out themselves as a result of the learning.
 * Example on Software architecture training.
 
 ```
@@ -82,7 +85,7 @@ You need to make sure that they feel that spending next hour or so in this train
 ### 6. Tips to Make it stick
 
 * Use analogies whenever possible. Analogies help to associate new concepts with already familiar things. So it makes it easy remember.
-* Use famous quotes from other people.
+* Use famous quotes from other people. Quotes can shrink huge message into a short verse.
 * Convey single message / tagline about the topic.
 * Give some handouts to take with.
 * Use live demo when possible.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What I learnt from uberconf - Software technical conference
-date: 2016-08-01
+date: 2016-07-31
 draft: false
 tags: conference java programming career
 comments: true
