@@ -60,7 +60,7 @@ I got to attend the wonderful software technical conference - [uberconf](https:/
  * **Reversibility:**  When making a decision, If it is easier to reverse, go for it. If it is hard to reverse, postpone the decision until you no longer can.
  * **Wait for last responsible moment:**  Compare the cost of doing it *now* vs the cost of doing it *later*. 
         
-![Last Responsible Moment](https://raw.githubusercontent.com/erajasekar/erajasekar.github.io/master/assets/images/uberconf/last-responsible-moment.png){:height="400px" width="500px"}
+![Last Responsible Moment](https://raw.githubusercontent.com/erajasekar/erajasekar.github.io/master/assets/images/uberconf/last-responsible-moment.png){:height="400px" width="450px"}
  
 * **Automated testing** - Without automated testing and feedback, it's hard to make a decision later and verify everything still work.
  * **Triangulate**
