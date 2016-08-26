@@ -53,7 +53,7 @@ If kids can write, we should encourage them to make this table by themselves. Yo
 ### What younger kids can learn from this?
 
 * Addition.
-* Teaches addition of multiple numbers gradually from 2 and up to 5. 
+* Teaches addition of many numbers gradually from 2 and up to 5. 
 * Tracking a previous result in mind and continuing calculation is an important skill they will learn.
 * Constraints and rules: They have to pick from only numbers `1,2,4,8,16` . Working through a problem under given constraints is a useful skill they will learn.
 * Subtraction.  To teach basics of subtraction, you can have conversation like this:
