@@ -25,7 +25,7 @@ Play again with below app to reveal the trick
 
 <!-- <iframe src="http://embed.plnkr.co/78COJC/?show=preview" frameborder="0" width="100%" height="750"></iframe> -->
 
-So just add numbers in the last row for selected columns to find the number. Simple enough, Right? Are you to know curious how it works?
+So just add numbers in the last row for selected columns to find the number. Simple enough, Right? Curious, how it works?
 
 ## How does it work?
 
