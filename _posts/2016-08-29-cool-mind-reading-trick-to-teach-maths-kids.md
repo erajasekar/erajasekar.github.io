@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cool Mind reading trick to teach maths to kids
-date: 2016-08-09
+date: 2016-08-29
 draft: false
 tags: kids teaching education do-it-yourself maths 
 comments: true
@@ -16,14 +16,14 @@ I taught a cool mind reading trick to my kid and she loved playing it. It's base
 
 Think of a number between 1 and 30. In below app, select all the columns you see that number  and hit submit.
 
-<!-- <iframe src="http://embed.plnkr.co/CxbAU7/?show=preview" frameborder="0" width="100%" height="750"></iframe> -->
+<iframe src="http://embed.plnkr.co/CxbAU7/?show=preview" frameborder="0" width="100%" height="750"></iframe>
  
 
 ## What's the secret trick?
 
 Play again with below app to reveal the trick
 
-<!-- <iframe src="http://embed.plnkr.co/78COJC/?show=preview" frameborder="0" width="100%" height="750"></iframe> -->
+<iframe src="http://embed.plnkr.co/78COJC/?show=preview" frameborder="0" width="100%" height="750"></iframe>
 
 So just add numbers in the last row for selected columns to find the number. Simple enough, Right? Curious, how it works?
 
@@ -31,7 +31,7 @@ So just add numbers in the last row for selected columns to find the number. Sim
 
 What's special about numbers `1,2,4,8,16` ? They are powers of ***2***. Doesn't it sound related to *computer science?* Assume each column represent a binary digit ( ***0*** or ***1*** ) and 5 columns can make up a 5 bit binary. Then we'll add each number to a column only if binary representation of that number has 1 for the corresponding column. Below demo will help you to visualize it step by step. Use the slider to increment the number and watch how each number gets filled in. As a 5 bit binary can represent 1 to 31 in decimal numbers, we can use up to number 31.
 
-<!-- <iframe src="http://embed.plnkr.co/7Wikwy/?show=preview" frameborder="0" width="100%" height="750"></iframe> -->
+<iframe src="http://embed.plnkr.co/7Wikwy/?show=preview" frameborder="0" width="100%" height="750"></iframe> 
 
 
 Yep, It's based on the binary number system. Basically, we will be converting a decimal number to a binary to fill in the table and converting binary back to decimal while finding the number.
@@ -75,7 +75,7 @@ Here are some ideas on what we can teach to elder kids by connecting this to rea
 
 ## Credits
 
-I actually learned this trick from [keithschwarz.com](http://www.keithschwarz.com/mathtricks/howboxes.php). Thanks to **Prof. Keith Schwarz**.
+I actually got to know this trick from [keithschwarz.com](http://www.keithschwarz.com/mathtricks/howboxes.php). Thanks to **Prof. Keith Schwarz**.
 
 
 
