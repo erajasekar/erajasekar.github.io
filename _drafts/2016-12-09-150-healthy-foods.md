@@ -26,6 +26,46 @@ analytics: true
 
 There are no bad vegetables. TODO
 
+### Artichokes
+
+#### Benefits 
+Artichokes Bring Stomach Relief
+
+### Arugula
+
+#### Nutrients 
+* Vitamin  A, Vitamin K 
+* Eye-healthy carotenoids, lutein and zeaxanthin
+
+### Asparagus
+
+#### Benefits
+* The asparagus root is also believed to help develop peace of mind, a loving nature, a good memory, and a calm spirit. 
+*  In India, it’s used to promote fertility, reduce menstrual cramping, and increase milk production in nursing mothers. 
+
+#### Nutrients
+High in vitamin K, essential for healthy clotting and for strong bones. Also has Good amount of pottasium and folate 
+
+### Beets
+
+#### Nutrients
+It's loaded with pottasium and good source of folate and magnesium 
+
+#### Worth Knowing
+Beets got a bad rap from the low-carb folks because they are high in sugar. <br/> That’s true, but not significant unless you’re really, really sugar sensitive. 
+
+### Broccoli
+
+#### Benefits
+This superstar vegetable has been lauded for its cancer-fighting power. 
+
+#### Nutrients
+* These vegetables are excellent sources of a family of anticancer phytochemicals called isothiocyanates. Isothiocyanates fight cancer by neutralizing carcinogens—the “bad guys” of the cancer battle.
+* Also a nutritional powerhouse that contains potassium, fiber, magnesium, Vitamin C, folate, magnesium, phosphorus, beta-carotene, vitamin A.
+
+#### Worth Knowing
+Broccoli on their 2003 list of twelve foods least contaminated with pesticides which is nice.
+
 | Vegetable | Nutrient constituents / Health Benefits | Worth knowing
 | -------- | -------- | -------- |
 | Artichokes   | Artichokes Bring Stomach Relief  |
