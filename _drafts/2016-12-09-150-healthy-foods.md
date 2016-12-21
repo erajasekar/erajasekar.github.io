@@ -154,8 +154,84 @@ There are no bad vegetables. But these are identified as ***superstars*** that a
 * Like its relatives (broccoli, Brussels sprouts, cabbage), kohlrabi contains important phytochemicals such as cancer-fighting indoles, sulforaphane, and isothiocynates. 
 * It’s also a good source of vitamin C and an excellent source of potassium.
 
-           
-             
+### Leeks 
+
+* Leeks are also a good source of two of the most important carotenoids for eye health, lutein and zeaxanthin. 
+* Leeks also have fiber, calcium, iron, magnesium, phosphorus, potassium, vitamin K, and vitamin A.        
+
+### Mushrooms
+
+* The three specific types with the greatest health benefits are Maitake, Shiitake, and Reishi. All three have powerful effects on the immune system, and all three act as medicine.
+* Maitake is especially good for counteracting the toxic effects of radiation and chemotherapy, such as extreme fatigue and nausea.    
+* Reishi mushrooms appear to be a natural stress-buster. It is the mushroom of choice for people under extreme physical or emotional stress.
+* Mushrooms in general also contain a powerful antioxidant called L- ergothioneine.  it seems to act as a metabolic energy enhancer, stimulating the breakdown of sugar in red blood cells and mimicking carnitine in its ability to transport fat into the mitochondria of the cells where the fat can be burned for energy. That’s exactly what most over-the-counter weight loss supplements promise but rarely deliver.
+
+### Okra
+
+*  It’s one of a select group of foods that include naturally occurring glutathione, arguably the most important antioxidant in the body.  It also helps the liver detoxify chemicals.
+* Okra’s also a high-fiber food.
+* It’s also pretty high in protein.
+* Okra is high in calcium, magnesium, potassium, vitamin A, vitamin K, and folic acid.
+*  In Ayurvedic medicine, okra is considered “tridoshic,” meaning it is good for balancing all metabolic types.
+
+### Onions
+
+* Onions are a cancer-fighting food.
+* Onions Help Build Strong Bones.
+* Onions contain powerful antioxidants and are anti-inflammatory, antibiotic, and antiviral. 
+* Onions also contain a number of sulfides very similar to those in garlic, which may lower blood lipids and blood pressure.
+* > Onions on its 2003 list of twelve foods least contaminated with pesticides. Great!
+
+### Peppers
+
+* Capsaicin peppers are rich in a host of nutrients, including beta-carotene, eye-friendly carotenoids lutein and zeaxanthin, and vitamin C. Their vitamin C content is probably the reason they have been used as a popular natural remedy for colds and coughs.
+* The active ingredient, capsaicin, produces a feeling of warmth when applied to the skin.
+* Hot peppers (and their powders) may act as a metabolism booster. 
+
+### Peppers (sweet)
+
+* Nutritionally they’re an excellent source of vitamins C and A (beta-carotene) and the mineral potassium. They also contain vitamin K, which is increasingly coming under scrutiny as a vitally important component of bone health.
+* Red peppers contain beta-cryptoxanthin, a carotenoid that may lower the risk of developing lung cancer.
+* > Bell peppers on its 2003 list of twelve foods most contaminated with pesticides. So Organic is recommended.
+
+### Pumpkin
+
+* This vegetable that is ridiculously low in calories while very high in potassium and vitamin A.
+* Pumpkin contains more than 5,000 mcg of beta-carotene, another 853 of alpha-carotene, and more than 3,500 mcg of beta-cryptoxanthin, a member of the carotenoid family that seems to reduce the risk of lung and colon cancer.
+* Your Eyes Will Thank You Pumpkin has more than 2,400 mcg of the carotenoids lutein and zeaxanthin, which are fast becoming the star nutrients in eye health and vision protection programs. 
+* Pumpkin also has more than 12,000 IUs of vitamin A, plus a little bit of calcium, iron, magnesium, and phosphorus just for good measure.
+
+### Purslane
+
+* Purslane Highest in Omega-3s The real claim to fame of purslane as a health food is that its omega-3 concentration is the highest of any green leafy vegetable.
+* It also has Calcium, Potassium, and Vitamin A.### Spinach
+
+* Calorie for calorie, green leafy vegetables like spinach provide more nutrients than almost any other food on the planet. Spinach is loaded with vitamins and is one of the best sources of vitamin K.
+* Great Alternative to Milk for Vitamin C Speaking of calcium, spinach is a fine source of calcium and a great alternative to dairy for people who don’t want to drink milk. It’s also got vitamin A, manganese, folic acid, magnesium, iron, vitamin C, and a powerful anti-inflammatory compound called quercetin.
+* Sharp Minds for Spinach Eaters Spinach can also help prevent colon cancer because its vitamin C and beta- carotene help protect the colon cells from the damaging effects of free radicals. Those vitamins also help reduce inflammation, and may help protect the brain from the kinds of age-related declines we often see in brain function.
+* Spinach is a great source of iron. 
+* Finally, spinach contains lutein, a carotenoid that protects against eye disease and vision loss, like the kind caused by cataracts and macular degeneration.
+* > Spinach on its 2003 list of twelve foods most contaminated with pesticides.So organic is recommended.
+
+### Squash
+
+* Summer and Winter Squash Go Head to Head Like most vegetables, summer squash is high in the heart-healthy mineral potassium. 
+*  There’s also a decent amount of vitamin A, and beta-carotene,* Squash Can Help with Weight Loss One of the good things about squash in general is that it has a high water content.
+
+### Sweet Potatos
+
+* As starchy vegetables go, this is probably my absolute favorite.
+* This starchy carbohydrate is high in fiber (half of which is soluble) and a rich source of powerful antioxidants in the carotenoid family, especially beta-carotene. Sweet potatoes are loaded with vitamin A and heart-healthy potassium, and they even have a dollop of calcium.
+*  Finally, sweet potatoes contain other phytochemicals like quercetin, a powerful anti-inflammatory, and chlorogenic acid, an antioxidant.
+
+### Swiss Chard
+
+* Swiss chard is an excellent example of a nutritional powerhouse that delivers the goods for almost no calories.
+* It has lots of fiber, Calcium, an incredible amount of potassium, and  vitamin C, vitamin A,
+* > Swiss chard—like spinach, beets, rhubarb, and some other foods—does contain oxalates, which are not a concern for most people, but may be for those who have one type of kidney stones. Calcium oxalate kidney stones can result from excessive oxalates being absorbed through the gut and then binding with calcium in the urine and precipitating out to form the stones.
+
+### Tomatoes
+
 
 
 
