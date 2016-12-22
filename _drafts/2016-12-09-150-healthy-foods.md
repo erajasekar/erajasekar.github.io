@@ -232,6 +232,92 @@ There are no bad vegetables. But these are identified as ***superstars*** that a
 
 ### Tomatoes
 
+* Tomatoes cooked with oil, are a rich source of the carotenoid lycopene.  Lycopene is associated with significant reduction in prostate cancer.* Lycopene protects against lung and stomach cancers as well, and preliminary research shows protection against pancreatic, colorectal, esophageal, oral, breast, and cervical cancers.
+* one study showed that treatment with antioxidant-rich tomato extract can reduce blood pressure in patients with grade 1 hypertension.
+* The anticancer properties of lycopene are especially beneficial when consumed with fat-rich foods, such as avocado, olive oil, or nuts.
+* Tomatoes also have a compound in them called lutein, which is really important for eye health
+* You’re really best off buying tomatoes from local farmers and getting vine ripened whenever possible. They taste a lot better.
+* > Tomatoes are usually avoided by people with GERD (gastroesophageal reflux disease) as well.
 
+### Turnips
+
+* Turnips belong to the genus Brassica (cabbage), members of which are so widely acclaimed for their cancer-fighting indoles and isothiocyanates and other health-giving phytochemicals.
+* Turnip Greens Promote Bone Health Turnips are another of those “high-volume” foods that fill you up without costing you a lot of calories. 
+* It has fiber, potassium, vitamin C, calcium, Vitamin Am beta-carotene.                
+### Watercress
+
+* Watercress Contains Four Times the Calcium of Milk
+* This little plant contains as much vitamin C as oranges and more iron than spinach.
+* It contains Vitamin A, C, K. eye nutrition, lutein and zeaxan-thin.
+
+## Grains
+
+Eight cereal grains (wheat, corn, rice, barley, sorghum, oats, rye, and millet) now provide 56 percent of the calories and 50 percent of the protein consumed on earth. Without these crops, the planet could not support six billion people. Grains Allow Modern Civilization to Flourish. 
+
+### Does grains provide good nutrients?
+
+It’s finally becoming accepted wisdom that the refined grains—which constitute most of our cereals, pastas, and breads—are absolutely useless nutritionally, but I’m not 100 percent sure so-called “whole” grains are light years better. One reason is that no grain can be eaten in a completely unrefined state. No one plucks wheat from the ground and starts eating. All grains by definition have to be milled and ground to some degree, one reason being that in their natural state they contain many “antinutrients,” substances (like phytates) that interfere with the absorption and assimilation of nutrients in the grain, especially minerals.
+
+### Impact to blood sugar levels
+
+* While the urban legend is that “whole grains” raise blood sugar much more slowly than their refined cousins, an examination of the glycemic index and glycemic load tables shows this is not always the case.
+* Brown rice and white rice have virtually the same glycemic impact. So do “whole wheat” and white bread. Grains, by and large, are starch juggernauts and almost all of them raise blood sugar (and insulin) quickly.
+
+#### Chosing best grains
+
+#### Oatmeal
+
+* Oats are simply a great source of fiber and contain a nice mix of both essential kinds (55 percent soluble and 45 percent insoluble).
+* Oatmeal Turbocharges Your Immune System.
+* Oatmeal Has More Protein Than Any Popular Cereal.
+* >  The type of oatmeal you buy makes all the difference in the world. Forget about the instant packs; they are not even in the ball game. They’re usually sweetened, making their potential benefits for diabetics disappear. The less processing, the higher the fiber, the lower the glycemic load (sugar impact), and the better the oatmeal is for you.
+
+#### Quinoa
+
+* Quinoa is a highly nutritious food and is considered a high-protein “grain.” The protein quality and quantity in quinoa seed is often superior to those of more common cereal grains.
+* Quinoa has a lower sodium content and is higher in calcium, phosphorus, magnesium, potassium, copper, manganese, and zinc than wheat, barley, or corn. It’s particularly high in iron.
+
+#### White Rice vs Brown Rice
+
+* Brown rice is the entire grain of rice, while white rice has had the bran layer removed. Stripping the grain of its bran layer strips it of a majority of its fiber content along with many of its vitamins and minerals. Since brown rice only has the outer hull removed, it retains such nutrients as niacin, vitamin B6, magnesium, manganese, phosphorus, selenium, and even some vitamin E.
+
+* >  If you eat rice, stick with whole grain. Forget about white. Consider using rice as a small side dish, about the size of an ice cream scoop.
+
+### What’s the best advice?
+
+> Let’s put it this way: If you ate a great balance of foods from the 150 that make up the list of the healthiest foods on the planet, and you never touched a grain for the rest of your life, you wouldn’t be missing anything nutritionally. The same cannot be said of the fruits, vegetables, eggs, oils, spices, meat, fish, and poultry.
+
+##  Beans and Legumes
+
+### Beans
+
+* They lower cholesterol. A cup of cooked beans a day can lower your total cholesterol by up to 10 percent in a mere six weeks.
+* They’re loaded with protective phytochemicals, antioxidants, and vitamins.
+* Beans are the ultimate low-glycemic food. Their high fiber content means they raise blood sugar very, very slowly, and eating high-fiber foods like beans has been shown in a number of studies to improve what’s called “glycemic control”—the regulation of blood sugar and insulin.
+* Researchers found a significant reduced frequency of breast cancer in those women who consumed a higher intake of common beans or lentils.
+* They’re loaded with antioxidants. The USDA’s ranking of foods by antioxidant capacity lists small dried red beans as having the highest antioxidant capacity per serving size of any food tested; in fact, of the four top- scoring foods, three were beans (red beans, red kidney beans, and pinto beans). Many bean varieties have a lot of folic acid (especially adzukis, black-eyed peas, lentils, and pinto beans),
+* Beans are also a good source of protein, typically containing 15 g per cup. And unlike most commercial animal protein sources, they don’t come with any steroids, hormones, or antibiotics.
+* > Beans lower risks of heart disease, diabetes, obesity, and cancer. 
+
+### Garbanzo Beans (chickpeas)
+
+* Chickpeas belong to the class of food called legumes or pulses, which also includes beans, lentils, and peas. Eating more legumes can reduce the risk of coronary heart disease.
+* They are highest in fiber content. 
+* Chickpeas also have calcium and magnesium in a great 1:1 ratio, a decent amount of folate, and a ton of heart- healthy potassium
+
+### Green Peas
+
+* Peas Are Packed with Vitamins A and K
+* Peas are a little high in sugar as legumes (or vegetables) go, but that’s balanced by the fact that it has great amount of fiber. Peas also have 42 percent of the Daily Value for vitamin A.
+* They also have very good amount of protien.
+
+### Lentils
+
+* Lentils are distinguished from beans in that they don’t contain sulfur and therefore don’t produce gas.
+* Lentils are loaded with high soluble fibre. Soluble fiber helps control blood sugar by delaying the emptying of the stomach and retarding the entry of sugar into the bloodstream.
+* A cup of lentils contains a nice amount of protein—about 18 g. But best of all, that same cup contains a whopping 16 g of fiber. Lentils are also a terrific source of folate and a good source of at least seven minerals.manganese, an important trace mineral that’s essential for growth, reproduction, wound healing, peak brain function, and the proper metabolism of sugars, insulin, and cholesterol.
+* Lentits that have their outer skin removed has lower nutritional value, especially the fiber content.
+
+## Fruits
 
 
