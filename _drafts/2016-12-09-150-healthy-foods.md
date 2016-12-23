@@ -320,4 +320,113 @@ It’s finally becoming accepted wisdom that the refined grains—which constitu
 
 ## Fruits
 
+Fruites are wonderful but it has a lot of sugar and can play havoc with both blood sugar and insulin. Almost all the nutrients found in fruits are obtainable in vegetables, and with substantially less impact on blood sugar.
+
+So If we are forced to choose one of two categories vegetables vs fruits, Vegetables are the clear winner. 
+
+### Apples
+
+* ***An apple a day keeps the doctor away*** is a good example of one of those old clichés that actually turns out to be right.
+* Apples contain quercetin, a flavonoid that, in a 2001 Mayo Clinic study, helped prevent the growth of prostate cancer cells.
+* Apples contain a whole host of phytochemicals, including the aforementioned quercetin, plus catechin, phloridzin, and chlorogenic acid.
+* Apples have the second highest level of antioxidant power of any other commonly consumed fruit (beaten out only by cranberries)
+* Both cardiovascular disease and cancer are thought to be highly related to what’s called “oxidative stress” (the damage done to cells and DNA by oxidation), Apple's antioxidant power will fight off the destructive effects of that oxidation. 
+* Apples Eaters Enjoy Less Risk of Tumors, Lung Cancer, and Cardiovascular Problems, Asthma.
+* Apples contain pectin, a valuable source of soluble fiber that can lower bad cholesterol (LDL) and help regulate blood sugar.
+* Apples do have some sugar (fructose), but I wouldn’t worry about it (unless you are a diabetic or have serious blood sugar challenges). The sugar in apples come wrapped with 5 g of fiber and a rich blend of nutrients.
+* > Apples on its 2003 list of twelve foods most contaminated with pesticides. It's recommended to buy organic.
+
+### Apricots
+
+* Apricots good amount of fiber, Vitamin A,  potassium. 
+* Also has phytosterols, plant chemicals that have numerous health benefits. 
+* Apricots also contain beta-cryptoxanthin, a member of the carotenoid family that is a strong antioxidant and seems to reduce the risk of lung and colon cancer.
+
+### Avocados
+
+* Avocados are an amazing food. But until recently, you’d never know it.
+* Avocados are high in fat. But that fat is largely monounsaturated fat, specifically oleic acid, an omega-9 fat that is found in high amounts in olive oil and macadamia nut oil and many nuts. So fat in avacados are good for you.
+* Monounsaturated fat like the kind found in avocados has also been linked to a reduced risk of cancer and diabetes.
+* Great for Eyes, Heart, and Skin! Avocados also contain lutein, a valuable member of the carotenoid family that is a natural antioxidant and helps your eyes stay healthy while maintaining the health of your skin.
+* Avocados are also a great source of fiber and potassium.
+* They also contain folate, vitamin A, beta-carotene, and beta-cryptoxanthin.
+* There’s a bit of difference in the nutritional composition of California and Florida avocados. If you’re still worried about fat and calories, go with the California version, but either way you can’t miss.
+
+### Bananas
+
+* Bananas provide a good amount of fiber, and while they are probably the first food that comes to mind when you think of potassium. A drop in potassium levels can make you weak and tired, and low potassium is often connected to muscle cramps.
+* They contain fructoogliosaccharides which are basically food for the good bacteria in your gut.
+* Among advocates of controlled carb eating (especially hard-core low-carbers) bananas got a bad rep as being a high-sugar food. That’s partly true, but not as bad as people think. The glycemic load of the average banana is 12.
+
+### Blueberries
+* Blueberries contain compounds like anthocyanin that are antioxidant and anti-inflammatory. And inflammation and oxidative stress are involved in virtually every major killer disease.
+* Blueberries are the ultimate memory food. Animal studies have demonstrated that daily consumption of blueberries dramatically slows impairments in motor coordination and memory that are the usual accompaniments of aging.
+
+### Cantaloupe
+
+* All melons are high-volume foods. That means that for a given amount of weight, they contain a relatively high amount of water, fiber, and air (and a relatively low number of calories). Foods with high volume and low calories—that is, foods with a lot of water and fiber—are your best friend in a weight control program.
+* Cantaloupe Lowers the Risk of High Blood Pressure and Stroke.
+* Then there’s pottassium, vitamin A and beta-carotene, are plentiful in cantaloupe.
+
+### Cherries
+
+* They’re relatively low in calories, and, like most fruits and vegetables they’re a good source of potassium.
+* Perillyl Alcohol in Cherries May Inhibit Tumor Growth
+* Doctors and scientists believe that it’s the anthocyanins in the cherries that cause the decrease in blood urates and the relief from gout pain.
+* It's on list of twelve foods most contaminated with pesticides. So go for organic.
+
+### Coconut
+
+* Coconut—and its oil—is one of the most healthy, amazing things you can ingest.
+* It has long been observed that people from the Pacific Islands and Asia whose diets are very high in coconut oil are surprisingly free from cardiovascular disease, cancer, and other degenerative diseases.
+* It has fiber, potassium, magnesium, little bit of sugar, and—most good amout of the most heart-healthy, life-supporting fat on the planet.
+* Coconut’s Medium-Chain Fatty Acids Are Easier to Metabolize, i.e  they are preferentially used for energy rather than stored as fat around your hips.
+*  in today’s world, any food that tastes delicious and can enhance the performance of your immune system at the same time deserves a place in the honor roll of healthy foods. TODO
+
+### Cranberries
+
+* Cranberries are low in calories, high in fiber, and low in sugar. 
+* It’s widely known that cranberries help prevent UTIs. This is accomplished by preventing bacteria from sticking to the lining of the urinary tract (see also cranberry juice, page 252). More recently it has been discovered that the same properties help reduce bacterial adhesion to teeth, thus reducing the formation of dental plaque.
+* Once you dry and sweeten them they may still have a lot of the healthful phenolic compounds, but the calories jump into the stratosphere
+
+### Dates
+
+* Full of Sugar, but Also Full of Nutrients Dates are not a low-calorie food, nor are they a low-sugar food.
+* It has calcium, magnesium, vitamin A, plus trace amounts of a half dozen other vitamins and minerals.
+* >  If you’ve got blood sugar issues, including metabolic syndrome or diabetes, or if you’re trying to lose weight and control sugar, you might want to pass on this one.### Figs
+
+* Figs for Maximum Fiber Besides tasting great.
+* It has great amount of calcium and pottassium too.
+
+### Grapefruit
+
+* Potential weight loss, cholesterol lowering, and anticancer benefits aside—and those are pretty big benefits to put aside—grapefruit is a good low-calorie source of potassium and vitamin C.
+
+### Grapes
+
+* Grapes are a whole pharmacy of healthful nutrients, many of which are potentially life extending, like resveratrol.  Scientists found that resveratrol showed cancer-preventive activity in three major stages of tumor formation.
+* Grapes Can Add Years to Your Life Resveratrol may be one of the best antiaging substances around.
+* Grape seeds and skins are also a huge source of a class of flavonoids called oligomeric proanthocyanidins, or OPCs. Proanthocyanidins are powerful antioxidants—several times more potent than vitamins C and E. They help protect against the effects of internal and environmental stresses (cigarette smoking, pollution).
+* Eat Grapes in Moderation Many folks are concerned about the sugar in grapes, and yes, the carb count is moderately high if you’re watching your carbs. But the glycemic index is moderate, and much more important, the glycemic load—the only number you need to worry about—is moderately low (under 10). The trick is not to overeat them
+* > Grapes on list of twelve foods most contaminated with pesticides. So go for organic.
+
+### Guava
+
+* Let’s start with the number-one-with-a-bullet reason why guava is such a superstar: lycopene. Lycopene in Guava Fights Prostate and Breast Cancers Guava has a higher concentration of the carotenoid lycopene than any other fruit or vegetable.
+* This fruit is a potassium heavyweight. One little cup of guava cubes gives you a whopping 688 mg of potassium.
+*  Guava Is Also High in Fiber and Vitamin C There’s just no end to what this fruit has to offer. It’s really high in fiber.
+*  It also has calcium and magnesium, and a significant amount of vitamin A and beta-carotene.
+
+### Lemons/Limes
+
+* Lemon Peel and Hot Black Tea for Reduced Risk of Skin Cancer Most of us know that lemons, like other citrus fruits, are a great source of vitamin C, a powerful antioxidant as well as an anti-inflammatory agent. For that reason alone, lemons would be a healthy fruit.
+* when citrus peel is consumed with hot black tea, the risk of skin cancer is reduced by 30 percent
+* Citrus fruits are among the dozen or so most allergenic foods—not as high on the list as wheat and dairy, but they can pose a problem for some sensitive people.
+
+### Mangoes
+
+
+
+                                            
+          
 
