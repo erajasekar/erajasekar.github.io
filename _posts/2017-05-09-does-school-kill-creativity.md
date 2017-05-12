@@ -20,7 +20,7 @@ Sir Ken Robinson's TED talk [Do Schools Kill Creativity?](https://www.ted.com/ta
 
 > We know that if you're not prepared to be wrong, you'll never come up with anything original. Kids are not frightened to be wrong. But We stigmatize mistakes, so by the time they get to be adults, most kids have lost that capacity. We're now running national education systems where mistakes are the worst thing you can make. And the result is that we are educating people out of their creative capacities.  
 
-The root of problem is evaluation and grading system in schools. Grading promotes fear of failure and  create a preference for the easiest possible task.  So kids will no longer explore, but just learn for grades.  Moreover,  Grades tend to diminish students’ interest in whatever they’re learning. Author Alfie Kohn evangelizes strong [case against grading](http://www.alfiekohn.org/article/case-grades/) .
+The root of problem is evaluation and grading system in schools. Grading promotes fear of failure and  create a preference for the easiest possible task.  So kids will no longer explore, but just learn for grades.  Moreover,  Grades tend to diminish students’ interest in whatever they’re learning. Author Alfie Kohn evangelizes strong [argument against grading](http://www.alfiekohn.org/article/case-grades/) .
 
 `
 Finland has consistently high standards of achievement on all international measures, but there is no standardized testing apart from a single examination at the end of high school. -- From book Creative Schools: The Grassroots Revolution
@@ -67,7 +67,7 @@ Instead of just learning facts and ideas, Arts provides more freedom to try some
 
 Also Arts provides space to make mistakes, learn from them and become better at that skill.  
 
-### The great innovation comes from intersection of technology and arts.
+### The great innovation comes from the intersection of technology and arts.
 
 The best ideas emerge from the intersection of technology and arts.  To emphasize this,  Steve Jobs during his product launches would conclude with a slide, projected on the screen behind him, of street signs showing the intersection of the Liberal Arts and Technology.
 
