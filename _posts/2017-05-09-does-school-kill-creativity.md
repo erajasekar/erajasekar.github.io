@@ -10,9 +10,10 @@ analytics: true
 ---
 
 We are all born with boundless creativity, But Are we educating people out of their creative capacities? If schools are undermining our creativity,  What should we do about it? Inspired by Sir Ken Robinson’s famous TED talk,  I will share my thoughts based on what I learnt about education and creativity.
+<br>
 
 ## Introduction
-Sir Ken Robinson's [TED talk](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)  *Do Schools Kill Creativity?* is the most popular TED talk and has about 45 million views at the time of my writing this. Ken Robinson makes a good case on Schools kill children’s innate creative talents, But in [EducationBookCast](http://educationbookcast.libsyn.com/podcast/42-do-schools-kill-creativity-by-sir-ken-robinson) Stanislaw Pstrokonski argues against it and rips apart Ken Robinson’s ideas. In this post, I will share my views in this topic.
+Sir Ken Robinson's TED talk [Do Schools Kill Creativity?](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity) is the most popular TED talk and has about 45 million views at the time of my writing this. Ken Robinson makes a good case on Schools kill children’s innate creative talents, But in [EducationBookCast](http://educationbookcast.libsyn.com/podcast/42-do-schools-kill-creativity-by-sir-ken-robinson) Stanislaw Pstrokonski argues against it and rips apart Ken Robinson’s ideas. In this post, I will share my views in this topic.
 
 ## Why do we become less creative as we grow older?
 *Ken Robison says:*
@@ -38,7 +39,7 @@ Stanislaw in  [EducationBookCast](http://educationbookcast.libsyn.com/podcast/42
 To be creative in a any field, you will first need to acquire skills and knowledge required to be expert on the subject. Ideas without domain knowledge won’t provide any value. Kids should utilize the deliberate practice  and hard work that school system demands to gain mastery over subject of their interest.  They should realize that ***There is no way to get around the fact that mastery requires a volume of work***.
 
 ## What’s wrong with giving more importance to Maths and Science than Arts?
-Ken Robinson Says:
+*Ken Robinson says:*
 
 > Every education system on Earth has the same hierarchy of subjects. At the top are mathematics and languages, then the humanities, and at the bottom are the arts.  This is because our education system came into being to meet the needs of industrialism. So the hierarchy is rooted on the two ideas.  
 
@@ -52,7 +53,7 @@ Genuine points. This is the most important concern of our education system for m
 
 We will agree that basic maths and fundamental science is useful in life. But what is the purpose of learning advanced maths and science if we will never use it in future?
 
-The point of school, beyond the basics, is to teach you how to think. It almost doesn’t matter what the subject matter is - you are learning how to think logically, how to solve problems, how to tackle things you’re unfamiliar with, how to overcome obstacles, how to think creatively, and how to learn itself. You don’t leave school with all the knowledge you need for the rest of your life; merely the ability to learn new knowledge as it arises. (Credit to [this](https://www.quora.com/Why-must-we-learn-advanced-math-college-algebra-trigonometry-when-most-of-us-wont-actually-use-it/answer/Jesse-Richards?srid=tP0b) quota answer).
+> The point of school, beyond the basics, is to teach you how to think. It almost doesn’t matter what the subject matter is - you are learning how to think logically, how to solve problems, how to tackle things you’re unfamiliar with, how to overcome obstacles, how to think creatively, and how to learn itself. You don’t leave school with all the knowledge you need for the rest of your life; merely the ability to learn new knowledge as it arises. (Credits to [Quora Answer](https://www.quora.com/Why-must-we-learn-advanced-math-college-algebra-trigonometry-when-most-of-us-wont-actually-use-it/answer/Jesse-Richards?srid=tP0b) ).
 
 Solving math problems is analogous to weight lifting. You don’t do squats and benchpress to get better at squats and benchpress. You lift weights to become stronger, in general. In same way, math work is to train your mind to become stronger.
 
@@ -70,13 +71,15 @@ Also Arts provides space to make mistakes, learn from them and become better at 
 
 The best ideas emerge from the intersection of technology and arts.  To emphasize this,  Steve Jobs during his product launches would conclude with a slide, projected on the screen behind him, of street signs showing the intersection of the Liberal Arts and Technology.
 
-![Apples DNA](https://raw.githubusercontent.com/erajasekar/blog-jekyll/master/assets/images/schools-kills-creativity/Apples_DNA.png){:height="400px" width="500px"}
+![Apples DNA](https://raw.githubusercontent.com/erajasekar/blog-jekyll/master/assets/images/schools-kills-creativity/Apples_DNA.png){:height="600px" width="1000px"}
 
 At his last such appearance, for the iPad 2 in 2011, he stood in front of that image and declared
 
 > It’s in Apple’s DNA that technology alone is not enough— that it’s technology married with liberal arts, married with the humanities, that yields us the result that makes our heart sing.  
 
-So for the kids who are interested in maths and science, introduce them to some form of Art to unleash their creative capabilities.  For the kids who are inclined towards arts, inspire them to see the artistic beauty of mathematical equation and to appreciate the brilliance of scientific invention.
+So for the kids who are interested in maths and science, introduce them to some form of Art to unleash their creative capabilities.
+
+For the kids who are inclined towards arts, inspire them to see the artistic beauty of mathematical equation and to appreciate the brilliance of scientific invention.
 
 ## Could degrees become worth nothing in future?
 Ken Robinson says:
