@@ -53,8 +53,7 @@ Genuine points. This is the most important concern of our education system for m
 We will agree that basic maths and fundamental science is useful in life. But what is the purpose of learning advanced maths and science if we will never use it in future?
 
 > `
-The point of school, beyond the basics, is to teach you how to think. It almost doesn’t matter what the subject matter is - you are learning how to think logically, how to solve problems, how to tackle things you’re unfamiliar with, how to overcome obstacles, how to think creatively, and how to learn itself. You don’t leave school with all the knowledge you need for the rest of your life; merely the ability to learn new knowledge as it arises.`
-- (Credits to [Quora Answer](https://www.quora.com/Why-must-we-learn-advanced-math-college-algebra-trigonometry-when-most-of-us-wont-actually-use-it/answer/Jesse-Richards?srid=tP0b) ).
+The point of school, beyond the basics, is to teach you how to think. It almost doesn’t matter what the subject matter is - you are learning how to think logically, how to solve problems, how to tackle things you’re unfamiliar with, how to overcome obstacles, how to think creatively, and how to learn itself. You don’t leave school with all the knowledge you need for the rest of your life; merely the ability to learn new knowledge as it arises.` -- (Credits to [Quora Answer](https://www.quora.com/Why-must-we-learn-advanced-math-college-algebra-trigonometry-when-most-of-us-wont-actually-use-it/answer/Jesse-Richards?srid=tP0b) ).
 
 Solving math problems is analogous to weight lifting. You don’t do squats and benchpress to get better at squats and benchpress. You lift weights to become stronger, in general. In same way, math work is to train your mind to become stronger.
 
