@@ -64,7 +64,7 @@ Once kids recognize that this is the goal, they would approach maths and science
 
 Instead of just learning facts and ideas, Arts provides more freedom to try something new and exercise their imaginative power. Imagination is the root of creativity. 
 
-Albert Einstein said that
+*Albert Einstein* said that
 
 > Imagination is more important than knowledge, because knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all there ever will be to know and understand.
 
@@ -72,7 +72,7 @@ Also Arts provides the space to make mistakes, learn from them and become better
 
 ### The greatest innovations come from the intersection of technology and arts.
 
-The best ideas emerge from the intersection of technology and arts.  To emphasize this,  Steve Jobs during his product launches would conclude with a slide, projected on the screen behind him, of street signs showing the intersection of the Liberal Arts and Technology.
+The best ideas emerge from the intersection of technology and arts.  To emphasize this,  **Steve Jobs** during his product launches would conclude with a slide, projected on the screen behind him, of street signs showing the intersection of the Liberal Arts and Technology.
 
 ![Apples DNA](https://raw.githubusercontent.com/erajasekar/blog-jekyll/master/assets/images/schools-kills-creativity/Apples_DNA.png){:height="600px" width="1000px"}
 
@@ -89,7 +89,7 @@ For the kids who are inclined towards arts, inspire them to see the artistic bea
 
 > We are going through the process of academic inflation, where you would now need a masters or even PhD for the job that required undergraduate degree previously. Suddenly, degrees aren’t worth anything.  
 
-In future, merely having a degree itself won’t be enough to get a good job. What a student does based on his own interest  outside of college will really be important. Salman Khan, the founder of [Khan Academy](https://www.khanacademy.org/) proposes, Academic achievement in every field should include a portfolio of creative work in his [One World SchoolHouse: Education Reimagined book](http://www.amazon.com/The-One-World-Schoolhouse-Reimagined/dp/1455508381/) . Here is the expert from the book:
+In future, merely having a degree itself won’t be enough to get a good job. What a student does based on his own interest  outside of college will really be important. **Salman Khan**, the founder of [Khan Academy](https://www.khanacademy.org/) proposes, Academic achievement in every field should include a portfolio of creative work in his [One World SchoolHouse: Education Reimagined book](http://www.amazon.com/The-One-World-Schoolhouse-Reimagined/dp/1455508381/) . Here is the expert from the book:
 
 > This brings me to the idea of the ‘creative portfolio’ as a central part of a student’s transcript. if we fail to take a serious look at what students have created on their own, above and beyond the lessons and tests, we miss an opportunity to appreciate what is truly special about them. More than any data, grades, or assessment, someone’s actual creative product is the best testament of his or her ability to create from scratch, to make a solution out of an open ended problem.  
 
