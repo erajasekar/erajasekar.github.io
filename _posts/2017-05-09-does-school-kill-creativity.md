@@ -5,22 +5,23 @@ date: 2017-05-09
 draft: false
 tags: teaching education school creativity
 comments: true
+toc: ul
 description: Do schools undermine our creativity? What should we do about it? Inspired by Sir Ken Robinson’s famous TED talk, I will share my thoughts based on what I learnt about education and creativity.
 analytics: true
 ---
 
-We are all born with boundless creativity, But Are we educating people out of their creative capacities? If schools are undermining our creativity,  What should we do about it? Inspired by Sir Ken Robinson’s famous TED talk,  I will share my thoughts based on what I learnt about education and creativity.
+We are all born with boundless creativity, But Are we educating people out of their creative capacities? If schools are undermining our creativity,  What should we do about it? Inspired by Sir Ken Robinson’s famous TED talk,  I will share my thoughts based on what I learnt about schools,education and creativity.
 <br>
 
 ## Introduction
-Sir Ken Robinson's TED talk [Do Schools Kill Creativity?](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity) is the most popular TED talk and has about 45 million views at the time of my writing this. Ken Robinson makes a good case on Schools kill children’s innate creative talents, But in [EducationBookCast](http://educationbookcast.libsyn.com/podcast/42-do-schools-kill-creativity-by-sir-ken-robinson) Stanislaw Pstrokonski argues against it and rips apart Ken Robinson’s ideas. In this post, I will share my views in this topic.
+Sir Ken Robinson's TED talk [Do Schools Kill Creativity?](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity) is the most popular TED talk and has about 45 million views at the time of my writing this. Ken Robinson makes a good case on Schools kill children’s innate creative talents, But in [EducationBookCast](http://educationbookcast.libsyn.com/podcast/42-do-schools-kill-creativity-by-sir-ken-robinson) Stanislaw Pstrokonski argues against it and rips apart Ken Robinson’s ideas. In this post, I will share my views in this topic. I will first quote Ken Robison speech and followed my ideas.
 
 ## Why do we become less creative as we grow older?
-*Ken Robison says:*
+*Ken Robison said:*
 
 > We know that if you're not prepared to be wrong, you'll never come up with anything original. Kids are not frightened to be wrong. But We stigmatize mistakes, so by the time they get to be adults, most kids have lost that capacity. We're now running national education systems where mistakes are the worst thing you can make. And the result is that we are educating people out of their creative capacities.  
 
-The root of problem is evaluation and grading system in schools. Grading promotes fear of failure and  create a preference for the easiest possible task.  So kids will no longer explore, but just learn for grades.  Moreover,  Grades tend to diminish students’ interest in whatever they’re learning. Author Alfie Kohn evangelizes strong [argument against grading](http://www.alfiekohn.org/article/case-grades/) .
+The root of problem is evaluation and grading system in schools. Grading promotes fear of failure and  create a preference for the easiest possible task.  So kids will no longer explore, but just study for grades.  Moreover,  Grades tend to diminish students’ interest in whatever they’re learning. Author Alfie Kohn evangelizes strong [argument against grading](http://www.alfiekohn.org/article/case-grades/) .
 
 `
 Finland has consistently high standards of achievement on all international measures, but there is no standardized testing apart from a single examination at the end of high school. -- From book Creative Schools: The Grassroots Revolution
@@ -36,10 +37,10 @@ Stanislaw in  [EducationBookCast](http://educationbookcast.libsyn.com/podcast/42
 
 > Shakespeare is an outstanding example of how schooling can foster talent. Schoolboys learned by heart over 100 figures of rhetoric. His schooling provided an excellent resource for the future playwright. Everything Shakespeare learned at school he used in some way in his plays. Having mastered the rules of language, he was able to break and transform them.   
 
-To be creative in a any field, you will first need to acquire skills and knowledge required to be expert on the subject. Ideas without domain knowledge won’t provide any value. Kids should utilize the deliberate practice  and hard work that school system demands to gain mastery over subject of their interest.  They should realize that ***There is no way to get around the fact that mastery requires a volume of work***.
+So Shakespeare become an astonishing writer not only because of his creative skills but also because his mastery over the language. Ideas without domain specific knowledge won't be very useful. To produce creative work that is valuable, you will first need to acquire skills and knowledge required to become an expert. Kids should take advantage of the deliberate practice and hard work that school system demands to gain mastery over subject of their interest. They should also acknowledge that ***There is no way to get around the fact that mastery requires a volume of work***.
 
 ## What’s wrong with giving more importance to Maths and Science than Arts?
-*Ken Robinson says:*
+*Ken Robinson said:*
 
 > Every education system on Earth has the same hierarchy of subjects. At the top are mathematics and languages, then the humanities, and at the bottom are the arts.  This is because our education system came into being to meet the needs of industrialism. So the hierarchy is rooted on the two ideas.  
 
@@ -65,7 +66,7 @@ Instead of just learning facts and ideas, Arts provides more freedom to try some
 
 > Imagination is more important than knowledge, because knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all there ever will be to know and understand.
 
-Also Arts provides space to make mistakes, learn from them and become better at that skill.  
+Also Arts provides the space to make mistakes, learn from them and become better at the skill.  
 
 ### The great innovation comes from the intersection of technology and arts.
 
@@ -91,3 +92,12 @@ In future, merely having a degree itself won’t be enough to get a good job. Wh
 > This brings me to the idea of the ‘creative portfolio’ as a central part of a student’s transcript. if we fail to take a serious look at what students have created on their own, above and beyond the lessons and tests, we miss an opportunity to appreciate what is truly special about them. More than any data, grades, or assessment, someone’s actual creative product is the best testament of his or her ability to create from scratch, to make a solution out of an open ended problem.  
 
 So allow kids to decide what they want to do after school hours. Appreciate them to pursue the work of their interest, develop their talent and build a creative portfolio.
+
+## Summary
+
+So the message for our kids:
+
+* Disregard the grades.
+* Learn for mastery.
+* Balance your skills between technology and arts.
+* Pursue your passion and develop personal creative portfolio.
