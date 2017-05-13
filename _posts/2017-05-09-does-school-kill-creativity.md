@@ -3,7 +3,7 @@ layout: post
 title: Does School Kill Creativity
 date: 2017-05-09
 draft: false
-tags: teaching education school creativity
+tags: teaching education school creativity kids maths science arts
 comments: true
 toc: ul
 description: Do schools undermine our creativity? What should we do about it? Inspired by Sir Ken Robinson’s famous TED talk, I will share my thoughts based on what I learnt about education and creativity.
