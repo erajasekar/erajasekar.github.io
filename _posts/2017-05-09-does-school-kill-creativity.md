@@ -14,7 +14,7 @@ We are all born with boundless creativity, But Are we educating people out of th
 <br>
 
 ## Introduction
-Sir Ken Robinson's TED talk [Do Schools Kill Creativity?](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity) is the most popular TED talk and has about 45 million views at the time of my writing this. Ken Robinson makes a good case on Schools kill children’s innate creative talents, But in [EducationBookCast](http://educationbookcast.libsyn.com/podcast/42-do-schools-kill-creativity-by-sir-ken-robinson) Stanislaw Pstrokonski argues against it and rips apart Ken Robinson’s ideas. In this post, I will share my views in this topic. I will first quote Ken Robison speech and followed my ideas.
+Sir Ken Robinson's TED talk [Do Schools Kill Creativity?](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity) is the most popular TED talk and has about 45 million views at the time of my writing this. Ken Robinson makes a good case on Schools kill children’s innate creative talents, But in [EducationBookCast](http://educationbookcast.libsyn.com/podcast/42-do-schools-kill-creativity-by-sir-ken-robinson) Stanislaw Pstrokonski argues against it and rips apart Ken Robinson’s ideas. In this post, I will share my views on this topic. I will first quote Ken Robison speech and followed my ideas.
 
 ## Why do we become less creative as we grow older?
 *Ken Robison said:*
@@ -62,13 +62,15 @@ Once kids recognize that this is the goal, they would approach maths and science
 
 ### What are the benefits of Arts?
 
-Instead of just learning facts and ideas, Arts provides more freedom to try something new and exercise their imaginative power. Imagination is the root of creativity. Einstein said that
+Instead of just learning facts and ideas, Arts provides more freedom to try something new and exercise their imaginative power. Imagination is the root of creativity. 
+
+Albert Einstein said that
 
 > Imagination is more important than knowledge, because knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all there ever will be to know and understand.
 
 Also Arts provides the space to make mistakes, learn from them and become better at the skill.  
 
-### The great innovation comes from the intersection of technology and arts.
+### The greatest innovations come from the intersection of technology and arts.
 
 The best ideas emerge from the intersection of technology and arts.  To emphasize this,  Steve Jobs during his product launches would conclude with a slide, projected on the screen behind him, of street signs showing the intersection of the Liberal Arts and Technology.
 
