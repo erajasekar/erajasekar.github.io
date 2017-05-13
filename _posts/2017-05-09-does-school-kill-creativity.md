@@ -85,7 +85,7 @@ So for the kids who are interested in maths and science, introduce them to some 
 For the kids who are inclined towards arts, inspire them to see the artistic beauty of mathematical equation and to appreciate the brilliance of scientific invention.
 
 ## Could degrees become worth nothing in future?
-Ken Robinson says:
+*Ken Robinson said:*
 
 > We are going through the process of academic inflation, where you would now need a masters or even PhD for the job that required undergraduate degree previously. Suddenly, degrees aren’t worth anything.  
 
