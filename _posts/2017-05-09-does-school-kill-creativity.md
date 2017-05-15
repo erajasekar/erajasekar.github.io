@@ -21,17 +21,17 @@ Sir Ken Robinson's TED talk [Do Schools Kill Creativity?](https://www.ted.com/ta
 
 > We know that if you're not prepared to be wrong, you'll never come up with anything original. Kids are not frightened to be wrong. But We stigmatize mistakes, so by the time they get to be adults, most kids have lost that capacity. We're now running national education systems where mistakes are the worst thing you can make. And the result is that we are educating people out of their creative capacities.  
 
-The root of problem is evaluation and grading system in schools. Grading promotes fear of failure and  create a preference for the easiest possible task.  So kids will no longer explore, but just study for grades.  Moreover,  Grades tend to diminish students’ interest in whatever they’re learning. Author Alfie Kohn evangelizes strong [argument against grading](http://www.alfiekohn.org/article/case-grades/) .
+The root of problem is evaluation and grading system in schools. Grading promotes fear of failure and  create a preference for the easiest possible task.  So kids will no longer explore, but just study for grades.  Moreover,  Grades tend to diminish students’ interest in whatever they’re learning. Author **Alfie Kohn** evangelizes strong [argument against grading](http://www.alfiekohn.org/article/case-grades/) .
 
 > `Finland has consistently high standards of achievement on all international measures, but there is no standardized testing apart from a single examination at the end of high school.` -- From book Creative Schools: The Grassroots Revolution
 
 
 Schools should eliminate the grade at least until the high school level. We should not  compare their grades with other kids and don’t force them to just study for getting good grades.  Advice them that making mistakes are completely normal, but they could turn them into learning opportunity.
 
-## Did school foster Shakespeare’s creative writing?
+## Did school foster Shakespeare’s creative playwright?
 Ken Robinson refers to Shakespeare as an example and indirectly says his school would not have recognized his talents.
 
-Stanislaw in  [EducationBookCast](http://educationbookcast.libsyn.com/podcast/42-do-schools-kill-creativity-by-sir-ken-robinson)  points out that ideas employed by  Ken Robinson contradicts with what Shakespeare expert Rex Gibson Says in his book Shakespeare’s Language:
+**Stanislaw** in  [EducationBookCast](http://educationbookcast.libsyn.com/podcast/42-do-schools-kill-creativity-by-sir-ken-robinson)  points out that ideas employed by  Ken Robinson contradicts with what Shakespeare expert Rex Gibson Says in his book Shakespeare’s Language:
 
 > Shakespeare is an outstanding example of how schooling can foster talent. Schoolboys learned by heart over 100 figures of rhetoric. His schooling provided an excellent resource for the future playwright. Everything Shakespeare learned at school he used in some way in his plays. Having mastered the rules of language, he was able to break and transform them.   
 
