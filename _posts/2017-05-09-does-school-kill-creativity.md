@@ -10,7 +10,7 @@ description: Do schools undermine our creativity? What should we do about it? In
 analytics: true
 ---
 
-We are all born with boundless creativity. But are we educating people out of their creative capacities? If schools are undermining our creativity,  What should we do about it? Inspired by Sir Ken Robinson’s famous TED talk,  I will share my thoughts based on what I learnt about schools,education and creativity.
+We are all born with boundless creativity. But are we educating people out of their creative capacities? If schools are undermining our creativity,  What should we do about it? Inspired by Sir Ken Robinson’s famous TED talk,  I will share my thoughts based on what I learnt about schools, education and creativity.
 
 ## Introduction
 Sir Ken Robinson's TED talk [Do Schools Kill Creativity?](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity) is the most popular TED talk and has about 45 million views at the time of my writing this. Ken Robinson makes a good case on Schools kill children’s innate creative talents, But in [EducationBookCast](http://educationbookcast.libsyn.com/podcast/42-do-schools-kill-creativity-by-sir-ken-robinson) Stanislaw Pstrokonski argues against it and rips apart Ken Robinson’s ideas. In this post, I will share my views on this topic. I will first quote Ken Robison speech followed my ideas.
@@ -37,7 +37,7 @@ Stanislaw in  [EducationBookCast](http://educationbookcast.libsyn.com/podcast/42
 
 Shakespeare become an astonishing writer not only because of his creative skills but also because his mastery over the language. Ideas without domain specific knowledge won't be very useful. To produce creative work that is valuable, you will first need to acquire skills and knowledge required to become an expert. Kids should take advantage of the deliberate practice and hard work that school system demands to gain mastery over subject of their interest. They should also acknowledge that ***There is no way to get around the fact that mastery requires a volume of work***.
 
-## What’s wrong with giving more importance to Maths and Science than Arts?
+## What’s wrong with giving more importance to Math and Science than Arts?
 *Ken Robinson said:*
 
 > Every education system on Earth has the same hierarchy of subjects. At the top are mathematics and languages, then the humanities, and at the bottom are the arts.  This is because our education system came into being to meet the needs of industrialism. So the hierarchy is rooted on the two ideas.  
@@ -48,20 +48,22 @@ Shakespeare become an astonishing writer not only because of his creative skills
 
 Genuine points. This is the most important concern of our education system for many of us. Let’s try to understand the significance of these subjects for creativity.
 
-### What’s the purpose of learning maths and science?
+![Math in Real Life Comic](https://raw.githubusercontent.com/erajasekar/blog-jekyll/master/assets/images/school-kill-creativity/math-comic.png){:height="600px" width="600px"}
 
-We will agree that basic maths and fundamental science is useful in life. But what is the purpose of learning advanced maths and science if we will never use it in future?
+### What’s the purpose of learning math and science?
+
+We will agree that basic math and fundamental science is useful in life. But what is the purpose of learning advanced math and science if we will never use it in future?
 
 > `
 The point of school, beyond the basics, is to teach you how to think. It almost doesn’t matter what the subject matter is - you are learning how to think logically, how to solve problems, how to tackle things you’re unfamiliar with, how to overcome obstacles, how to think creatively, and how to learn itself. You don’t leave school with all the knowledge you need for the rest of your life; merely the ability to learn new knowledge as it arises.` -- (Credits to [Quora Answer](https://www.quora.com/Why-must-we-learn-advanced-math-college-algebra-trigonometry-when-most-of-us-wont-actually-use-it/answer/Jesse-Richards?srid=tP0b) ).
 
 Solving math problems is analogous to weight lifting. You don’t do squats and benchpress to get better at squats and benchpress. You lift weights to become stronger, in general. In same way, math work is to train your mind to become stronger.
 
-Once kids recognize that this is the goal, they would approach maths and science in much more amenable way.
+Once kids recognize that this is the goal, they would approach math and science in much more amenable way.
 
 ### What are the benefits of Arts?
 
-Instead of just learning facts and ideas, Arts provides more freedom to try something new and exercise their imaginative power. Imagination is the root of creativity. 
+Instead of just learning facts and ideas, Arts provides more freedom to try something new and exercise their imaginative power. Imagination is the root of creativity.
 
 *Albert Einstein said:*
 
@@ -73,13 +75,13 @@ Also Arts provides the space to make mistakes, learn from them and become better
 
 The best ideas emerge from the intersection of technology and arts.  To emphasize this,  **Steve Jobs** during his product launches would conclude with a slide, projected on the screen behind him, of street signs showing the intersection of the Liberal Arts and Technology.
 
-![Apples DNA](https://raw.githubusercontent.com/erajasekar/blog-jekyll/master/assets/images/schools-kills-creativity/Apples_DNA.png){:height="600px" width="1000px"}
+![Apples DNA](https://raw.githubusercontent.com/erajasekar/blog-jekyll/master/assets/images/school-kill-creativity/Apples_DNA.png){:height="600px" width="1000px"}
 
 At his last such appearance, for the iPad 2 in 2011, he stood in front of that image and declared
 
 > `It’s in Apple’s DNA that technology alone is not enough— that it’s technology married with liberal arts, married with the humanities, that yields us the result that makes our heart sing.`  
 
-For the kids who are interested in maths and science, introduce them to some form of Art to unleash their creative capabilities.
+For the kids who are interested in math and science, introduce them to some form of Art to unleash their creative capabilities.
 
 For the kids who are inclined towards arts, inspire them to see the artistic beauty of mathematical equation and to appreciate the brilliance of scientific invention.
 
@@ -101,7 +103,7 @@ The message for our kids:
 * Disregard the grades.
 * Learn for mastery.
 * Mistakes are best opportunity make you better
-* Keep your curiosity alive. 
+* Keep your curiosity alive.
 * Purpose of school is to prepare for life after it.
 * Imagination gives life to facts and knowledge.
 * Balance your skills between technology and arts.
