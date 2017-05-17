@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Does School Kill Creativity
-date: 2017-05-09
+title: Does School Kill Creativity?
+date: 2017-05-16
 draft: false
 tags: teaching education school creativity kids maths science arts
 comments: true
 toc: ul
-description: Do schools undermine our creativity? What should we do about it? Inspired by Sir Ken Robinson’s famous TED talk, I will share my thoughts based on what I learnt about education and creativity.
+description: We are all born with boundless creativity. But are we educating people out of their creative capacities? If schools are undermining our creativity,  What should we do about it? Inspired by Sir Ken Robinson’s TED talk, I will share my thoughts based on what I learnt about education and creativity.
 analytics: true
 ---
 
@@ -37,7 +37,7 @@ Ken Robinson refers to Shakespeare as an example and indirectly says his school 
 
 Shakespeare become an astonishing writer not only because of his creative skills but also because his mastery over the language. Ideas without domain specific knowledge won't be very useful. To produce creative work that is valuable, you will first need to acquire skills and knowledge required to become an expert. Kids should take advantage of the deliberate practice and hard work that school system demands to gain mastery over subject of their interest. They should also acknowledge that ***There is no way to get around the fact that mastery requires a volume of work***.
 
-## What’s wrong with giving more importance to Math and Science than Arts?
+## Why math and science is given more importance than Arts? What’s wrong with it?
 *Ken Robinson said:*
 
 > Every education system on Earth has the same hierarchy of subjects. At the top are mathematics and languages, then the humanities, and at the bottom are the arts.  This is because our education system came into being to meet the needs of industrialism. So the hierarchy is rooted on the two ideas.  
