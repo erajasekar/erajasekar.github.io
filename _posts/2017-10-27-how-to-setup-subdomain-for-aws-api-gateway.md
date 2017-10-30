@@ -14,18 +14,18 @@ analytics: true
 I needed to setup a subdomain for a REST service hosted in AWS API Gateway.  
 
 Several components had to configured to get all pieces to work together correctly. I could not find a concise documentation online and there is too much of stuff to read in AWS documentation. I will share the exact steps I did to get it working so that others doesn't have to figure it out hard way like I did.
-
+<br>
 ## Goal
 I will be using `mydomain.com` as an example domain in this post.
 
-I already own a mydomain.com  purchased at namecheap.com. Also the root domain (mydomain.com)  is already served by Wix.com which  was setup using [name server configuration](https://support.wix.com/en/article/tutorial-connecting-your-domain-using-name-servers).  My goal is to create subdomain api.mydomain.com to point  AWS API Gateway still keeping mydomain.com to work with Wix.
+I already own a mydomain.com purchased at namecheap.com. Also the root domain (mydomain.com) is already served by Wix.com and it was setup by [configuring name servers](https://support.wix.com/en/article/tutorial-connecting-your-domain-using-name-servers).  My goal was to create subdomain ***api.mydomain.com*** to point to AWS API Gateway and still keep *mydomain.com* to work with Wix.
 
 Here are the step by step instructions on how I got it working:
 
 ## 1. Obtained HTTPs certificates from ACM
 The first step is I need to request certificates for my site in Amazon Certificate Manager (ACM).  Here are the steps:
 
-1. Logged in to Amazon Certificate Manager (ACM) and switch region to N. Virginia (This is **important**) 
+1. Logged in to Amazon Certificate Manager (ACM) and switched region to N. Virginia (This is **important**) 
 2. Clicked on Request Certificate
 3. Entered  `*.mydomain.com`  for domain name.
 4. Clicked “Add another name to this certificate” and entered `mydomain.com` .
@@ -38,44 +38,49 @@ The approved looked like this
 
 ## 2. Created Custom domain in API Gateway
 1. Logged in to Amazon API Gateway
-2. Clicked on “Custom Domain Names” in left nav bar
+2. Clicked on *“Custom Domain Names”* in left nav bar
 3. Entered `api.mydomain.com` for domain name.
 4. Selected certificate created in previous step for ACM Certificate.
 5. Added base path mapping that for path `/` to destination as my deployed API Gateway application.
-6. Clicked “Save”
+6. Clicked *“Save”*
 7. Note down the  cloud front distribution url shown at “Target Domain Name” .
 
 Here is snapshot of my API Gateway configuration
 
 ![API Gateway configuration](https://raw.githubusercontent.com/erajasekar/blog-jekyll/master/assets/images/aws-subdomain/Gateway-domain1.jpg)
 
-### 3. Created Hosted Zone in AWS Route 53.
+
+## 3. Created Hosted Zone in AWS Route 53.
 
 1. Logged in to AWS Route 53.
-2. Clicked on “Create Hosted Zone”
+2. Clicked on *“Create Hosted Zone”*
 3. Provided domain name as `mydomain.com` and clicked create. (**Note domain should be root domain and not subdomain**)
 4. Selected the created domain to configure A Record.
 5. Clicked on “Create Record Set”
 6. Entered `api.mydomain.com` as Name
 7. Chose “A- IPv4 Address” for type.
-8. Selected **Yes** for Alias.
+8. Selected *"Yes"* for Alias.
 9. Entered cloud front distributed id created in previous step as value.
 
 My Hosted zone alias looked like ethis
 
 ![Route 53 Hosted zone alias](https://raw.githubusercontent.com/erajasekar/blog-jekyll/master/assets/images/aws-subdomain/Route53-Alias1.jpg)
 
+
 ## 4. Added Route 53 Name servers in Namecheap
-I previously added wix nameservers under DNS settings of my domain in Namecheap. I had to remove Wix name servers and add AWS Route 53 Name servers. To find name servers click on Hosted Zone of your domain in Route 53 and name severs will be listed under “NS” type record set like below snapshot
+I had wix nameservers under DNS settings of my domain in Namecheap. I removed Wix name servers and added AWS Route 53 Name servers. To find name servers click on Hosted Zone of your domain in Route 53 and name severs will be listed under “NS” type record set like below snapshot
 
 ![Route 53 Nameservers](https://raw.githubusercontent.com/erajasekar/blog-jekyll/master/assets/images/aws-subdomain/Route53-nameservers1.jpg)
 
-## 5. Switch Wix domain setup to pointing configuration
-I need to change wix domain connection type to pointing from dns servers. So I disconnected my domain from wix and went through domain setup wizard. I chose connection type to pointing and I followed these instructions provided by Wix.
 
-For yourdomain.com, create an A record that points to: 23.236.62.147 
-For www.yourdomain.com, create a Cname record that points to: www174.wixdns.net 
-For m.yourdomain.com, create a Cname record that points to: www174.wixdns.net 
+## 5. Switch Wix domain setup to pointing configuration
+I need to change wix domain connection type to *"pointing"* from dns servers. So I disconnected my domain from wix and went through domain setup wizard. I chose connection type to pointing and I followed these instructions provided by Wix.
+
+> For yourdomain.com, 
+>
+> 1. create an A record that points to: 23.236.62.147 
+> 2. www.yourdomain.com, create a Cname record that points to: www174.wixdns.net 
+> 3. m.yourdomain.com, create a Cname record that points to: www174.wixdns.net 
 
 So logged into Route 53 again to setup these A and CNAME record sets.
 
@@ -86,22 +91,18 @@ Here are the list problems I encountered and tips to solve it.
 
 I first tried to keep Wix name servers along with Route 53 name servers. But the domain api.mydomain.com become not resolvable. Then I tried adding CNAME in wix to point api.mydomain.com to cloudfront target domain configured for my custom domain. But I got it returned this error:
 
-```
-ERROR
-The request could not be satisfied.
-Bad request. Generated by cloudfront (CloudFront)
-```
- 
+> ERROR
+> The request could not be satisfied.
+> Bad request. Generated by cloudfront (CloudFront)
+
 So I had to remove wix name servers and switch Wix custom domain setup to pointing type configuration.
 
 ### Custom domain name in API Gateway should be subdomain.
 
 When I used root domain name in API Gateway custom domain configuration I got this SSL error:
 
-```
-unsupported protocol.
-ERR_SSL_VERSION_OR_CIPHER_MISMATCH
-```
+> unsupported protocol.
+> ERR_SSL_VERSION_OR_CIPHER_MISMATCH
 
 This is misleading, but the real reason is the auto created cloud distribution had  wrong have value for alternate domain name since I used root domain name instead of subdomain name.
 
