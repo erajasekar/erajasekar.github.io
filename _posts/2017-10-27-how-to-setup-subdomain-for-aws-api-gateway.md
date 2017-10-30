@@ -32,6 +32,10 @@ The first step is I need to request certificates for my site in Amazon Certifica
 5. Clicked on Review and Request.
 6. I received an email with link to Approve the request.
 
+The approved looked like this
+
+![ACM Certificate](https://raw.githubusercontent.com/erajasekar/blog-jekyll/master/assets/images/aws-subdomain/ACM-certificate1.jpg)
+
 ## 2. Created Custom domain in API Gateway
 1. Logged in to Amazon API Gateway
 2. Clicked on “Custom Domain Names” in left nav bar
@@ -40,6 +44,10 @@ The first step is I need to request certificates for my site in Amazon Certifica
 5. Added base path mapping that for path `/` to destination as my deployed API Gateway application.
 6. Clicked “Save”
 7. Note down the  cloud front distribution url shown at “Target Domain Name” .
+
+Here is snapshot of my API Gateway configuration
+
+![API Gateway configuration](https://raw.githubusercontent.com/erajasekar/blog-jekyll/master/assets/images/aws-subdomain/Gateway-domain1.jpg)
 
 ### 3. Created Hosted Zone in AWS Route 53.
 
@@ -53,8 +61,14 @@ The first step is I need to request certificates for my site in Amazon Certifica
 8. Selected **Yes** for Alias.
 9. Entered cloud front distributed id created in previous step as value.
 
+My Hosted zone alias looked like ethis
+
+![Route 53 Hosted zone alias](https://raw.githubusercontent.com/erajasekar/blog-jekyll/master/assets/images/aws-subdomain/Route53-Alias1.jpg)
+
 ## 4. Added Route 53 Name servers in Namecheap
-I previously added wix nameservers under DNS settings of my domain in Namecheap. I had to remove Wix name servers and add AWS Route 53 Name servers. To find name servers click on Hosted Zone of your domain in Route 53 and name severs will be listed under “NS” type record set.
+I previously added wix nameservers under DNS settings of my domain in Namecheap. I had to remove Wix name servers and add AWS Route 53 Name servers. To find name servers click on Hosted Zone of your domain in Route 53 and name severs will be listed under “NS” type record set like below snapshot
+
+![Route 53 Nameservers](https://raw.githubusercontent.com/erajasekar/blog-jekyll/master/assets/images/aws-subdomain/Route53-nameservers1.jpg)
 
 ## 5. Switch Wix domain setup to pointing configuration
 I need to change wix domain connection type to pointing from dns servers. So I disconnected my domain from wix and went through domain setup wizard. I chose connection type to pointing and I followed these instructions provided by Wix.

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Does School Kill Creativity?
-date: 2017-05-16
+title: Does School Kill Creativity
+date: 2017-05-09
 draft: false
 tags: teaching education school creativity kids maths science arts
 comments: true
 toc: ul
-description: We are all born with boundless creativity. But are we educating people out of their creative capacities? If schools are undermining our creativity,  What should we do about it? Inspired by Sir Ken Robinson’s TED talk, I will share my thoughts based on what I learnt about education and creativity.
+description: Do schools undermine our creativity? What should we do about it? Inspired by Sir Ken Robinson’s famous TED talk, I will share my thoughts based on what I learnt about education and creativity.
 analytics: true
 ---
 
@@ -37,7 +37,7 @@ Ken Robinson refers to Shakespeare as an example and indirectly says his school 
 
 Shakespeare become an astonishing writer not only because of his creative skills but also because his mastery over the language. Ideas without domain specific knowledge won't be very useful. To produce creative work that is valuable, you will first need to acquire skills and knowledge required to become an expert. Kids should take advantage of the deliberate practice and hard work that school system demands to gain mastery over subject of their interest. They should also acknowledge that ***There is no way to get around the fact that mastery requires a volume of work***.
 
-## Why math and science is given more importance than Arts? What’s wrong with it?
+## What’s wrong with giving more importance to Math and Science than Arts?
 *Ken Robinson said:*
 
 > Every education system on Earth has the same hierarchy of subjects. At the top are mathematics and languages, then the humanities, and at the bottom are the arts.  This is because our education system came into being to meet the needs of industrialism. So the hierarchy is rooted on the two ideas.  
@@ -48,7 +48,7 @@ Shakespeare become an astonishing writer not only because of his creative skills
 
 Genuine points. This is the most important concern of our education system for many of us. Let’s try to understand the significance of these subjects for creativity.
 
-![Math in Real Life Comic](https://raw.githubusercontent.com/erajasekar/erajasekar.github.io/master/assets/images/school-kill-creativity/math-comic.png){:height="600px" width="600px"}
+![Math in Real Life Comic](https://raw.githubusercontent.com/erajasekar/blog-jekyll/master/assets/images/school-kill-creativity/math-comic.png){:height="600px" width="600px"}
 
 ### What’s the purpose of learning math and science?
 
@@ -75,7 +75,7 @@ Also Arts provides the space to make mistakes, learn from them and become better
 
 The best ideas emerge from the intersection of technology and arts.  To emphasize this,  **Steve Jobs** during his product launches would conclude with a slide, projected on the screen behind him, of street signs showing the intersection of the Liberal Arts and Technology.
 
-![Apples DNA](https://raw.githubusercontent.com/erajasekar/erajasekar.github.io/master/assets/images/school-kill-creativity/Apples_DNA.png){:height="600px" width="1000px"}
+![Apples DNA](https://raw.githubusercontent.com/erajasekar/blog-jekyll/master/assets/images/school-kill-creativity/Apples_DNA.png){:height="600px" width="1000px"}
 
 At his last such appearance, for the iPad 2 in 2011, he stood in front of that image and declared
 
