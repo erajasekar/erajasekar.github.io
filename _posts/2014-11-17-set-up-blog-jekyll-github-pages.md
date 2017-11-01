@@ -119,6 +119,6 @@ If you would to setup your own custom domain for your blog,
 	+ 192.30.252.154
 + Here is snapshot of how I configured my domain [erajasekar.com](http://erajasekar.com) with DNS provider [namecheap.com](http://namecheap.com)
 
-<img  src="{{ site.baseurl }}assets/images/namecheap-dns-settings.png" alt="erajasekar.com dns settings in namecheap.com" />
+<img  src="{{ "assets/images/namecheap-dns-settings.png" | relative_url }}" alt="erajasekar.com dns settings in namecheap.com" />
 
 Now, you have got your own blog similar to this site.

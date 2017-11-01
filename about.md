@@ -4,7 +4,7 @@ title: About Me
 ---
 
 <div itemscope itemtype="http://schema.org/Person">
-<img  itemprop="image" src="{{ site.baseurl }}assets/images/profile.jpg" alt="{{site.author.name}}" height="150px" width="150px" />
+<img  itemprop="image" src="{{ "assets/images/profile.jpg" | relative_url }}" alt="{{site.author.name}}" height="150px" width="150px" />
 
 I'm <span itemprop="name">Rajasekar Elango</span>, <span itemprop="jobTitle">Lead Software Engineer</span> at 
 <span itemscope itemtype="http://schema.org/Organization"><span itemprop="name">Salesforce.com</span></span> working on Java and other JVM languages. 
