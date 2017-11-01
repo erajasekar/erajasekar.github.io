@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to setup subdomain for aws api gateway?
-date: 2017-10-27
+date: 2017-11-01
 draft: false
 tags: aws api-gateway dns domain
 comments: true
