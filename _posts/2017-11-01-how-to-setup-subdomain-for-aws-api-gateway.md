@@ -10,7 +10,6 @@ description: I needed to setup a subdomain to point to REST service hosted in AW
 analytics: true
 ---
 
-# How to setup subdomain for AWS API Gateway
 I needed to setup a subdomain for a REST service hosted in AWS API Gateway.  
 
 Many components had to configured correctly to get all pieces to work together. I could not find a concise instructions online and there is too much of stuff to read in AWS documentation. I will share the exact steps I did to get it working so that others doesn't have to figure it out in a hard way like I did.
