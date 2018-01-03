@@ -14,32 +14,61 @@ We all want to get more things done efficiently and quickly. Computers does this
 <br>
 # Introduction
 
-## Execution time
+Let's define few key terms  for easier understanding.
 
+## Choose Right Metric
 
+> In computer science: before you can have a plan, you must first choose a metric. 
+
+Because the metric we pick will directly affect which scheduling approaches fare best.
+
+Here are some example metrics to pick.
+
+* Minimize lateness
+* Maximize number of completed tasks.
+* Get more valuable things done.
+* Avoid burn outs. 
+* Increase responsiveness or reduce waiting time.
 
 ## Category
 
+Tasks can be boardly categoried as Independent (or unblocking ) tasks and Dependend ( or blocking ) tasks. 
+
+### Independent tasks
+
+Independent tasks doesn't require some other task to be completed before it can be picked up and also doesn't block other tasks from being completed. TODO eg.
+
+### Dependent tasks
+
+Dependend tasks will have a pre-requisite for example in laundry drying can't done until cloths are washed first. 
+
+So it's useful to organize the tasks by categories for efficient scheduling.
 
 
-## Choose right metric to optimize
 
-This is something of a theme in computer science: before you can have a plan, you must first choose a metric. And as it turns out, which metric we pick here will directly affect which scheduling approaches fare best.
-
-
-
-## Algorithms
-
-
+## Problems and Strategies
 
 ### Minimize lateness
 
-​            If you’re concerned with minimizing maximum lateness, then the best strategy is to start with the task due soonest and work your way toward the task due last. This strategy, known as Earliest Due Date,
-​       
+​           If you're servicing customers, you would want each customer to be helped as quick as possible. Assuming servicing each customer takes almost equal amount of time, then simply you can take them in order they arrived. The ideal due time for a customer is as soon as they walk into your door. 
+
+Applying same strategy to tasks, is to start with the task due soonest and work your way toward the task due last. This strategy, known as **Earliest Due Date.**
+
+This works best for minimizing lateness. But, we have a problem if each tasks require varying amount of time to complete.
 
 ### Minimize number of tasks delayed
 
-Here a strategy called Moore’s Algorithm gives us our best plan. Moore’s Algorithm says that we start out just like with Earliest Due Date— by scheduling out our produce in order of spoilage date, earliest first, one item at a time. However, as soon as it looks like we won’t get to eating the next item in time, we pause, look back over the meals we’ve already planned, and throw out the biggest item (that is, the one that would take the most days to consume). For instance, that might mean forgoing the watermelon that would take a half dozen servings to eat; not even attempting it will mean getting to everything that follows a lot sooner. We then repeat this pattern, laying out the foods by spoilage date and tossing the largest already scheduled item any time we fall behind. Once everything that remains can be eaten in order of spoilage date without anything spoiling, we’ve got our plan.
+​	Going back to cutomer servicing anology, if serving each customer takes different amount of time, then you would want to service maximum number of customers. Let's say we can divide customers by time of service and we know typical completion time for each type of service.  Then, the best approach would be to pick next customer who needs type of service with quickest completion time. 
+
+This strategy is based on **Moore’s Algorithm** which says,
+
+We start out just like with Earliest Due Date— by scheduling tasks as they arrive, but when deciding which task to do next, choose the quickest one and repeat this process.
+
+By pushing out tasks with largest processing time, we optimize on minimizing the sum of completion times 
+
+
+
+ out our produce in order of spoilage date, earliest first, one item at a time. However, as soon as it looks like we won’t get to eating the next item in time, we pause, look back over the meals we’ve already planned, and throw out the biggest item (that is, the one that would take the most days to consume). For instance, that might mean forgoing the watermelon that would take a half dozen servings to eat; not even attempting it will mean getting to everything that follows a lot sooner. We then repeat this pattern, laying out the foods by spoilage date and tossing the largest already scheduled item any time we fall behind. Once everything that remains can be eaten in order of spoilage date without anything spoiling, we’ve got our plan.
 
 
 
