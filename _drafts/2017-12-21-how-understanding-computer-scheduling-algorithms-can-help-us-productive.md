@@ -2,7 +2,7 @@
 layout: post
 title: How understanding computer scheduling algorithms can help us to be productive?
 date: 2017-12-21
-draft: false
+draft: true
 tags: computer-science education productivity tips
 comments: true
 toc: ul
