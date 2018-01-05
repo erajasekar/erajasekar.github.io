@@ -68,7 +68,7 @@ The practical solution to this problem is Priority Inheritance. That is
 
 > To get unstuck is to treat the unimportant things as being as important as whatever it's blocking. 
 
-### How to work through continuous incoming job?
+### How to work through continuous incoming tasks?
 
 Life could be easy, if we have finite list of tasks. In reality, it isn't. If assignments get tossed on you at unpredictable moments. The efficient approach is to swtich tasks which is known as [preemption](https://en.wikipedia.org/wiki/Preemption_(computing)) in computer science. **Preemption** is the act of temporarily interrupting a task being carried out by a computer system with the intention of resuming the task at a later time. It can be generalized as 
 
@@ -86,7 +86,7 @@ Thrashing is a very recognizable human state. If you’ve ever had a moment wher
 
 ~~Human clearly have context switch overhead too — time lost to metalwork, to the logistics of bookkeeping and task management. The more you take on, the more overhead there is. At its nightmarish extreme, we would be accomplishing nothing at all.~~ 
 
-### How to deal with burnout?
+### How to reduce burden of multitasking?
 
 #### Don't keep your plates full.
 
@@ -122,24 +122,37 @@ In workplace, holding office hours is a way of coalescing interruptions from co-
 
 ## Summary
 
+In addtion to kind of scheduling problem you want to solve, you also need to choose right metric to optimize. Because the metric we pick will directly affect which scheduling approaches fare best. 
+
 > In computer science: before you can have a plan, you must first choose a metric. 
 
-Because the metric we pick will directly affect which scheduling approaches fare best. Here is the quick summary of strategy is pick based on which metric to optimize for.
+Here is the quick guide that summarizes when to choose a strategy depending on metrics you want to optimize.
 
 
 
-| Metric to Optimize          | Strategy                                 |
-| --------------------------- | ---------------------------------------- |
-| Minimize lateness           | Earliest Due Date                        |
-| Maximize completed tasks    | Moore's Algorithm.                       |
-| Maximize the value produced | Weighed Moore's Algorithm.               |
-| Minimize blocking           | Priority Inheritance                     |
-| Increase responsiveness.    | Preemption                               |
-| Increase throughput         | Saying NO, Random order, Timeboxing, Pomorado, Batch processing. |
-|                             |                                          |
-|                             |                                          |
-|                             |                                          |
+| Metric to Optimize          | When to choose?                          | Strategy                                 |
+| --------------------------- | ---------------------------------------- | ---------------------------------------- |
+| Minimize lateness           | You have due dates, All tasks require similar amount of time to do. | Earliest Due Date                        |
+| Maximize completed tasks    | Tasks require varying amounts to time to do. | Moore's Algorithm.                       |
+| Maximize the value produced | Tasks are not equally important.         | Weighed Moore's Algorithm.               |
+| Minimize stalling           | Tasks depend on other tasks.             | Priority Inheritance                     |
+| Increase responsiveness.    | Continous flow of incoming tasks.        | Preemption                               |
+| Increase throughput         | Exhausted with multi-tasking.            | Saying NO, Random order, Timeboxing, Pomorado, Batch processing. |
+|                             |                                          |                                          |
+|                             |                                          |                                          |
+|                             |                                          |                                          |
 
 ## Credits
 
-This article is inpsired the wonderful book [Algorithms to live by](http://amzn.to/2F1ZyLy). If you like this article, consider reading the [book](http://amzn.to/2F1ZyLy).
+This article is inpsired the wonderful book [Algorithms to live by](http://amzn.to/2F1ZyLy). If you enjoyed this article, consider reading the [book](http://amzn.to/2F1ZyLy) which provides similar strategies for
+
+* Optimal stopping — When to stop looking?
+* Explore new things vs exploit what worked best.
+* Sorting 
+* Caching 
+* Bayers's Rule — Predicting the future.
+* Overfitting — When to think less.
+* Relaxation — Let it slide.
+* Randomness — When to leave it to chance.
+* Networking — How we connect.
+* Game theory — The minds of others.
