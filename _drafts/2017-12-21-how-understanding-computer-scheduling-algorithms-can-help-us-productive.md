@@ -36,8 +36,6 @@ This strategy is based on **Moore’s Algorithm** which states,
 
 It’s like focusing above all on reducing the length of your to-do list. Also, each piece of unfinished task could be like a carrying a mental burden. Flying through the easiest items will bring some measure of relief.   
 
-~~By pushing out the tasks with largest processing time, we optimize on minimizing the sum of completion times.~~
-
 It's not suprising that this approach is compatible with the recommendation in [Getting Things Done](http://amzn.to/2CFOsxe) Book to immediately perform any task that takes less than two minutes.              
 
 This is great way to get more things done, But all work can't be equally important.
@@ -83,8 +81,6 @@ Every time you switch tasks, you pay a price, known in computer science as a con
 You can think of as being like juggling a set of balls. If the juggler takes one more ball than he can handle, he doesn't drop ***that*** ball; he drops ***everything***.
 
 Thrashing is a very recognizable human state. If you’ve ever had a moment where you wanted to stop doing everything just to have the chance to write down everything you were supposed to be doing, but couldn’t spare the time, you’ve thrashed. You are accomplishing nothing at all. You feel exhaustion and burned out.
-
-~~Human clearly have context switch overhead too — time lost to metalwork, to the logistics of bookkeeping and task management. The more you take on, the more overhead there is. At its nightmarish extreme, we would be accomplishing nothing at all.~~ 
 
 ### How to reduce burden of multitasking?
 
