@@ -10,7 +10,7 @@ description: We all want to get more things done efficiently and quickly. Comput
 analytics: true
 ---
 
-We all want to get more things done efficiently and quickly. Computers are best at it. So Let's try to understand some computer scheduling algorithms to see how they can be applied to our daily lives to become more productive at our tasks. 
+We all want to get more things done efficiently and quickly. Computers are best at it. So Let's try to understand some computer scheduling algorithms to see how they can apply to our daily lives to become more productive at our tasks. 
 <br>
 ## Problems and Strategies
 
@@ -18,17 +18,17 @@ First things first! You don't want to be late.
 
 ### How to meet the deadlines?
 
-​           If you're servicing customers, you would want each customer to be helped as quick as possible. Assuming servicing each customer takes almost equal amount of time, then  you can simply take them in order they arrived. The ideal commitment or due time for a customer is as soon as they walk into your door. 
+​           If you're servicing customers, you would want each to help each customer as quick as possible. Assuming servicing each customer takes almost equal amount of time, then  you can take them in order they arrived. The ideal commitment or due time for a customer is as soon as they walk into your door. 
 
 Applying the same strategy to tasks:
 
 > You should start with the task due soonest and work your way toward the task due last.
 
-This strategy, known as **Earliest Due Date.** which works best for minimizing lateness. But, we have a problem if each tasks require varying amount of time to complete.
+This strategy, known as **Earliest Due Date.** which works best for minimizing lateness. But, we have a problem if each tasks takes varying amount of time to complete.
 
 ### How to reduce pending task list?
 
-​	Going back to cutomer servicing anology, if serving each customer takes varying amounts of time, then you would want to service maximum number of customers. Let's say we can divide customers by type of service and we know typical completion time for each type of service.  Then, the best approach would be to pick customer who needs type of service with quickest completion time. 
+​	Going back to cutomer servicing anology, if serving each customer takes varying amounts of time, then you would want to service most number of customers. Let's say we can divide customers by type of service and we know typical completion time for each type of service.  Then, the best approach would be to pick customer who needs type of service with quickest completion time. 
 
 This strategy is based on **Moore’s Algorithm** which states,
 
@@ -122,18 +122,16 @@ In addtion to kind of scheduling problem you want to solve, you also need to cho
 
 > In computer science: before you can have a plan, you must first choose a metric. 
 
-Here is the quick guide that summarizes when to choose a strategy depending on metrics you want to optimize.
-
-
+Here is the quick guide that summarizes when to choose a strategy based on metrics to optimize.
 
 | Metric to Optimize          | When to choose?                          | Strategy                                 |
 | --------------------------- | ---------------------------------------- | ---------------------------------------- |
-| Minimize lateness           | You have due dates, All tasks require similar amount of time to do. | Earliest Due Date                        |
-| Maximize completed tasks    | Tasks require varying amounts to time to do. | Moore's Algorithm.                       |
+| Minimize lateness           | You have due dates, All tasks need similar amount of time to do. | Earliest Due Date                        |
+| Maximize completed tasks    | Tasks take varying amounts to time to complete. | Moore's Algorithm.                       |
 | Maximize the value produced | Tasks are not equally important.         | Weighed Moore's Algorithm.               |
 | Minimize stalling           | Tasks depend on other tasks.             | Priority Inheritance                     |
 | Increase responsiveness.    | Continous flow of incoming tasks.        | Preemption                               |
-| Increase throughput         | Exhausted with multi-tasking.            | Saying NO, Random order, Timeboxing, Pomorado, Batch processing. |
+| Increase throughput         | Exhausted with multi-tasking.            | Saying NO, Random order, Timeboxing, Pomorado, Coalescing interruptions. |
 
 
 ## Credits
