@@ -6,17 +6,17 @@ draft: true
 tags: computer-science education productivity tips
 comments: true
 toc: ul
-description: We all want to get more things done efficiently and quickly. Computers does this very well. So Let's try to understand some computer scheduling algorithms to see how they can be applied to our daily lives to become more productive at our tasks.
+description: We all want to get more things done efficiently and quickly. Computers does this very well. So Let's try to understand some computer scheduling algorithms to see how we can apply to our daily lives to become more productive at our tasks.
 analytics: true
 ---
 
-We all want to get more things done efficiently and quickly. Computers are best at it. So Let's try to understand some computer scheduling algorithms to see how they can apply to our daily lives to become more productive at our tasks. 
+We all want to get more things done efficiently and quickly. Computers are best at it. So Let's try to understand some computer scheduling algorithms to see how we can apply to our daily lives to become more productive at our tasks. 
 <br>
 ## Problems and Strategies
 
 First things first! You don't want to be late. 
 
-### How to meet the deadlines?
+### How to finish before the deadlines?
 
 ​           If you're servicing customers, you would want each to help each customer as quick as possible. Assuming servicing each customer takes almost equal amount of time, then  you can take them in order they arrived. The ideal commitment or due time for a customer is as soon as they walk into your door. 
 
@@ -74,7 +74,7 @@ Life could be easy, if we have finite list of tasks. In reality, it isn't. If as
 
 But preemption isn't free. It comes at the cost of context switch.
 
-### Why Job burnout happens?
+### How Job burnout happens?
 
 Every time you switch tasks, you pay a price, known in computer science as a context switch. When a computer processor shifts its attention away from a given program, there’s always a certain amount of necessary overhead. It needs to effectively bookmark its place and put aside all of its information related to that program. Then it needs to figure out which program to run next. Finally it must haul out all the relevant information for that program, find its place in the code, and get in gear. The rapid context swiching would cause the performace of the computer to degrade or collapse. This phenomenon called as [thrashing](https://en.wikipedia.org/wiki/Thrashing_(computer_science)). 
 
@@ -94,7 +94,7 @@ One of the biggest sources of metawork in switching contexts is the very act of 
 
 Thinking along the same lines, the Linux core team, several years ago, replaced their scheduler with one that was less “smart” about calculating process priorities but more than made up for it by taking less time to calculate them.                
 
-These two principles are called responsiveness and throughput: how quickly you can respond to things, and how much you can get done overall.     
+For eg: Instead of answering the most important emails first—which requires an assessment of the whole picture that may take longer than the work itself—maybe you should just answer them in random order, or in whatever order they happen to appear on-screen. 
 
 #### Commit doing single task for minimum amount of time
 
@@ -112,7 +112,7 @@ The method to achieve this is [Timeboxing](https://en.wikipedia.org/wiki/Timebox
 
 If you find yourself doing a lot of context switching, you can also employ another idea from computer science:  [interrupt coalescing](https://en.wikipedia.org/wiki/Interrupt_coalescing). Computers do this by waiting until some fixed interval and check everything, instead of context-switching to handle separate, uncoordinated interrupts from their various subcomponents.       
 
-For eg: If you have five credit card bills, for instance, don’t pay them as they arrive; take care of them all in one go when the fifth bill comes.                
+For eg: If you have five credit card bills, for instance, don’t pay them as they arrive; take care of them all in one go when the fifth bill comes. Another example is don't distracted by checking emails often, instead check it every 4 hours or so.             
 
 In workplace, holding office hours is a way of coalescing interruptions from co-workers.  Regularly scheduled meetings are one of our best defenses against the spontaneous interruption and the unplanned context switch.                
 
