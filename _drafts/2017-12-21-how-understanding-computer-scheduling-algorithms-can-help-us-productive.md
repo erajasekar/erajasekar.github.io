@@ -36,11 +36,11 @@ Tasks can be boardly categoried as Independent (or unblocking ) tasks and Depend
 
 ### Independent tasks
 
-Independent tasks doesn't require some other task to be completed before it can be picked up and also doesn't block other tasks from being completed. TODO eg.
+Independent tasks doesn't require some other task to be completed before it can be picked up and also doesn't block other tasks from being run. TODO eg.
 
 ### Dependent tasks
 
-Dependend tasks will have a pre-requisite for example in laundry drying can't done until cloths are washed first. 
+Dependend tasks will have a pre-requisite. For example - in laundry drying can't done until cloths are washed first. 
 
 So it's useful to organize the tasks by categories for efficient scheduling.
 
@@ -48,63 +48,83 @@ So it's useful to organize the tasks by categories for efficient scheduling.
 
 ## Problems and Strategies
 
-### Minimize lateness
+First things first! You don't want to be late. 
 
-​           If you're servicing customers, you would want each customer to be helped as quick as possible. Assuming servicing each customer takes almost equal amount of time, then simply you can take them in order they arrived. The ideal due time for a customer is as soon as they walk into your door. 
+### How to meet the deadlines?
 
-Applying same strategy to tasks, is to start with the task due soonest and work your way toward the task due last. This strategy, known as **Earliest Due Date.**
+​           If you're servicing customers, you would want each customer to be helped as quick as possible. Assuming servicing each customer takes almost equal amount of time, then  you can simply take them in order they arrived. The ideal commitment or due time for a customer is as soon as they walk into your door. 
+
+Applying the same strategy to tasks, you should start with the task due soonest and work your way toward the task due last. This strategy, known as **Earliest Due Date.**
 
 This works best for minimizing lateness. But, we have a problem if each tasks require varying amount of time to complete.
 
-### Minimize number of tasks delayed
+### How to reduce pending items?
 
-​	Going back to cutomer servicing anology, if serving each customer takes different amount of time, then you would want to service maximum number of customers. Let's say we can divide customers by time of service and we know typical completion time for each type of service.  Then, the best approach would be to pick next customer who needs type of service with quickest completion time. 
+​	Going back to cutomer servicing anology, if serving each customer takes varying amounts of time, then you would want to service maximum number of customers. Let's say we can divide customers by type of service and we know typical completion time for each type of service.  Then, the best approach would be to pick customer who needs type of service with quickest completion time. 
 
-This strategy is based on **Moore’s Algorithm** which says,
+This strategy is based on **Moore’s Algorithm** which states,
 
 We start out just like with Earliest Due Date— by scheduling tasks as they arrive, but when deciding which task to do next, choose the quickest one and repeat this process.
 
-By pushing out tasks with largest processing time, we optimize on minimizing the sum of completion times 
+It’s like focusing above all on reducing the length of your to-do list. Also, each piece of unfinished task could be like a carrying a mental burden. Flying through the easiest items will bring some measure of relief.   
+
+~~By pushing out the tasks with largest processing time, we optimize on minimizing the sum of completion times.~~
+
+It's not suprising that this approach is compatible with the recommendation in Getting Things Done Book to immediately perform any task that takes less than two minutes.              
+
+This is great way to get more things done, but what do you do if all work is not equally important.
+
+### How get most valuables work done?    
+
+​        All work can't be equally important. For eg: Putting out an actual fire in the kitchen should probably be done before “putting out a fire” with a quick email to a client, even if the former takes a bit longer. 
+
+In scheduling, this difference of importance is captured in a variable known as `weight`. When you’re going through your to-do list, this weight might feel literal— the burden you get off your shoulders by finishing each task. A task’s completion time shows how long you carry that burden, so minimizing the sum of weighted completion times (that is, each task’s duration multiplied by its weight) means minimizing your total oppression as you work through your entire agenda.      
+
+The optimal strategy for this goal is a simple modification of Moore's algorithm: divide the weight of each task by how long it will take to finish, and then work in order from the highest resulting importance-per-unit-time to the lowest. For eg: If you're a consultant, `weight` can be inferred from **money you get**. So simply device each project's fee by its size, and work your way from the hightes t hourly rate to the lowest.
+
+It might be hard to assign a degree of importance to each one of your tasks, but there is a quick rule of thumb:
+
+>  Only prioritize a task that takes twice as long if it’s twice as important.                
+
+But this brings us new problems, if tasks are dependent on other tasks.
+
+### How to get unstuck?
+
+We might get stuck sometimes because an important task can't be done until another less important task is finished. (TODO : example may be tax filing). In computer science this problem is called [priority inversion.](https://en.wikipedia.org/wiki/Priority_inversion) The practical solution to this problem is Priority Inheritance. That is to get unstuck is to treat the unimportant things as being as important as whatever it's blocking. 
+
+### How to deal with continuous incoming work?
+
+Life could be easy, if we have finite list of tasks. In reality, it isn't. If assignments get tossed on you at unpredictable moments. The efficient approach is to swtich tasks which is known as [preemption](https://en.wikipedia.org/wiki/Preemption_(computing)) in computer science. **preemption** is the act of temporarily interrupting a task being carried out by a computer system with the intention of resuming the task at a later time. It can be generalized as 
+
+>  Each time a new piece of work comes in, divide its importance by the amount of time it will take to complete. If the figure is higher than for the task you're currently doing, switch to the new one; otherwise stick with the current task. 
+
+But preemption isn't free. It comes at the cost of context switch.
+
+### Why You might get Job burnout ?
+
+Every time you switch tasks, you pay a price, known in computer science as a context switch. When a computer processor shifts its attention away from a given program, there’s always a certain amount of necessary overhead. It needs to effectively bookmark its place and put aside all of its information related to that program. Then it needs to figure out which program to run next. Finally it must haul out all the relevant information for that program, find its place in the code, and get in gear. The rapid context swiching would cause the performace of the computer to degrade or collapse. This phenomenon called as [thrashing](https://en.wikipedia.org/wiki/Thrashing_(computer_science)). 
+
+You can think of as being like juggling a set of balls. If the juggler takes one more ball than he can handle, he doesn't drop ***that*** ball; he drops ***everything***.
+
+Thrashing is a very recognizable human state. If you’ve ever had a moment where you wanted to stop doing everything just to have the chance to write down everything you were supposed to be doing, but couldn’t spare the time, you’ve thrashed. You are accomplishing nothing at all and feel burned out.
+
+~~Human clearly have context switch overhead too — time lost to metalwork, to the logistics of bookkeeping and task management. The more you take on, the more overhead there is. At its nightmarish extreme, we would be accomplishing nothing at all.~~ 
+
+### How can we deal with such job burnout?
+
+#### Learn art of saying NO
+
+One way to avert thrashing before it starts is to learn the art of saying. 
 
 
 
- out our produce in order of spoilage date, earliest first, one item at a time. However, as soon as it looks like we won’t get to eating the next item in time, we pause, look back over the meals we’ve already planned, and throw out the biggest item (that is, the one that would take the most days to consume). For instance, that might mean forgoing the watermelon that would take a half dozen servings to eat; not even attempting it will mean getting to everything that follows a lot sooner. We then repeat this pattern, laying out the foods by spoilage date and tossing the largest already scheduled item any time we fall behind. Once everything that remains can be eaten in order of spoilage date without anything spoiling, we’ve got our plan.
 
 
 
->  Do the difficult things while they are easy and do the great things while they are small. - LAO TZU
 
 
 
-Minimizing the sum of completion times leads to a very simple optimal algorithm called Shortest Processing Time: always do the quickest task you can.
 
-Yellow highlight | Page: 110
-
-(Perhaps it’s no surprise that it is compatible with the recommendation in Getting Things Done to immediately perform any task that takes less than two minutes.)                
-
-Yellow highlight | Page: 110
-
-it’s like focusing above all on reducing the length of your to-do list. If each piece of unfinished business is like a thorn in your side, then racing through the easiest items may bring some measure of relief.                
-
-Yellow highlight | Page: 110
-
-A task’s completion time shows how long you carry that burden, so minimizing the sum of weighted completion times (that is, each task’s duration multiplied by its weight) means minimizing your total oppression as you work through your entire agenda.                
-
-Yellow highlight | Page: 111
-
-only prioritize a task that takes twice as long if it’s twice as important.                
-
-Yellow highlight | Page: 111
-
-you’re a consultant or freelancer, that might in effect already be done for you: simply divide each project’s fee by its size, and work your way from the highest hourly rate to the lowest.)                
-
-Yellow highlight | Page: 114
-
-What happens in a priority inversion is that a low-priority task takes possession of a system resource (access to a database, let’s say) to do some work, but is then interrupted partway through that work by a timer, which pauses it and invokes the system scheduler. The scheduler tees up a high-priority task, but it can’t run because the database is occupied. And so the scheduler moves down the priority list, running various unblocked medium-priority tasks instead—rather than the high-priority one (which is blocked), or the low-priority one that’s blocking it (which is stuck in line behind all the medium-priority work). In these nightmarish scenarios, the system’s highest priority can sometimes be neglected for arbitrarily long periods of time.* Once JPL engineers had identified the Pathfinder problem as a case of priority inversion, they wrote up a fix and beamed the new code across millions of miles to Pathfinder. What was the solution they sent flying across the solar system? Priority inheritance. If a low-priority task is found to be blocking a high-priority resource, well, then all of a sudden that low-priority task should momentarily become the highest-priority thing on the system, “inheriting” the priority of the thing it’s blocking.                
-
-Yellow highlight | Page: 116
-
-But in 1968, Lawler proved that this is no trouble as long as you build the schedule back to front: look only at the tasks that no other tasks depend on, and put the one with the latest due date at the end of the schedule. Then simply repeat this process, again considering at each step only those tasks that no other (as-yet unscheduled) tasks depend upon as a prerequisite.                
 
 Yellow highlight | Page: 118
 
