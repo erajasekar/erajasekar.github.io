@@ -12,7 +12,7 @@ title:            Rajasekar Elango's Blog
 tagline:          ""
 description:      'Reflections on programming, technology, books.'
 url:              http://erajasekar.com
-baseurl:          "/"         
+baseurl:          
 paginate:         5
 excerpt_separator: "<br>"
 gems:
