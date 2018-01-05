@@ -6,11 +6,11 @@ draft: true
 tags: computer-science education productivity tips
 comments: true
 toc: ul
-description: We all want to get more things done efficiently and quickly. Computers does this very well. So Let's try to understand some computer scheduling algorithms to see how we can apply to our daily lives to become more productive at our tasks.
+description: We all want to get more things done efficiently and quickly. Computers does this very well. So Let's try to understand some computer scheduling algorithms to see how we can apply them to our daily lives to become more productive at our tasks.
 analytics: true
 ---
 
-We all want to get more things done efficiently and quickly. Computers are best at it. So Let's try to understand some computer scheduling algorithms to see how we can apply to our daily lives to become more productive at our tasks. 
+We all want to get more things done efficiently and quickly. Computers are best at it. So Let's try to understand some computer scheduling algorithms to see how we can apply them to our daily lives to become more productive at our tasks. 
 <br>
 ## Problems and Strategies
 
@@ -28,9 +28,9 @@ This strategy, known as **Earliest Due Date.** which works best for minimizing l
 
 ### How to reduce pending task list?
 
-​	Going back to cutomer servicing anology, if serving each customer takes varying amounts of time, then you would want to service most number of customers. Let's say we can divide customers by type of service and we know typical completion time for each type of service.  Then, the best approach would be to pick customer who needs type of service with quickest completion time. 
+​	Going back to cutomer servicing anology, if serving each customer takes varying amounts of time, then you would want to service most number of customers. Let's say we can split customers by type of service and we know typical completion time for each type of service.  Then, the best approach would be to pick customer who needs type of service with quickest completion time. 
 
-This strategy is based on **Moore’s Algorithm** which states,
+This strategy is based on **Moore’s Algorithm** which says,
 
 > We start out just like with Earliest Due Date— by scheduling tasks as they arrive, but when deciding which task to do next, choose the quickest one and repeat this process.
 
@@ -56,7 +56,7 @@ It might be hard to assign a degree of importance to each one of your tasks, but
 
 >  Only prioritize a task that takes twice as long if it’s twice as important.                
 
-But this will bring us new problems, if tasks are dependent on other tasks.
+But if tasks are dependent on other tasks, this will bring us new problems.
 
 ### How to get unstuck?
 
@@ -136,7 +136,7 @@ Here is the quick guide that summarizes when to choose a strategy based on metri
 
 ## Credits
 
-This article is inpsired the wonderful book [Algorithms to live by](http://amzn.to/2F1ZyLy). If you enjoyed this article, consider reading the [book](http://amzn.to/2F1ZyLy) which provides similar strategies for
+This article is inpsired from the wonderful book [Algorithms to live by](http://amzn.to/2F1ZyLy). If you enjoyed this article, consider reading the [book](http://amzn.to/2F1ZyLy) which provides similar strategies for
 
 * Optimal stopping — When to stop looking?
 * Explore new things vs exploit what worked best.
