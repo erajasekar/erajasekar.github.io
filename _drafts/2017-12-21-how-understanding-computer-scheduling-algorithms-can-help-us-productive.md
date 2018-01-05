@@ -60,7 +60,7 @@ But this will bring us new problems, if tasks are dependent on other tasks.
 
 ### How to get unstuck?
 
-We might get stuck sometimes because an important task can't be done until another less important task is finished. In computer science this problem is called [priority inversion.](https://en.wikipedia.org/wiki/Priority_inversion) **Priority inversion** is a problematic scenario in scheduling in which a high priority task is indirectly preempted by a lower priority task effectively "inverting" the relative priorities of the two tasks.
+We might get stuck sometimes because an important task can't be done until another less important task is finished. In computer science this problem is called [priority inversion.](https://en.wikipedia.org/wiki/Priority_inversion) `**Priority inversion** is a problematic scenario in scheduling in which a high priority task is indirectly preempted by a lower priority task effectively "inverting" the relative priorities of the two tasks.`
 
 The practical solution to this problem is Priority Inheritance. That is 
 
@@ -68,7 +68,7 @@ The practical solution to this problem is Priority Inheritance. That is
 
 ### How to work through continuous incoming tasks?
 
-Life could be easy, if we have finite list of tasks. In reality, it isn't. If assignments get tossed on you at unpredictable moments. The efficient approach is to swtich tasks which is known as [preemption](https://en.wikipedia.org/wiki/Preemption_(computing)) in computer science. **Preemption** is the act of temporarily interrupting a task being carried out by a computer system with the intention of resuming the task at a later time. It can be generalized as 
+Life could be easy, if we have finite list of tasks. In reality, it isn't. If assignments get tossed on you at unpredictable moments. The efficient approach is to swtich tasks which is known as [preemption](https://en.wikipedia.org/wiki/Preemption_(computing)) in computer science. `**Preemption** is the act of temporarily interrupting a task being carried out by a computer system with the intention of resuming the task at a later time.` It can be generalized as 
 
 >  Each time a new piece of work comes in, divide its importance by the amount of time it will take to complete. If the figure is higher than for the task you're currently doing, switch to the new one; otherwise stick with the current task. 
 
@@ -80,7 +80,7 @@ Every time you switch tasks, you pay a price, known in computer science as a con
 
 You can think of as being like juggling a set of balls. If the juggler takes one more ball than he can handle, he doesn't drop ***that*** ball; he drops ***everything***.
 
-Thrashing is a very recognizable human state. If you’ve ever had a moment where you wanted to stop doing everything just to have the chance to write down everything you were supposed to be doing, but couldn’t spare the time, you’ve thrashed. You are accomplishing nothing at all. You feel exhaustion and burned out.
+Thrashing is a very recognizable human state. If you’ve ever had a moment where you wanted to stop doing everything just to have the chance to write down everything you were supposed to be doing, but couldn’t spare the time, you’ve thrashed. You are accomplishing nothing at all. You feel exhausted and burned out.
 
 ### How to reduce burden of multitasking?
 
@@ -110,7 +110,7 @@ The method to achieve this is [Timeboxing](https://en.wikipedia.org/wiki/Timebox
 
 #### Batch process similiar tasks
 
-If you find yourself doing a lot of context switching, you can also employ another idea from computer science:  [interrupt coalescing](https://en.wikipedia.org/wiki/Interrupt_coalescing). Computers this by waiting until some fixed interval and check everything, instead of context-switching to handle separate, uncoordinated interrupts from their various subcomponents.       
+If you find yourself doing a lot of context switching, you can also employ another idea from computer science:  [interrupt coalescing](https://en.wikipedia.org/wiki/Interrupt_coalescing). Computers do this by waiting until some fixed interval and check everything, instead of context-switching to handle separate, uncoordinated interrupts from their various subcomponents.       
 
 For eg: If you have five credit card bills, for instance, don’t pay them as they arrive; take care of them all in one go when the fifth bill comes.                
 
@@ -134,9 +134,7 @@ Here is the quick guide that summarizes when to choose a strategy depending on m
 | Minimize stalling           | Tasks depend on other tasks.             | Priority Inheritance                     |
 | Increase responsiveness.    | Continous flow of incoming tasks.        | Preemption                               |
 | Increase throughput         | Exhausted with multi-tasking.            | Saying NO, Random order, Timeboxing, Pomorado, Batch processing. |
-|                             |                                          |                                          |
-|                             |                                          |                                          |
-|                             |                                          |                                          |
+
 
 ## Credits
 
