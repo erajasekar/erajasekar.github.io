@@ -157,4 +157,5 @@ This article is inpsired from the wonderful book [Algorithms to live by](http://
 ## Footnotes
 
 [^1]: **Priority inversion** is a problematic scenario in scheduling in which a high priority task is indirectly preempted by a lower priority task effectively "inverting" the relative priorities of the two tasks.
+
 [^2]: **Preemption** is the act of temporarily interrupting a task being carried out by a computer system with the intention of resuming the task at a later time.
