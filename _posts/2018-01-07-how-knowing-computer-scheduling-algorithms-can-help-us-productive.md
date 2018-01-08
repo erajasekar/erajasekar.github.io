@@ -75,7 +75,7 @@ But preemption isn't free. It comes at the cost of context switch.
 
 ## How Job burnout happens?
 
-Every time you switch tasks, you pay a price, known in computer science as a context switch. When a computer processor shifts its attention away from a given program, there’s always a certain amount of necessary overhead. It needs to effectively bookmark its place and put aside all of its information related to that program. Then it needs to figure out which program to run next. Finally it must haul out all the relevant information for that program, find its place in the code, and get in gear. The repeated rapid context swiching would cause the performace of the computer to degrade or collapse. This phenomenon called as [thrashing](https://en.wikipedia.org/wiki/Thrashing_(computer_science)). 
+Every time you switch tasks, you pay a price, known in computer science as a context switch. When a computer processor shifts its attention away from a given program, there’s always a certain amount of necessary overhead. It needs to effectively bookmark its place and put aside all of its information related to that program. Then it needs to figure out which program to run next. Finally it must haul out all the relevant information for that program, find its place in the code, and get in gear. The repeated rapid context switching would cause the performace of the computer to degrade or collapse. This phenomenon called as [thrashing](https://en.wikipedia.org/wiki/Thrashing_(computer_science)). 
 
 You can think of as being like juggling a set of balls. If the juggler takes one more ball than he can handle, he doesn't drop ***that*** ball; he drops ***everything***.
 
@@ -123,7 +123,7 @@ In workplace, holding office hours is a way of coalescing interruptions from co-
 
 ## Summary
 
-In addtion to kind of scheduling problem you want to solve, you also need to choose right metric to optimize. Because the metric we pick will directly affect which scheduling approaches fare best. 
+In addition to kind of scheduling problem you want to solve, you also need to choose right metric to optimize. Because the metric we pick will directly affect which scheduling approaches fare best. 
 
 > In computer science: before you can have a plan, you must first choose a metric. 
 
@@ -141,7 +141,7 @@ Here is the quick guide that summarizes when to choose each strategy based on me
 
 ## Credits
 
-This article is inpsired from the wonderful book [Algorithms to live by](http://amzn.to/2F1ZyLy). If you enjoyed this article, consider reading the [book](http://amzn.to/2F1ZyLy) which provides similar strategies for
+This article is inspired from the wonderful book [Algorithms to live by](http://amzn.to/2F1ZyLy). If you enjoyed this article, consider reading the [book](http://amzn.to/2F1ZyLy) which provides similar strategies for
 
 * Optimal stopping — When to stop looking?
 * Explore new things vs exploit what worked best.
