@@ -1,9 +1,9 @@
 ---
 layout: post
-title: How understanding computer scheduling algorithms can help us to be productive?
+title: How knowing computer scheduling algorithms can help us to be productive?
 date: 2017-12-21
-draft: true
-tags: computer-science education productivity tips
+draft: false
+tags: computer-science education algorithms productivity tips
 comments: true
 toc: ul
 description: We all want to get more things done efficiently and quickly. Computers does this very well. So Let's try to understand some computer scheduling algorithms to see how we can apply them to our daily lives to become more productive at our tasks.
