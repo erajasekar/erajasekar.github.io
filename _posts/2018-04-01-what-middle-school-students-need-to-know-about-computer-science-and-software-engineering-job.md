@@ -13,6 +13,9 @@ I got an opportunity to do a computer science workshop at Community Montessori S
 
 ## How I prepared?
 
-<br>
+I did the workshop in multiple sessions.
 
+> I believe that if we can get kids excited and inspired, they will learn anything.
+
+<br>
 [Read on Medium](https://medium.com/@e.rajasekar/what-middle-school-students-need-to-know-about-computer-science-and-software-engineering-job-14e12404fe73)
