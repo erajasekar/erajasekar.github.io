@@ -3,7 +3,7 @@ layout: post
 title: How can you teach computer science algorithms to middle school students?
 date: 2018-04-02
 draft: false
-tags: artificial-intelligence computer-science teaching programming schools education-technology
+tags: algorithms computer-science teaching programming schools education-technology
 comments: true
 description: In this article, I will write about how I taught computer science algorithms to 7 to 9th grade students.
 analytics: true
