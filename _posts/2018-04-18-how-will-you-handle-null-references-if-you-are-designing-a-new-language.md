@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How will you handle null references if you are designing a new language?
-date: 2018-04-09
+date: 2018-04-18
 draft: false
 tags: java kotlin computer-science technology programming-languages
 comments: true
@@ -17,7 +17,7 @@ The nullable objects introduces a fundamental problem with type system. For e.g 
 
 We normally skip null checks based on our assumptions in control flow of code. But when we are wrong, the code crashes with Null Pointer Exception. Java 8 introduced Optionals to deal with Nullable objects. But it has some flaws
 
-## Why Java Optionals is not a greatway to handle nulls?
+## Why Java Optionals is not a great way to handle nulls?
 
 <br>
 [Read on Medium](https://hackernoon.com/how-will-you-handle-null-references-if-you-are-designing-a-new-language-b1e4056456fc)
