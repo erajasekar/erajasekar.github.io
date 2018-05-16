@@ -9,7 +9,7 @@ description: The Power of Moments Book delves into some fascinating mysteries of
 analytics: true
 ---
 
-Insights from book  [The Power of Moments by Chip Heath and Dan Heath] (https://amzn.to/2jCON8R)
+*Insights from book  [The Power of Moments by Chip Heath and Dan Heath](https://amzn.to/2jCON8R)*
 
 ## About the book
 We all have experienced wonderful moments in our lives that stand out in our memory. This [book](https://amzn.to/2jCON8R) delves into some fascinating mysteries of experience and tries to answer the question “Why we tend to remember the best or worst moment of an experience, and forget the rest?”
