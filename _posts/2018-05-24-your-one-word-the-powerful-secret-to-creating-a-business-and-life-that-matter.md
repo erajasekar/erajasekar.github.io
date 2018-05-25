@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your One Word The Powerful Secret to Creating a Business and Life That MatterImpact?
+title: Your One Word The Powerful Secret to Creating a Business and Life That Matter?
 date: 2018-05-24
 draft: false
 tags: startup entrepreneurship personal-development books book-review
