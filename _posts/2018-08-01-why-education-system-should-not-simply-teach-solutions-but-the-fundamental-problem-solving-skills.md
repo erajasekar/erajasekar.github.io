@@ -28,16 +28,28 @@ The conversation I had with my daughter.
 
 
 > **I:** How long is one year’s calendar ?
+>
 > **Daughter :** There are 12 months. So It will be 12 pages.
 >
+> 
+>
 > **I:** How long will be a 10 year’s calendar ?
+>
 > **Daughter:** Hmm.. that is 10 times 12, so it will be 120 pages.
 >
+> 
+>
 > **I:** But, we can make 10 year calendar in less than 10 pages.
+>
 > **Daughter:** (with excitement) How?
 >
+> 
+>
 > **I:** To do that, we need to do a calendar research to identify patterns.
+>
 > **Daughter:** How can I do that?
+>
+> 
 >
 > **I:** I will show you how
 
