@@ -9,7 +9,7 @@ description: I will answer why we should not teach simply the solutions for prob
 analytics: true
 ---
 
-*Illustrated using a story of how I taught my kid to make 10 year calendar using less than 10 Pages*
+*(Illustrated using a story of how I taught my kid to make 10 year calendar using less than 10 Pages)*
 
 Why we should not teach simply the solutions to the problems, instead teach kids the fundamental problem solving skills?
 
@@ -25,15 +25,23 @@ I will also discuss few fundamental skills our education system should teach and
 
 The conversation I had with my daughter.
 
+
+
 > I: How long is one year’s calendar ?
 > Daughter : There are 12 months. So It will be 12 pages.
+>
 > I: How long will be a 10 year’s calendar ?
 > Daughter: Hmm.. that is 10 times 12, so it will be 120 pages.
+>
 > I: But, we can make 10 year calendar in less than 10 pages.
 > Daughter: (with excitement) How?
+>
 > I: To do that, we need to do a calendar research to identify patterns.
 > Daughter: How can I do that?
+>
 > I: I will show you how
 
+
+
 <br>
-[Read on Medium](https://medium.com/the-book-insights/your-one-word-the-powerful-secret-to-creating-a-business-and-life-that-matter-65400235c1b9)
+[Read on Medium](https://hackernoon.com/why-education-system-should-not-simply-teach-solutions-but-the-fundamental-problem-solving-skills-53fee2af4f0a)
