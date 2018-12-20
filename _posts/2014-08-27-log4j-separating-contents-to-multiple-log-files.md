@@ -16,30 +16,11 @@ This can be done by defining two appenders in log4j properties and configuring t
 
 Here is the example log4j properties.
 
-```ruby
-log4j.rootLogger=INFO,fileAppender
-
-log4j.logger.requestLogger=INFO, requestAppender
-
-##Don't propogate things logged to requestLogger to other appenders
-log4j.additivity.requestLogger=false
-
-log4j.appender.fileAppender=org.apache.log4j.RollingFileAppender
-log4j.appender.fileAppender.MaxFileSize=500MB
-log4j.appender.fileAppender.MaxBackupIndex=10
-log4j.appender.fileAppender.Append=true
-log4j.appender.fileAppender.File=server.log
-log4j.appender.fileAppender.layout=org.apache.log4j.PatternLayout
-log4j.appender.fileAppender.layout.ConversionPattern=%d [%t] %-5p (%c %M:%L) %x - %m%n
-
-log4j.appender.requestAppender=org.apache.log4j.RollingFileAppender
-log4j.appender.requestAppender.MaxFileSize=1024MB
-log4j.appender.requestAppender.MaxBackupIndex=10
-log4j.appender.requestAppender.Append=true
-log4j.appender.requestAppender.File=requests.log
-log4j.appender.requestAppender.layout=org.apache.log4j.PatternLayout
-log4j.appender.requestAppender.layout.ConversionPattern=%d [%t] %-5p (%C %M:%L) %x - %m%n
-```
+<iframe id="preview-iframe" src="https://doculet.net/doc/fb1114639d5a47e7b2110c006da4b720"
+ align="middle"
+ height="650"
+ width="100%"
+ frameborder="0"></iframe> 
 
 We have defined two appenders, ***fileAppender*** to output to `server.log` and ***requestAppender*** to output to `requests.log`. 
 Only ***fileAppender*** is added to ***rootLogger***, so any `Logger` instances created by passing java class will be logged to `server.log`.
