@@ -27,34 +27,25 @@ Only ***fileAppender*** is added to ***rootLogger***, so any `Logger` instances 
 
 Example code snippets showing how to log to `server.log`.
 
-```java
-public class RequestProcessor {
-
-    private static final Logger logger = Logger.getLogger(RequestProcessor.class);
-    
-    private void handleRequest(HttpServletRequest request){
-        //This message will be logged to server.log
-        logger.info("Processing Request");
-    }
-}
-```
+<iframe id="preview-iframe" src="https://doculet.net/doc/72e7809492b347662614deb01d1752d7"
+ align="middle"
+ height="350"
+ width="100%"
+ frameborder="0"></iframe> 
 
 To log to `requests.log` the `Logger` instance should be created passing `requestLogger` as logger name.
 
 Example code snippets showing how to log to `request.log`.
 
-```java
-public class RequestInterceptor {
+<iframe id="preview-iframe" src="https://doculet.net/doc/f825aaef4f43679cc7a86274cd79e42a"
+ align="middle"
+ height="420"
+ width="100%"
+ frameborder="0"></iframe> 
 
-    private static final Logger logger = Logger.getLogger("requestLogger"); //Should match name of logger 
-    
-    public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
-        //This will be logged to requests.log
-        logger.info("Received request from user: " + request.getRemoteUser());
-        return true;
-    }
-}
-```
+<hr>
+
+If you would like to embed code examples your blog like in this article, Try [Doculet](https://doculet.net/).
 
 
  
