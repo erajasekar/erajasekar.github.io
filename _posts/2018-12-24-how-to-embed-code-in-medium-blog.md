@@ -21,9 +21,9 @@ The other alternative is to embed code using github Gists. Gists are ok, but we 
 
 ## Doculet - Easy way to Embed code in Medium
 
-Because of above problems, I decided to build a new app to make embeding code in Medium or any website easier. The app name is [Doculet](https://doculet.net/about) and beta version is ready to use. 
+Because of above problems, I decided to build a new app to make embeding code in Medium or any website easy. The app name is [Doculet](https://doculet.net/about) and beta version is ready to use. 
 
-Doculet has ability to import your existing gists or you can create new code document in Doculet editor. In the editor, you will type the code in left side and see live preview on right side. Doculet uses human readable and easy to use [AsciiDoc](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#source-code) document markup that is similar to markdown. AsciiDoc provides builtin support to comment code using callouts. 
+Doculet can import your existing gists or you can create new code document in Doculet editor. Doculet uses human readable and easy to use [AsciiDoc](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#source-code) document markup that is similar to markdown. AsciiDoc provides builtin support to comment code using callouts. 
 
 After you finish editing, you can publish your code for embeding in other sites. 
 
@@ -39,11 +39,13 @@ You can import your Gist by entering Gist Id or URL in Nav header text box.
 
 
 
-Doculet automatically adds required metadata and converts your code to AsciiDoc format.
+Doculet automatically adds required source code metadata and converts your code to AsciiDoc format.
+
+
 
 ## Using Doculet editor
 
-You can edit document in the editor using AsciiDoc format and see live preview. AsciiDoc format is very similiar to Markdown language and most of the markdown syntax as is works with AsciiDoc. 
+In Doculet Editor, you can edit code in left side and see live preview in right side. You should see AsciiDoc format for editing. AsciiDoc format is very similiar to Markdown language and most of the markdown syntax as is works with AsciiDoc. 
 
 You can simply include source code like this:
 
@@ -76,6 +78,8 @@ end
 
 
 Refer to [AsciiDoc Quick Reference](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#source-code) if you need help with asciidoc syntax. Save your documents when necessary.
+
+
 
 ## Publishing Your Code
 
