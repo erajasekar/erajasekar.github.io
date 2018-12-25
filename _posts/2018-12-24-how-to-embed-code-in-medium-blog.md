@@ -9,8 +9,6 @@ analytics: true
 
 ---
 
-#### *With beautiful syntax highlighting and copy to clipboard support*
-
 ## Problems in direct Medium Embed or Gists
 
 We can display code in Medium by adding code block  between two ``` (s). But this doesn't look pretty without syntax highlighting.
