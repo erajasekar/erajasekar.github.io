@@ -93,7 +93,7 @@ When ready, click on publish button to publish your code for embeding in other s
 
 Simply type URL and hit enter. It will automatically expand into embeded iframe.
 
-![Medium Embed](https://uc9da18d401356e88b0c329a6280.dl.dropboxusercontent.com/cd/0/inline/AYEqbJTiT99zsUMOMBGEE_XdcizBovATWsh1gEM7gdniIqwns2Kwd2T-Y2XC5M-LaaJn9IIpnRs7JwXQBjbAbU6gyXBT9V7Yp4DP_UXQMjs0w5CY1NXb6Jld-bBgOdCKl7etmuyTao0Nigkd2Md4j5YYb5IOsjfNhCGKMYTs81FzQkWEQDrVxM3EcKywVusf-gk/file)
+![Medium Embed](https://www.dropbox.com/s/52kcrh91qrdsuuj/embed-demo.gif?raw=1)
 
 
 
@@ -115,7 +115,7 @@ To embed on your blog or any website, copy the iframe and add to your blog or we
 
 Readers can quickly copy code by clicking ***copy*** icon. They can also switch between dark or light code theme.
 
-![Switch theme example](https://uc43edce11f4edf2388baab9d42f.dl.dropboxusercontent.com/cd/0/inline/AYHcOzhm5TjngG0ruWj5OYwRniFsu3eym4q-Jg9RlFwjaD5ejudXCyJ3_FIFGMOuRkHxaCMfcwH3z9bvRW5gVzLPYmpxM0HYOf5-rhYmlUhY8HLVX8mXssyZOGIvg7o8A4ywmTzJEeOcu-VoWdDIZk13-eKnaOwCzx8WPlaoJsYQBnllG0jUx1IaB9671kV6fjA/file)
+![Switch theme example](https://www.dropbox.com/s/m39wgvi8dagjl7u/theme-select-demo.gif?raw=1)
 
 
 
