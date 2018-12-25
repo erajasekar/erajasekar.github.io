@@ -9,25 +9,27 @@ analytics: true
 
 ---
 
-*With beautiful syntax highlighting and copy to clipboard support* 
+#### *With beautiful syntax highlighting and copy to clipboard support*
 
 ## Problems in direct Medium Embed or Gists
 
-The common method to display code in Medium is to directly add code block  between two ``` . But this doesn't look pretty without syntax highlighting.
+We can display code in Medium by adding code block  between two ``` (s). But this doesn't look pretty without syntax highlighting.
 
-The other alternative is to embed code using github Gists. Gists are ok, but we can't customize syntax highlight theme and also can't copy code in a single click. 
+The common alternative is to embed code using github Gists. But, we can't customize syntax highlight theme. Also, it will be nice to annotate code with callouts instead of standard code comments.
 
 
 
 ## Doculet - Easy way to Embed code in Medium
 
-Because of above problems, I decided to build a new app to make embeding code in Medium or any website easy. The app name is [Doculet](https://doculet.net/about) and beta version is ready to use. 
+To solve above problems, I have built a new app (named as  **Doculet**). The beta version of  [Doculet](https://doculet.net/about) is ready to use.
 
-Doculet can import your existing gists or you can create new code document in Doculet editor. Doculet uses human readable and easy to use [AsciiDoc](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#source-code) document markup that is similar to markdown. AsciiDoc provides builtin support to comment code using callouts. 
+<br>
+
+Doculet can import your existing gists or you can create new code block in Doculet editor. Doculet uses human readable and easy to use [AsciiDoc](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#source-code) document markup which is similar to markdown. AsciiDoc provides builtin support to comment code using callouts. 
 
 After you finish editing, you can publish your code for embeding in other sites. 
 
-
+The step by step instructions are illustrated below.
 
 ## Importing Existing Gists 
 
@@ -39,41 +41,19 @@ You can import your Gist by entering Gist Id or URL in Nav header text box.
 
 
 
-Doculet automatically adds required source code metadata and converts your code to AsciiDoc format.
-
-
+Doculet automatically adds required source code metadata and converts your code to AsciiDoc format. After importing, you can also edit code in Doculet editor.
 
 ## Using Doculet editor
 
-In Doculet Editor, you can edit code in left side and see live preview in right side. You should see AsciiDoc format for editing. AsciiDoc format is very similiar to Markdown language and most of the markdown syntax as is works with AsciiDoc. 
+In Doculet Editor, you can edit code in left side and see live preview in right side. You should use AsciiDoc format for editing which is [very similiar](https://asciidoctor.org/docs/asciidoc-vs-markdown/) to Markdown language. You can simply include source code between two `——` and define source code language using `[source, <lang>]` above your code like below.
 
-You can simply include source code like this:
-
-```
-[source,javascript]
-.hello.js
-----
-console.log('Hello World');
-----
-```
+![Import gist](https://raw.githubusercontent.com/erajasekar/erajasekar.github.io/master/assets/images/doculet-intro/doculet-editor.gif)
 
 
 
-In addtion, your can use callouts to explain your code like this:
+In addtion, your can use callouts to explain your code. To display callout add `<number>` to line you want to comment and add explanation using the format `<number> your explanation` below the code like in this example.
 
-```
-[source,ruby]
-----
-require 'sinatra' // <1>
-
-get '/hi' do // <2>
-  "Hello World!" // <3>
-end
-----
-<1> Library import
-<2> URL mapping
-<3> HTTP response body
-```
+![Code callout Example](https://raw.githubusercontent.com/erajasekar/erajasekar.github.io/master/assets/images/doculet-intro/doculet-editor-callout.png)
 
 
 
@@ -83,9 +63,7 @@ Refer to [AsciiDoc Quick Reference](https://asciidoctor.org/docs/asciidoc-syntax
 
 ## Publishing Your Code
 
-When ready, click on publish button to publish your code for embeding in other sites. You will be presented with links to share and preview of your embed. 
-
-
+When ready, click on publish button to publish your code for embeding in other sites. You see links to share along with preview of your embed. 
 
 ![Share Example](https://raw.githubusercontent.com/erajasekar/erajasekar.github.io/master/assets/images/doculet-intro/share-example3.png){:height="800px" width="850px"}
 
@@ -117,7 +95,9 @@ Readers can quickly copy code by clicking ***copy*** icon. They can also switch 
 
 ![Switch theme example](https://www.dropbox.com/s/m39wgvi8dagjl7u/theme-select-demo.gif?raw=1)
 
+## Help me improve Doculet
 
+If you find any bugs or have feature request, please submit issue in [Github.](https://github.com/erajasekar/doculet/issues) Please subscribe to [email list](http://eepurl.com/dI-8Ur) to receive updates.
 
 
 
