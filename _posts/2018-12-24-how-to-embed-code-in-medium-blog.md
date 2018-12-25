@@ -87,7 +87,7 @@ When ready, click on publish button to publish your code for embeding in other s
 
 
 
-![Share Example](https://raw.githubusercontent.com/erajasekar/erajasekar.github.io/master/assets/images/doculet-intro/share-example1.png){:height="400px" width="500px"}
+![Share Example](https://raw.githubusercontent.com/erajasekar/erajasekar.github.io/master/assets/images/doculet-intro/share-example1.png){:height="400px" width="856px"}
 
 ## Embeding in Medium
 
