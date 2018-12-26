@@ -45,7 +45,7 @@ Doculet automatically adds required source code metadata and converts your code 
 
 In Doculet Editor, you can edit code on left hand side and you will see live preview on the right side. You should use AsciiDoc format for editing which is [very similiar](https://asciidoctor.org/docs/asciidoc-vs-markdown/) to Markdown language. You can simply include source code between two `----`  and define source code language using `[source, <lang>]` above your code like this.
 
-![Import gist](https://raw.githubusercontent.com/erajasekar/erajasekar.github.io/master/assets/images/doculet-intro/doculet-editor.gif)
+![Import gist](https://raw.githubusercontent.com/erajasekar/erajasekar.github.io/master/assets/images/doculet-intro/doculet-editor1.gif)
 
 
 
@@ -61,7 +61,7 @@ Refer to [AsciiDoc Quick Reference](https://asciidoctor.org/docs/asciidoc-syntax
 
 Save your documents when necessary. When your are ready, click on ***publish*** button to share your code for embeding in other sites. You will see links for sharing along with preview of your embed. 
 
-![Share Example](https://raw.githubusercontent.com/erajasekar/erajasekar.github.io/master/assets/images/doculet-intro/share-example3.png){:height="800px" width="850px"}
+![Share Example](https://raw.githubusercontent.com/erajasekar/erajasekar.github.io/master/assets/images/doculet-intro/share-example4.png){:height="800px" width="850px"}
 
 ## Embeding in Medium
 
