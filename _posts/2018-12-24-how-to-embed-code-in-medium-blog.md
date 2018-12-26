@@ -61,7 +61,7 @@ Refer to [AsciiDoc Quick Reference](https://asciidoctor.org/docs/asciidoc-syntax
 
 Save your documents when necessary. When your are ready, click on ***publish*** button to share your code for embeding in other sites. You will see links for sharing along with preview of your embed. 
 
-![Share Example](https://raw.githubusercontent.com/erajasekar/erajasekar.github.io/master/assets/images/doculet-intro/share-example4.png){:height="800px" width="850px"}
+![Share Example](https://raw.githubusercontent.com/erajasekar/erajasekar.github.io/master/assets/images/doculet-intro/share-example4.png){:height="700px" width="815px"}
 
 ## Embeding in Medium
 
