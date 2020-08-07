@@ -44,11 +44,13 @@ I would like to share some tips and best practices I found while organizing note
 I use popular [PARA](https://youtu.be/FZIMlWLW4gU) ( Projects, Areas, Resources, Archieve ) method to organize all resources. So I use unique color for each type of resource.
 For eg. Green for Projects, Red for Areas, Blue for Resources etc. Here is example from my Notion.
 
-![Notion Example](https://notion.erajasekar.com/_nuxt/img/notions-related-icons.f3c48e5.png)
+![Notion Para Example](https://www.dropbox.com/s/rcjib2pdvb25icn/Notion-Para.png?dl=0&raw=1)
 
 Even if you don't use PARA, if gives a quick visual context if you use unique color for each category.
 
 ### 2. Use same icon for each item in the collection
+
+![Notion Unique Icon Example](https://www.dropbox.com/s/594o7mh2jtx3idr/Notion-uniq2.png?dl=0&raw=1)
 
 ### 3. Use different icon for each item for tag database.
 
@@ -61,3 +63,6 @@ You must be already familiar with Notion templates to easily replicate page stru
 ## Don't find the Icons you want ?
 
 I have only added Icons I use in My Notion. More icons we add, it becomes harder to choose right one ( [Paradox Of Choice](https://en.wikipedia.org/wiki/The_Paradox_of_Choice) ). I would like to crowd source best Icons for Notion from the community. So feel free to contribute more icons by following these [instructions](https://notion.erajasekar.com/about/#how-to-contribute).
+
+If you need more help, please checkout [FAQ](https://notion.erajasekar.com/about#faq).
+
