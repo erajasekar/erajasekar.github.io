@@ -1,21 +1,20 @@
 ---
 layout: post
-title: How to Easily Add Icons to your Notion Notes
+title: How to Easily Add Icons to your Notion Notes?
 date: 2020-08-02
 draft: false
 tags: productivity notionhq notion note-taking
 comments: true
-description: TODO.
+description: In this post, I will share how to use Notions Icons tool to easily add icons to Notion and some tips in using Icons in Notion.
 analytics: true
 ---
 
 ## Problem with Adding Icons in Notion
 
- Notions comes with only limited set of icons. We can get beautiful icons from many websites like [Icon8](https://icons8.com/) , [Flaticon](https://www.flaticon.com/). But it is painful to add icons from those websites to notion notes.  
+ Notions comes with only limited set of icons. We can get beautiful icons from many websites like [Icon8](https://icons8.com/) , [Flaticon](https://www.flaticon.com/). But it is painful to add icons from those websites to notion notes. So I have built a [Notion Icons](https://notion.erajasekar.com/) tool to easily add icons to Notion. 
 
- We need to first find the right icon from thousands of icons, then customize and download to my computer. After that we can upload new icon to Notion.
+ In this post, I will share how to use Notions Icons and some tips in using Icons in Notion.
 
- So I decided to build this tool Myself and share it with the Notion community.
 
  <br>
 
@@ -39,7 +38,12 @@ You Watch this demo video to see it in action.
 
 I would like to share some tips and best practices I found while organizing notes with Icons. 
 
-### 1. Use unique colors for each category
+### 1. Use templates to automatically add icons for new Database Items.
+
+You must be already familiar with Notion templates to easily replicate page structures in Database. If you are not, check this [article](https://www.notion.so/Database-templates-454ed5ab5bd24226b58d176697bd7e10). 
+Using templates, we can easily set default values for Icons and other fields.
+
+### 2. Use unique colors for each category
 
 I use popular [PARA](https://youtu.be/FZIMlWLW4gU) ( Projects, Areas, Resources, Archieve ) method to organize all resources. So I use unique color for each type of resource.
 For eg. Green for Projects, Red for Areas, Blue for Resources etc. Here is example from my Notion.
@@ -48,17 +52,19 @@ For eg. Green for Projects, Red for Areas, Blue for Resources etc. Here is examp
 
 Even if you don't use PARA, if gives a quick visual context if you use unique color for each category.
 
-### 2. Use same icon for each item in the collection
+### 3. Use same icon for each item in the collection
 
+The database view will look neat if you use same icon for each item in the database. Also, when you use same icon, you can set it as default icon in templates and save lot of time.
+
+
+You can see below screen shot of my setup and I have used same icons for all vidoes, podcasts, books etc.
 ![Notion Unique Icon Example](https://www.dropbox.com/s/594o7mh2jtx3idr/Notion-uniq2.png?dl=0&raw=1)
 
-### 3. Use different icon for each item for tag database.
+### 4. Use different icon for each item for tag database.
 
-### 4. Use templates to automatically add icons for new Database Items.
+I use global databases for Topics, Tags to categorize notes. For those items, It's a good idea to use unique icons based on the name. Here is example from my Notion setup.
 
-You must be already familiar with Notion templates to easily replicate page structures in Database. If you not, check this [article](https://www.notion.so/Database-templates-454ed5ab5bd24226b58d176697bd7e10). It saves you a lot time as it can easily set default values for fields including adding Icons.
-
-
+![Notion Unique Icon Example](https://www.dropbox.com/s/2dzsl95x1qt2s31/Notion-tag-icons.png?dl=0&raw=1)
 
 ## Don't find the Icons you want ?
 
