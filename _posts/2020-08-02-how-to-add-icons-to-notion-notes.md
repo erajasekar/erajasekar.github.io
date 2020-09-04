@@ -11,7 +11,7 @@ analytics: true
 
 ## Problem with Adding Icons in Notion
 
- Notions comes with only limited set of icons. We can get beautiful icons from many websites like [Icon8](https://icons8.com/) , [Flaticon](https://www.flaticon.com/). But it is painful to add icons from those websites to notion notes. So I have built a [Notion Icons](https://notion.erajasekar.com/) tool to easily add icons to Notion. 
+ Notions comes with only limited set of icons. We can get beautiful icons from many websites like [Icon8](https://icons8.com/) , [Flaticon](https://www.flaticon.com/). But it is painful to add icons from those websites to Notion notes. So I have built a [Notion Icons](https://notion.erajasekar.com/) tool to easily add icons to Notion. 
 
  In this post, I will share how to use Notions Icons and some tips in using Icons in Notion.
 
@@ -41,7 +41,7 @@ I would like to share some tips and best practices I found while organizing note
 ### 1. Use templates to automatically add icons for new Database Items.
 
 You must be already familiar with Notion templates to easily replicate page structures in Database. If you are not, check this [article](https://www.notion.so/Database-templates-454ed5ab5bd24226b58d176697bd7e10). 
-Using templates, we can easily set default values for Icons and other fields.
+Using templates, we can easily set default values for fields including Icons.
 
 ### 2. Use unique colors for each category
 
