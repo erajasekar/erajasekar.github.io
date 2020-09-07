@@ -11,7 +11,7 @@ analytics: true
 
 ## Problem with Adding Icons in Notion
 
- Notion comes with only limited set of icons. We can get beautiful icons from many websites like [Icon8](https://icons8.com/) , [Flaticon](https://www.flaticon.com/). But it is painful to add icons from those websites to Notion notes. So I have built a [Notion Icons](https://notion.erajasekar.com/) tool to easily add icons to Notion. 
+ Notion comes with only a limited set of icons. We can get beautiful icons from many websites like [Icon8](https://icons8.com/) , [Flaticon](https://www.flaticon.com/). But it is painful to add icons from those websites to Notion notes. So I have built a [Notion Icons](https://notion.erajasekar.com/) tool to easily add icons to Notion. 
 
  In this post, I will share how to use Notions Icons and some tips in using Icons in Notion.
 
@@ -29,7 +29,7 @@ analytics: true
 6. Go to your Notion app, click on icon, go to Link tab and paste the copied url.
 7. Hit Enter. The icon will be updated.
 
-You Watch this demo video to see it in action.
+You can watch this demo video to see it in action.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/otaWCicokTc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -44,7 +44,7 @@ Using templates, we can easily set default values for fields including Icons.
 
 ### 2. Use unique colors for each category
 
-I use popular [PARA](https://youtu.be/FZIMlWLW4gU) ( Projects, Areas, Resources, Archieve ) method to organize all resources. So I use unique color for each type of resource.
+I use popular [PARA](https://youtu.be/FZIMlWLW4gU) ( Projects, Areas, Resources, Archive ) method to organize all resources. So I use unique colors for each type of resource.
 For eg. Green for Projects, Red for Areas, Blue for Resources etc. Here is example from my Notion.
 
 ![Notion Para Example](https://www.dropbox.com/s/rcjib2pdvb25icn/Notion-Para.png?dl=0&raw=1)
@@ -56,10 +56,10 @@ Even if you don't use PARA, if gives a quick visual context if you use unique co
 The database view will look neat if you use same icon for each item in the database. Also, when you use same icon, you can set it as default icon in templates and save lot of time.
 
 
-You can see below screen shot of my setup and I have used same icons for all vidoes, podcasts, books etc.
+You can see below screenshot of my setup and I have used same icons for all videos, podcasts, books etc.
 ![Notion Unique Icon Example](https://www.dropbox.com/s/594o7mh2jtx3idr/Notion-uniq2.png?dl=0&raw=1)
 
-### 4. Use different icon for each item for tag database.
+### 4. Use different icons for each item for tag database.
 
 I use global databases for Topics, Tags to categorize notes. For those items, It's a good idea to use unique icons based on the name. Here is example from my Notion setup.
 
@@ -67,7 +67,7 @@ I use global databases for Topics, Tags to categorize notes. For those items, It
 
 ## Don't find the Icons you want ?
 
-I have only added Icons I use in My Notion. More icons we add, it becomes harder to choose right one ( [Paradox Of Choice](https://en.wikipedia.org/wiki/The_Paradox_of_Choice) ). I would like to crowd source best Icons for Notion from the community. So feel free to contribute more icons by following these [instructions](https://notion.erajasekar.com/about/#how-to-contribute).
+I have only added Icons I use in My Notion. The more icons we add, it becomes harder to choose right one ( [Paradox Of Choice](https://en.wikipedia.org/wiki/The_Paradox_of_Choice) ). I would like to crowdsource best Icons for Notion from the community. So feel free to contribute more icons by following these [instructions](https://notion.erajasekar.com/about/#how-to-contribute).
 
-If you need more help, please checkout [FAQ](https://notion.erajasekar.com/about#faq).
+If you need more help, please check out [FAQ](https://notion.erajasekar.com/about#faq).
 
