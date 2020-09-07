@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Easily Add Icons to your Notion Notes?
-date: 2020-08-02
+date: 2020-09-07
 draft: false
 tags: productivity notionhq notion note-taking
 comments: true
