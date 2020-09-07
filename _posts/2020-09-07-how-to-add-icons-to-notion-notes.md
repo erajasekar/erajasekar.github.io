@@ -11,10 +11,9 @@ analytics: true
 
 ## Problem with Adding Icons in Notion
 
- Notions comes with only limited set of icons. We can get beautiful icons from many websites like [Icon8](https://icons8.com/) , [Flaticon](https://www.flaticon.com/). But it is painful to add icons from those websites to Notion notes. So I have built a [Notion Icons](https://notion.erajasekar.com/) tool to easily add icons to Notion. 
+ Notion comes with only limited set of icons. We can get beautiful icons from many websites like [Icon8](https://icons8.com/) , [Flaticon](https://www.flaticon.com/). But it is painful to add icons from those websites to Notion notes. So I have built a [Notion Icons](https://notion.erajasekar.com/) tool to easily add icons to Notion. 
 
  In this post, I will share how to use Notions Icons and some tips in using Icons in Notion.
-
 
  <br>
 
