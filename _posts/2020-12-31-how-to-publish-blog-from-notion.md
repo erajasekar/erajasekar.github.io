@@ -22,7 +22,9 @@ Let me describe my requirements so that you will know if you have same needs or 
 
 * Since Notion doesn't have good backup solution, I don't want blog to use same content in Notion, instead import the content to hosting site. 
 * Should able to use custom domain.
+* I should to use Google Analytics for tracking.
 * I am not looking for a fully automated paid product, but a free low code tool.
+
 
 ## Why did I decide to use notablog ? 
 
@@ -61,15 +63,45 @@ The step's on the project's [README](https://github.com/dragonman225/notablog) w
 
 7. After it finishes, go to `notablog-starter/public/` directory, open `index.html` with a browser to preview your site.
 
+## How to deploy blog to Github pages ?
+ 
+The blog content is generated to `public` dir, but to use github pages we either have to use special branch `gh-pages` or special folder `docs` in master branch.
+I am using `docs` folder as it is easy to copy around files. 
+
+### Setting up GitHub Pages.
+
+* Go to your project's settings tab.
+* Scroll to GitHub pages secion.
+* Under source select branch as `master` and folder as `/docs`.
+* To use custom domain, enter YOUR DOMAIN NAME under custom domain and click Save.
+
+### Publishing blog.
+
+Once I add/update blog content in Notion, I use the below script for publishing. 
+
+```bash
+notablog generate .
+rm -rf docs
+cp -r public docs
+git add .
+git commit -m "$1"
+git push origin master
+``` 
+
+You can copy this to script `publish.sh` and run it using `./publish.sh <YOUR COMMIT MESSAGE>`
+
+> NOTE: If you use custom domain a file named `CNAME` should contain your domain name. So after you setup GitHub pages run `cp docs/CNAME public/CNAME` to make sure CNAME file is not deleted by publish script.
+
 
 ## How to make blog SEO friendly ?
+
 
 todo 
 * Adding analytics.
 
-## How to deploy blog to Github pages ?
- 
-todo
+## Demo.
+
+
 
 
 
