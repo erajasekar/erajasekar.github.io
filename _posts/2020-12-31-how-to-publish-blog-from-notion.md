@@ -28,7 +28,7 @@ Let me describe my requirements so that you will know if you have same needs or 
 
 ## Why did I decide to use notablog ? 
 
-There are some of the popular Notion hosting tools like [Super](https://super.so), [HostNotion](https://hostnotion.co/), but they are paid. The main feature they provide is pretty URL which is implemented using URL rewrite. So I found free tool [Fruition](https://fruitionsite.com/) that can do url rewrite for Notion. But the problem is that it still serves content from Notion.
+There are some of the popular Notion hosting tools like [Super](https://super.so), [HostNotion](https://hostnotion.co/), but they are paid. The main feature they provide is prettify URL which is implemented using URL rewrite. So I found free tool [Fruition](https://fruitionsite.com/) that can do url rewrite for Notion. But the problem is that it still serves content from Notion.
 
 So I searched for static site generators that can create blog from Notion content and I found [notion-blog](https://github.com/ijjk/notion-blog). I liked the idea, but it didn't support all the content types. For e.g toggle list didn't work. Also, it was not easy to customize theme.
 
@@ -96,7 +96,7 @@ You can copy this to script `publish.sh` and run it using `./publish.sh <YOUR CO
 ## How to make blog SEO friendly ?
 
 
-todo 
+todo - https://github.com/erajasekar/notablog-starter/pull/1/files
 * Adding analytics.
 
 ## Demo.
