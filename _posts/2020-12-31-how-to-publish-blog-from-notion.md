@@ -130,18 +130,42 @@ Google analytics script can be easily added to template html files so that the g
 
 ## How to make blog SEO friendly ?
 
-To make a site SEO friendly, we need to add `meta` tags in HTML `<head>` section. Notablog already adds most of the meta tags.
-The only tag I need to add is `og:image` to provide cover image for social sharing like facebook and twitter.
+To make a site SEO friendly, HTML meta tags like `<meta property="PROPERTY_NAME" content="VALUE">`  should be added to the `<head>` section. Luckily, Notablog already adds most of the required meta tags. The only tag I need to add is `og:image` to provide cover image for social sharing like facebook and twitter.
 
-So I added following lines
+Before adding metatags, lets look at the Notablog's directory structure and understand theme system.
 
-```html
-{{if(options.siteMeta.cover)}}
-  <meta property="og:image" content="{{siteMeta.cover}}">
-{{/if}}
-``` 
+```
+notablog-starter
+├── config.json
+├── public
+├── source
+│   └── notion_cache
+└── themes
+    └── pure
+    	└── layout
+    	└── assests
+```
 
-How it looks in metatags io.
+Notablog ships with one theme `pure` it is used by default. The theme name is configured in `notablog-starter/config.json`. 
+
+The `layout` directory contains the template files `index.html` , `post.html` and `tags.html` which are used to generate static html files when  `notablog generate` command is run.
+
+I need to update these template files. To easily track the changes I am are making, I created a new theme `kartranai` using steps
+
+* Copy **pure** dir to **kartranai**. `cp -r themes/pure/ themes/kartranai`
+* Update theme value to `kartranai` in `config.json` file.
+
+Then, I added following snippet to `index.html` , `post.html` files in `themes/kartranai` dir.
+
+<iframe id="preview-iframe" src="https://doculet.net/doc/42e896d52721faf1946ca9f3387f8a5d" align="middle" width="100%" height="223" allowfullscreen="true" scrolling="no" frameborder="0"></iframe>
+
+As you can see from the code, it uses Notion Page cover image for social image, so you will need to add a page cover image to your pages social images to show up.
+
+### Verying SEO tags.
+
+[metatags.io](https://metatags.io/) is handy tool you can use verify your SEO tags. I will show you the preview of how your site will appear in Google, facebook, twitter etc.
+
+See below picture for how my blog looks like,
 
 ![Katranai Thoorum Arivu Social](https://www.dropbox.com/s/6ko9z9csfv61c6v/Katranai%20Social.png?dl=0&raw=1)
 
