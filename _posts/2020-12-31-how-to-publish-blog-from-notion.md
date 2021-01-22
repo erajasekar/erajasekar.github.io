@@ -118,7 +118,32 @@ git push origin master
 
 * For more information refer to [this guide](https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain) from github.
 
+## How to Add Google Analytics ?
+
+Google analytics script can be easily added to template html files so that the generated files will contain this code.
+
+```html
+<script>
+	//COPY AND INSERT CODE FROM YOUR GOOGLE ANALYTICS ADMIN SETUP.
+</script>
+  ```
+
 ## How to make blog SEO friendly ?
+
+To make a site SEO friendly, we need to add `meta` tags in HTML `<head>` section. Notablog already adds most of the meta tags.
+The only tag I need to add is `og:image` to provide cover image for social sharing like facebook and twitter.
+
+So I added following lines
+
+```html
+{{if(options.siteMeta.cover)}}
+  <meta property="og:image" content="{{siteMeta.cover}}">
+{{/if}}
+``` 
+
+How it looks in metatags io.
+
+![Katranai Thoorum Arivu Social](https://www.dropbox.com/s/6ko9z9csfv61c6v/Katranai%20Social.png?dl=0&raw=1)
 
 * metatags
 * tips to share image link and template.
