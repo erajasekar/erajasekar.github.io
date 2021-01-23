@@ -83,14 +83,13 @@ I am using `docs` folder as it is easy to copy around files.
 
 Once I add/update blog content in Notion, I use the below script for publishing. You can copy this to script `publish.sh` and run it using `./publish.sh <YOUR COMMIT MESSAGE>`
 
-```bash
-notablog generate .
-rm -rf docs
-cp -r public docs
-git add .
-git commit -m "$1"
-git push origin master
-``` 
+<iframe id="preview-iframe" src="https://doculet.net/doc/07ef4fa571e1ae87de1d4d98af529144"
+ align="middle"
+ width="100%"
+ height="298"
+ allowfullscreen="true"
+ scrolling="no"
+ frameborder="0"></iframe> 
 
 ## How to setup custom domain?
 
