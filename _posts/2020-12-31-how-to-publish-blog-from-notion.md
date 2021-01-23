@@ -9,7 +9,7 @@ description: TODO
 analytics: true
 ---
 
-I want to publish blog from my Notion content and I found a best solution after researching many notion hosting options. In this post, I will why I decided to use notablog for my blog and how you can also publish your blog from Notion for free.
+I want to publish blog from my Notion content. I researched many notion hosting solutions and found a best tool. In this post, I will why I decided to use notablog for my blog and how you can also publish your blog from Notion for free.
 
 ## Example Blog for Demo
 
@@ -18,14 +18,14 @@ It is created from this [shared notion page](https://www.notion.so/erajasekar/91
 
 ## What are the requirements?
 
-Let me describe first my requirements so that you will know if you have same needs or if this solution is right for you.
+Let me describe my requirements so that you will know if you have same needs or if this solution is right for you.
 <br>
 
 * The blog should be **SEO friendly**. For eg.
 	* Should able to prettify cryptic notion urls like *`Thirukkural-How-to-control-Anger-e26960d655a44dcc81775f824d7997aa`* to more readable url *`Thirukkural-How-to-control-Anger`*
 	* Should able to update html metatags so that I can customize how it appears in social media like Facebook, Twitter etc.
 
-* Since Notion doesn't have good backup solution, I don't want blog to use same content in Notion, instead import the content to hosting site. So If lose content in my Notion, the blog won't be broken.
+* Since Notion doesn't have good backup solution, I don't want blog to use content directly from Notion, instead import the content to hosting site. So If lose content in my Notion, the blog won't be broken.
 * Should able to use my own custom domain.
 * I should to use Google Analytics for tracking.
 * I am not looking for a fully automated **paid** product, but a **free low code** tool.
@@ -33,7 +33,7 @@ Let me describe first my requirements so that you will know if you have same nee
 
 ## Why did I decide to use notablog ? 
 
-I popular Notion hosting tools like [Super.so](https://super.so), [HostNotion](https://hostnotion.co/), but they are all paid. The main feature they provide is prettify URL which is implemented using URL rewrite. So I found free tool [Fruition](https://fruitionsite.com/) that can do url rewrite for Notion. But the problem with Fruition and other paid solutions is that it still serves content from Notion.
+I found many Notion hosting tools like [Super.so](https://super.so), [HostNotion](https://hostnotion.co/), but they are all paid. The main feature they provide is prettify URL which is implemented using URL rewrite. So I found free tool [Fruition](https://fruitionsite.com/) that can do url rewrite for Notion. But the problem with Fruition and other paid solutions is that it still serves content from Notion.
 
 Then I got an idea that I should look for static site generators that can generate blog as static html from Notion content. First, I found [notion-blog](https://github.com/ijjk/notion-blog). I liked the idea, but it didn't support all the content types. For e.g toggle list didn't work. Also, it's not easy to customize theme.
 
@@ -81,7 +81,7 @@ I am using `docs` folder as it is easy to copy around files.
 
 ### Publishing blog.
 
-Once I add/update blog content in Notion, I use the below script for publishing. You can copy this to script `publish.sh` and run it using `./publish.sh <YOUR COMMIT MESSAGE>`
+Once I add/update blog content in Notion, I use notablog `generate` command to create static html files. Then, copy contents of `public` dir to `docs` dir and push it to git. I created below `publish.sh` script which you can copy and run as  `./publish.sh <YOUR COMMIT MESSAGE>`.
 
 <iframe id="preview-iframe" src="https://doculet.net/doc/07ef4fa571e1ae87de1d4d98af529144"
  align="middle"
@@ -96,7 +96,7 @@ Once I add/update blog content in Notion, I use the below script for publishing.
 ### Configure Github pages to use custom domain.
 
 * Go to GitHub pages section in project's settings tab.
-* Enter YOUR DOMAIN NAME under custom domain and click Save.
+* Enter <YOUR DOMAIN NAME> under custom domain and click Save.
 * This creates file name `CNAME` in `docs` dir. 
 * So you should copy `CNAME` file to `public` dir using the command `cp docs/CNAME public/CNAME` to make sure CNAME file is not deleted by publish script.
 
@@ -144,7 +144,7 @@ Notablog ships with one theme `pure`. This theme name is configured in `notablog
 
 The `layout` directory contains the template files `index.html` , `post.html` and `tags.html` which are used to generate static html files when  `notablog generate` command is run.
 
-I figured that to customize generated html content these template files should be updated. To easily track the changes to be made, I thought it's good idea to use my own theme. So
+I figured that to customize generated html content these template files should be updated. To easily track the code changes, I thought it's good idea to use my own theme. So
 I created a new theme `kartranai` using steps
 
 * Copy **pure** dir to **kartranai**. `cp -r themes/pure/ themes/kartranai`.
@@ -171,13 +171,9 @@ The below screen shot shows how the blog I created will look in Google, Twitter,
 
 ## How to Add Google Analytics ?
 
-To track a website, you will first need to create property in Google analytics to get unique tracking code. Then google analytics script has to placed in `<head>` section of all html files. Like how I customized SEO tags, I added google analytics script to `index.html` , `post.html` and `tag.html` files in `themes/kartranai`
+To track a website, you will first need to create property in Google analytics to get unique tracking code. Then google analytics script has to placed in `<head>` section of all html files. Like how I customized SEO tags, I added google analytics script to `index.html` , `post.html` and `tag.html` files in `themes/kartranai`. The below screenshot shows the added script code as highlighted.
 
-```html
-<script>
-	//COPY AND INSERT CODE FROM YOUR GOOGLE ANALYTICS ADMIN SETUP.
-</script>
-  ```
+![Google Analytics Script](https://www.dropbox.com/s/ak327ac2j0dohof/KartranaiGAScript.png?dl=0&raw=1) 
 
 Hope this post will help you build your own blog with Notion as CMS. You can find full source of the code in [Github](https://github.com/erajasekar/notablog-starter).
 
