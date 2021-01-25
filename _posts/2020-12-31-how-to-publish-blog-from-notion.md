@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to publish SEO friendly blog from Notion for Free?
-date: 2020-12-31
+date: 2021-01-25
 draft: false
 tags: productivity notionhq notion blog
 comments: true
@@ -183,7 +183,7 @@ Google provides a great tool [Google Search console](https://search.google.com/s
 
 Then after coulpe of weeks, your google indexing report will show up. You can see the pages that are indexed, number of impressions, click and most importantly user's search queries.
 
-Hope this post will help you build your own blog with Notion as CMS. You can find full source of the code in [Github](https://github.com/erajasekar/notablog-starter).
+Hope this post will help you build your own blog with Notion as CMS. You can find full source of the code in [Github](https://github.com/erajasekar/notablog-katranai-thoorum-arivu).
 
 
 
