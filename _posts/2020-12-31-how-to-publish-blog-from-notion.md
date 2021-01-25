@@ -9,12 +9,12 @@ description: I want to publish blog from my Notion content and found a best tool
 analytics: true
 ---
 
-I want to publish blog from my Notion content. I researched many notion hosting solutions and found a best tool. In this post, I will explain why I decided to use notablog for my blog and how you can also publish your blog from Notion for free.
+I want to publish blog from my [Notion](https://www.notion.so/) content. I researched many notion hosting solutions and found a best tool. In this post, I will explain why I decided to use notablog for my blog and how you can also publish your blog from Notion for free.
 
 ## Example Blog for Demo
 
 [katranaithoorumarivu.com](https://katranaithoorumarivu.com/) is the blog I built using notablog and I will use it as example in this post.
-It is created from this [shared notion page](https://www.notion.so/erajasekar/91b64f91c8904a36b63b3691cea91aa6?v=3c062b5462a64f6c85720b544a2b6ecd). Each [notion page](https://www.notion.so/Thirukkural-How-to-control-Anger-e26960d655a44dcc81775f824d7997aa) in table is published as a [blog post](https://katranaithoorumarivu.com/thirukkural-adhigaram-vegulamai.html). Read on to understand how this works.
+It is created from this [shared notion page](https://www.notion.so/erajasekar/91b64f91c8904a36b63b3691cea91aa6?v=3c062b5462a64f6c85720b544a2b6ecd). Each [notion page](https://www.notion.so/Thirukkural-How-to-control-Anger-e26960d655a44dcc81775f824d7997aa) in the table is published as a [blog post](https://katranaithoorumarivu.com/thirukkural-adhigaram-vegulamai.html). Read on to understand how this works.
 
 ## What are the requirements?
 
@@ -25,9 +25,9 @@ Let me describe my requirements so that you will know if you have same needs or 
 	* Should able to prettify cryptic notion urls like *`Thirukkural-How-to-control-Anger-e26960d655a44dcc81775f824d7997aa`* to more readable url *`Thirukkural-How-to-control-Anger`*
 	* Should able to update html metatags so that I can customize how it appears in social media like Facebook, Twitter etc.
 
-* Since Notion doesn't have good backup solution, I don't want blog to use content directly from Notion, instead import the content to hosting site. So If lose content in my Notion, the blog won't be broken.
+* Since Notion doesn't have good backup solution, I don't want blog to use content directly from Notion, instead import the content to hosting site. So If lose content in my Notion, the blog will still work.
 * Should able to use my own custom domain.
-* I should to use Google Analytics for tracking.
+* I should able to use Google Analytics for tracking.
 * I am not looking for a fully automated **paid** product, but a **free low code** tool.
 
 
@@ -171,13 +171,17 @@ The below screen shot shows how the blog I created will look in Google, Twitter,
 
 ## How to Add Google Analytics ?
 
-To track a website, you will first need to create property in Google analytics to get unique tracking code. Then google analytics script has to placed in `<head>` section of all html files. Like how I customized SEO tags, I added google analytics script to `index.html` , `post.html` and `tag.html` files in `themes/kartranai`. The below screenshot shows the added script code as highlighted.
+To track a website, you will first need to create property in Google analytics to get unique tracking code. Then google analytics script has to placed in `<head>` section of all html files. 
+
+Like how I customized SEO tags, I added google analytics script to `index.html` , `post.html` and `tag.html` files in `themes/kartranai`. The below screenshot shows the added script code as highlighted.
 
 ![Google Analytics Script](https://www.dropbox.com/s/ak327ac2j0dohof/KartranaiGAScript.png?dl=0&raw=1) 
 
 ## How checking Google indexing status of your Notion blog ?
 
-Google provides a great tool [Google Search console](https://search.google.com/search-console/about) for website owners to easily check status of google indexing. In Google search console, create a property for your website and use one of the [verification methods](https://support.google.com/webmasters/answer/9008080?hl=en) to confirm you are the owner. Then, your google indexing report will be appear after couple of weeks. You can see the pages that are indexed, number of impressions, click and most importantly user's search queries.
+Google provides a great tool [Google Search console](https://search.google.com/search-console/about) for website owners to easily check status of google indexing. In Google search console, create a property for your website and use one of the [verification methods](https://support.google.com/webmasters/answer/9008080?hl=en) to confirm you are the owner. 
+
+Then after coulpe of weeks, your google indexing report will show up. You can see the pages that are indexed, number of impressions, click and most importantly user's search queries.
 
 Hope this post will help you build your own blog with Notion as CMS. You can find full source of the code in [Github](https://github.com/erajasekar/notablog-starter).
 
