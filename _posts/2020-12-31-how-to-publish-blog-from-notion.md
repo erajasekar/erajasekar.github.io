@@ -5,11 +5,11 @@ date: 2020-12-31
 draft: false
 tags: productivity notionhq notion blog
 comments: true
-description: TODO
+description: I want to publish blog from my Notion content and found a best tool. In this post, I will explain why I decided to use notablog for my blog and how you can also publish your blog from Notion for free.
 analytics: true
 ---
 
-I want to publish blog from my Notion content. I researched many notion hosting solutions and found a best tool. In this post, I will why I decided to use notablog for my blog and how you can also publish your blog from Notion for free.
+I want to publish blog from my Notion content. I researched many notion hosting solutions and found a best tool. In this post, I will explain why I decided to use notablog for my blog and how you can also publish your blog from Notion for free.
 
 ## Example Blog for Demo
 
@@ -174,6 +174,10 @@ The below screen shot shows how the blog I created will look in Google, Twitter,
 To track a website, you will first need to create property in Google analytics to get unique tracking code. Then google analytics script has to placed in `<head>` section of all html files. Like how I customized SEO tags, I added google analytics script to `index.html` , `post.html` and `tag.html` files in `themes/kartranai`. The below screenshot shows the added script code as highlighted.
 
 ![Google Analytics Script](https://www.dropbox.com/s/ak327ac2j0dohof/KartranaiGAScript.png?dl=0&raw=1) 
+
+## How checking Google indexing status of your Notion blog ?
+
+Google provides a great tool [Google Search console](https://search.google.com/search-console/about) for website owners to easily check status of google indexing. In Google search console, create a property for your website and use one of the [verification methods](https://support.google.com/webmasters/answer/9008080?hl=en) to confirm you are the owner. Then, your google indexing report will be appear after couple of weeks. You can see the pages that are indexed, number of impressions, click and most importantly user's search queries.
 
 Hope this post will help you build your own blog with Notion as CMS. You can find full source of the code in [Github](https://github.com/erajasekar/notablog-starter).
 
