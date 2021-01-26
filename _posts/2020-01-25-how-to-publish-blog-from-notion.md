@@ -71,7 +71,7 @@ The step's on the project's [README](https://github.com/dragonman225/notablog) w
 ## How to publish Notion blog to Github pages ?
  
 The blog content is generated to `public` dir, but to use github pages we either have to use special branch `gh-pages` or special folder `docs` in master branch.
-I am using `docs` folder as it is easy to copy around files. 
+I am using `docs` folder as it is easy to copy files around. 
 
 ### Setting up GitHub Pages.
 
@@ -122,11 +122,13 @@ Once I add/update blog content in Notion, I use notablog `generate` command to c
 
 To make a site SEO friendly, HTML meta tags like `<meta property="PROPERTY_NAME" content="VALUE">`  should be added to the `<head>` section. 
 
-Luckily, Notablog already adds most of the required meta tags. The only tag I need to add is `og:image` to provide cover image for social sharing like facebook and twitter.
+Luckily, Notablog already adds most of the required meta tags. The only tag I need to add is `og:image` to provide cover image for social sharing like facebook and twitter. 
+
+Before adding metatags, I want to understand the theme system.
 
 ### Create custom theme in Notablog
 
-Before adding metatags, let's look at the Notablog's directory structure and understand the theme system.
+Let's look at the Notablog's directory structure.
 
 ```
 notablog-starter
@@ -144,8 +146,7 @@ Notablog ships with one theme `pure`. This theme name is configured in `notablog
 
 The `layout` directory contains the template files `index.html` , `post.html` and `tags.html` which are used to generate static html files when  `notablog generate` command is run.
 
-I figured that to customize generated html content these template files should be updated. To easily track the code changes, I thought it's good idea to use my own theme. So
-I created a new theme `kartranai` using steps
+I figured that to customize generated html content these template files should be updated. To easily switch between default theme and my customizations, I created a new theme `kartranai` using steps
 
 * Copy **pure** dir to **kartranai**. `cp -r themes/pure/ themes/kartranai`.
 * Update theme value to `kartranai` in `config.json` file.
@@ -181,7 +182,7 @@ Like how I customized SEO tags, I added google analytics script to `index.html` 
 
 Google provides a great tool [Google Search console](https://search.google.com/search-console/about) for website owners to easily check status of google indexing. In Google search console, create a property for your website and use one of the [verification methods](https://support.google.com/webmasters/answer/9008080?hl=en) to confirm you are the owner. 
 
-Then after coulpe of weeks, your google indexing report will show up. You can see the pages that are indexed, number of impressions, click and most importantly user's search queries.
+Then after coulpe of weeks, your google indexing report will show up. You can see the pages that are indexed, number of impressions, clicks and most importantly user's search queries.
 
 Hope this post will help you build your own blog with Notion as CMS. You can find full source of the code in [Github](https://github.com/erajasekar/notablog-katranai-thoorum-arivu).
 
