@@ -144,8 +144,6 @@ notablog-starter
 
 Notablog ships with one theme `pure`. This theme name is configured in `notablog-starter/config.json` to be used as default.
 
-The `layout` directory contains the template files `index.html` , `post.html` and `tags.html` which are used to generate static html files when  `notablog generate` command is run.
-
 I created a new theme `kartranai` using steps
 
 * Copy **pure** dir to **kartranai**. `cp -r themes/pure/ themes/kartranai`.
@@ -155,7 +153,9 @@ I created a new theme `kartranai` using steps
 
 ### Add SEO metatags.
 
-I figured that to customize generated html content, template files in `layout` dir should be updated. I added following snippet to `index.html` , `post.html` and `tag.html` files in `themes/kartranai/layout` dir to add meta property for `og:image`.
+The `layout` directory contains the template files `index.html` , `post.html` and `tags.html` which are used to generate static html files when  `notablog generate` command is run. I figured that to customize generated html content, template files in `layout` dir should be updated. 
+
+I added following snippet to `index.html` , `post.html` and `tag.html` files in `themes/kartranai/layout` dir to add meta property for `og:image`.
 
 <iframe id="preview-iframe" src="https://doculet.net/doc/42e896d52721faf1946ca9f3387f8a5d" align="middle" width="100%" height="223" allowfullscreen="true" scrolling="no" frameborder="0"></iframe>
 
