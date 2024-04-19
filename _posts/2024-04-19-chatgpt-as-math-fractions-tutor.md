@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ChatGPT as Math Fractions Tutor
-date: 2023-01-28
+date: 2024-04-19
 draft: false
 tags: ChatGPT Math Education
 comments: true
