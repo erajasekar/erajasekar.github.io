@@ -20,7 +20,9 @@ I asked ChatGPT to teach fraction addition. Here is how ChatGPT performed, along
 ## ChatGPT Fraction Lesson
 
 Below is my conversation with ChatGPT. (Note that my thoughts about ChatGPT’s response are highlighted in quotes)
+
 <br>
+
 
 **Me:**
 
@@ -75,11 +77,11 @@ ok got it. so can you give me some problems to practice. If I need help, you can
 
 Sure, here are a few problems for you to practice:
 
->1. 2/5 + 3/7
->2. 1/3 + 1/4
->3. 4/9 + 5/12
->4. 3/5 + 2/7
->5. 5/8 + 3/10
+> 1. 2/5 + 3/7
+> 2. 1/3 + 1/4
+> 3. 4/9 + 5/12
+> 4. 3/5 + 2/7
+> 5. 5/8 + 3/10
 
 Remember, when adding fractions with different denominators, the first step is to find a common denominator. Once you have a common denominator, you can convert the fractions to have the same denominator and then add the numerators. If you have any question or stuck somewhere please let me know, I’ll be happy to help you.
 >  Great! It repeated the instructions and offered to help if I got stuck.
