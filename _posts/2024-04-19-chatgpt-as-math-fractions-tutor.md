@@ -5,24 +5,20 @@ date: 2024-04-19
 draft: false
 tags: ChatGPT Math Education
 comments: true
-description: I’m excited about ChatGPT as everyone else. Can it help students learn math, especially fractions which can be hard for some students?
+description: I am xcited about ChatGPT as everyone else. Can it help students learn math, especially fractions which can be hard for some students?
 I asked ChatGPT to teach fraction addition. Here is how ChatGPT performed, along with my observations.
 analytics: true
 ---
-
-**Can AI Help Students with Math Learning?**
 
 I’m excited about ChatGPT as everyone else. Can it help students learn math, especially fractions which can be hard for some students?
 
 I asked ChatGPT to teach fraction addition. Here is how ChatGPT performed, along with my observations.
 
+<br>
 
 ## ChatGPT Fraction Lesson
 
 Below is my conversation with ChatGPT. (Note that my thoughts about ChatGPT’s response are highlighted in quotes)
-
-<br>
-
 
 **Me:**
 
