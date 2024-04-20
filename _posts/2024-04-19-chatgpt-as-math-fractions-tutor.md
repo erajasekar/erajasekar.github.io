@@ -10,15 +10,17 @@ I asked ChatGPT to teach fraction addition. Here is how ChatGPT performed, along
 analytics: true
 ---
 
-### Can AI Help Students with Math Learning?
+**Can AI Help Students with Math Learning?**
 
 I’m excited about ChatGPT as everyone else. Can it help students learn math, especially fractions which can be hard for some students?
 
 I asked ChatGPT to teach fraction addition. Here is how ChatGPT performed, along with my observations.
 
-### ChatGPT Fraction Lesson
+
+## ChatGPT Fraction Lesson
 
 Below is my conversation with ChatGPT. (Note that my thoughts about ChatGPT’s response are highlighted in quotes)
+<br>
 
 **Me:**
 
@@ -73,15 +75,11 @@ ok got it. so can you give me some problems to practice. If I need help, you can
 
 Sure, here are a few problems for you to practice:
 
- 1. 2/5 + 3/7
-
- 2. 1/3 + 1/4
-
- 3. 4/9 + 5/12
-
- 4. 3/5 + 2/7
-
- 5. 5/8 + 3/10
+>1. 2/5 + 3/7
+>2. 1/3 + 1/4
+>3. 4/9 + 5/12
+>4. 3/5 + 2/7
+>5. 5/8 + 3/10
 
 Remember, when adding fractions with different denominators, the first step is to find a common denominator. Once you have a common denominator, you can convert the fractions to have the same denominator and then add the numerators. If you have any question or stuck somewhere please let me know, I’ll be happy to help you.
 >  Great! It repeated the instructions and offered to help if I got stuck.
@@ -152,7 +150,7 @@ ok, got it. thank you
 You’re welcome! I’m glad I could help. Remember that practice is key to mastering addition of fractions with different denominators. Keep working on similar problems and if you have any questions or need help, don’t hesitate to ask. Good luck with your math studies!
 >  Wow! That’s a fantastic concluding message. Those are excellent suggestions for improving the Maths skills.
 
-### Final thoughts
+## Final thoughts
 
 Overall, I’m really impressed with how it understood the intent and taught maths. We’ve never seen a tool like this before.
 
@@ -160,8 +158,5 @@ I don’t think it’s good enough to teach students who have no prior understan
 
 I’m sure it will only get better with more model training.
 
-If you would like to watch a video of this conversation with ChatGPT, take a look at this video.
-
- <iframe src="https://medium.com/media/ebede54c79b8a95b0a87549ff23654da" frameborder=0></iframe>
 
 *Thanks for reading. If you enjoyed this post, Please clap so that it will reach more audience. Also, share your thoughts about ChatGPT in the comments.*
